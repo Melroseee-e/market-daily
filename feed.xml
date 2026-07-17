@@ -5,7 +5,91 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,逐条报道 · 分析 · Key Takeaway(agy/Opus 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 17 Jul 2026 10:30:05 +0800</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 11:04:55 +0800</lastBuildDate>
+<item>
+<title>[A] 黄仁勋否认芯片生产延误</title>
+<link>https://melroseee-e.github.io/market-daily/#s3a97494b1aa8</link>
+<guid isPermaLink="false">s3a97494b1aa8</guid>
+<pubDate>Fri, 17 Jul 2026 11:04:55 +0800</pubDate>
+<description>依托新系统如期交付的确定性，加仓英伟达及核心硬件代工厂，买入对应日历期权博弈财报超预期。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：7月16日，针对市场有关英伟达新一代AI加速器系统Vera Rubin生产延误的传闻，其首席执行官黄仁勋正式予以否认。他明确表示该系统正按计划进行交付。</p>
+<p><strong>分析</strong>：创始人出面澄清有效打消了资金对算力硬件迭代停滞的疑虑。新一代系统如期推进→下游科技巨头资本开支得以顺利落地→算力产业链业绩确定性增强。这直接稳固了芯片板块的估值锚，也为AI应用端的扩容提供了底层硬件支撑。</p>
+<p><strong>Key Takeaway</strong>：依托新系统如期交付的确定性，加仓英伟达及核心硬件代工厂，买入对应日历期权博弈财报超预期。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260716011552060800" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美联储库克谈通胀政策</title>
+<link>https://melroseee-e.github.io/market-daily/#s7e2b1499fc8a</link>
+<guid isPermaLink="false">s7e2b1499fc8a</guid>
+<pubDate>Fri, 17 Jul 2026 11:04:55 +0800</pubDate>
+<description>逢高做空长端美债，买入能源与大宗商品对冲地缘风险，压降未有利润支撑的AI概念股仓位。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-央行 · 宏观-地缘 · 美股-AI算力 ｜ <strong>重要度</strong>：A ｜ 聚合 3 条快讯</p>
+<p><strong>报道</strong>：美联储理事库克7月16日表示当前等待通胀放缓是明智之举，但警告关税、中东冲突及人工智能投资可能导致价格压力持续。她明确表态，若通胀未能很快回落，已准备好采取行动。</p>
+<p><strong>分析</strong>：决策层正在锚定结构性通胀的新核心变量。关税与中东地缘推高供应链成本，AI投资则拉动相关需求，双向夹击限制了通胀下行空间。若上述风险实质化，美联储被迫「采取行动」将迅速抽干流动性预期，直接推升美债收益率。</p>
+<p><strong>Key Takeaway</strong>：逢高做空长端美债，买入能源与大宗商品对冲地缘风险，压降未有利润支撑的AI概念股仓位。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260716005829801800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260716005835049800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260716010655011800" rel="noopener noreferrer">[3]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 特朗普批评纽约数据政策</title>
+<link>https://melroseee-e.github.io/market-daily/#s317344874d84</link>
+<guid isPermaLink="false">s317344874d84</guid>
+<pubDate>Fri, 17 Jul 2026 11:04:55 +0800</pubDate>
+<description>规避在纽约州有重资产敞口的算力基建标的，逢低做多数据中心向政策宽松州迁移的设施供应商。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-AI算力 · crypto-挖矿 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：纽约州州长叫停了州内所有正在建设或计划建设的数据中心项目。美国总统特朗普就此批评纽约州做出了糟糕的决定，并呼吁其立即改变政策。</p>
+<p><strong>分析</strong>：地方政府强行阻断基建规划暴露出算力扩张面临的行政监管阻力。算力建设停滞将直接削弱当地企业的算力获取能力。特朗普的介入将州级监管冲突升级为政治博弈议题，后续或引发其他州在基建政策上的分化与产业外移。</p>
+<p><strong>Key Takeaway</strong>：规避在纽约州有重资产敞口的算力基建标的，逢低做多数据中心向政策宽松州迁移的设施供应商。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260716004229542800" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 中东多地突发军事摩擦</title>
+<link>https://melroseee-e.github.io/market-daily/#s7dc851c7c477</link>
+<guid isPermaLink="false">s7dc851c7c477</guid>
+<pubDate>Fri, 17 Jul 2026 11:04:55 +0800</pubDate>
+<description>买入布伦特原油近月看涨期权及实物黄金，直接对冲局势骤燃带来的大宗商品脉冲行情。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：据伊朗Fars News报道，驻有美军的科威特布比延岛和弗吉尼亚军事营地突发巨大爆炸声。同时，伊朗军方在阿巴斯港摧毁了一架美国卢卡斯无人机。</p>
+<p><strong>分析</strong>：针对美军驻地与军用装备的双重打击，显示中东武装博弈正逼近直接对抗的红线。原油供给中断的担忧会迅速主导市场情绪并大幅推升地缘风险溢价，资金将加速撤离高风险资产并涌入黄金等传统避险通道。</p>
+<p><strong>Key Takeaway</strong>：买入布伦特原油近月看涨期权及实物黄金，直接对冲局势骤燃带来的大宗商品脉冲行情。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260716001812849800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260716010443458800" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] SpaceX跌破发行价</title>
+<link>https://melroseee-e.github.io/market-daily/#s7a64e08da912</link>
+<guid isPermaLink="false">s7a64e08da912</guid>
+<pubDate>Fri, 17 Jul 2026 11:04:55 +0800</pubDate>
+<description>清仓组合内尚未具备正向现金流的太空概念股，防范破发引发的同赛道标的连环踩踏。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-航天 · 美股-IPO ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：商业航天企业SpaceX（SPCX.O）股价在二级市场遭遇重挫。该股历史首次跌破135美元的IPO发行价格。</p>
+<p><strong>分析</strong>：跌破生命线意味着在IPO阶段介入的资金全线浮亏，极易触发机构技术性止损盘。作为赛道风向标，其估值体系的松动不仅恶化自身再融资环境，更会产生负面外溢效应，拖累其他高估值、重资产科技标的的流动性溢价。</p>
+<p><strong>Key Takeaway</strong>：清仓组合内尚未具备正向现金流的太空概念股，防范破发引发的同赛道标的连环踩踏。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260716000641738800" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美联储沃什谈压力测试</title>
+<link>https://melroseee-e.github.io/market-daily/#s91daef704274</link>
+<guid isPermaLink="false">s91daef704274</guid>
+<pubDate>Fri, 17 Jul 2026 11:04:55 +0800</pubDate>
+<description>逢低布局资本充足率高的头部商业银行股，博弈测试标准调整带来的分红提升预期。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-央行 · 美股-券商金融 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：美联储主席沃什公开释出重要政策信号。他明确表示，愿意对现行的银行压力测试制度进行改革。</p>
+<p><strong>分析</strong>：压力测试直接决定大型银行需持有的核心资本金规模。改革意向若指向放松，将大幅降低金融机构的合规成本，释放出的超额资本可直接转化为更激进的信贷投放，或用于扩大股票回购与分红规模，进而抬升银行板块的ROE中枢。</p>
+<p><strong>Key Takeaway</strong>：逢低布局资本充足率高的头部商业银行股，博弈测试标准调整带来的分红提升预期。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260716000437022800" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
 <item>
 <title>[S] 美军对伊朗本土多地空袭</title>
 <link>https://melroseee-e.github.io/market-daily/#s0a4e56631f5b</link>
