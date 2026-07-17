@@ -1,347 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
-<title>NewsWire 市场日报</title>
+<title>NewsWire 市场要闻</title>
 <link>https://melroseee-e.github.io/market-daily/</link>
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
-<description>A股 · 美股 · 港股 · Crypto 每日跨市场日报(引擎自动采集,零编造校验)</description>
+<description>A股 · 美股 · 港股 · Crypto 重要市场新闻,逐条报道 · 分析 · Key Takeaway(agy/Opus 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 16 Jul 2026 11:11:21 +0800</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 10:30:05 +0800</lastBuildDate>
 <item>
-<title>美伊冲突升级（市场日报 2026-07-15）</title>
-<link>https://melroseee-e.github.io/market-daily/2026-07-15.html</link>
-<guid isPermaLink="false">newswire-2026-07-15</guid>
-<pubDate>Wed, 15 Jul 2026 08:30:00 +0800</pubDate>
-<description>美伊冲突升级（聚合 52 条） / 芯片AI监管（聚合 2 条） / 英国数字债 / 沃什谈通胀（聚合 9 条） / 伊拉克石油（聚合 4 条） / 涉伊俄制裁案（聚合 3 条） / 俄能源遇袭油涨（聚合 3 条） / 要求以撤军（聚合 2 条）</description>
+<title>[S] 美军对伊朗本土多地空袭</title>
+<link>https://melroseee-e.github.io/market-daily/#s0a4e56631f5b</link>
+<guid isPermaLink="false">s0a4e56631f5b</guid>
+<pubDate>Fri, 17 Jul 2026 10:29:14 +0800</pubDate>
+<description>做多VIX指数对冲宏观不确定性，买入原油期货防范供应链阻断导致的脉冲式飙升。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<h1>市场日报 2026-07-15</h1>
-<p><strong>网页版</strong>：<a href="https://melroseee-e.github.io/market-daily/2026-07-15.html" rel="noopener noreferrer">打开精排页</a> ｜ <strong>数据源</strong>：金十 · investing · Market Trend</p>
-<h2>概览</h2>
-<h3>宏观与地缘</h3><ul>
-<li>美伊冲突升级（聚合 52 条） <a href="https://flash.jin10.com/detail/20260715000846484800" rel="noopener noreferrer">↗</a> <code>#1</code></li>
-<li>芯片AI监管（聚合 2 条） <a href="https://flash.jin10.com/detail/20260715002426858800" rel="noopener noreferrer">↗</a> <code>#2</code></li>
-<li>英国数字债 <a href="https://flash.jin10.com/detail/20260715041040701800" rel="noopener noreferrer">↗</a> <code>#3</code></li>
-<li>沃什谈通胀（聚合 9 条） <a href="https://flash.jin10.com/detail/20260715000026606800" rel="noopener noreferrer">↗</a> <code>#4</code></li>
-<li>伊拉克石油（聚合 4 条） <a href="https://flash.jin10.com/detail/20260715000121336800" rel="noopener noreferrer">↗</a> <code>#5</code></li>
-<li>涉伊俄制裁案（聚合 3 条） <a href="https://flash.jin10.com/detail/20260715002450815800" rel="noopener noreferrer">↗</a> <code>#6</code></li>
-<li>俄能源遇袭油涨（聚合 3 条） <a href="https://flash.jin10.com/detail/20260715022251876800" rel="noopener noreferrer">↗</a> <code>#7</code></li>
-<li>要求以撤军（聚合 2 条） <a href="https://flash.jin10.com/detail/20260715010408240800" rel="noopener noreferrer">↗</a> <code>#8</code></li>
-<li>美国制裁伊朗（聚合 2 条） <a href="https://flash.jin10.com/detail/20260715035554444800" rel="noopener noreferrer">↗</a> <code>#9</code></li>
-<li>英国央行加息 <a href="https://flash.jin10.com/detail/20260715001044969800" rel="noopener noreferrer">↗</a> <code>#10</code></li>
-<li>美军撤伊 <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=10503328866962255514&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D10503328866962255514%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">↗</a> <code>#11</code></li>
-<li>古尔斯比CPI <a href="https://flash.jin10.com/detail/20260715012506978800" rel="noopener noreferrer">↗</a> <code>#12</code></li>
-<li>美国资本流入 <a href="https://flash.jin10.com/detail/20260715040002324800" rel="noopener noreferrer">↗</a> <code>#13</code></li>
-<li>日本减持美债 <a href="https://flash.jin10.com/detail/20260715040723672800" rel="noopener noreferrer">↗</a> <code>#14</code></li>
-<li>经济金融发布会 <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7954715615790238057&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D7954715615790238057%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">↗</a> <code>#15</code></li>
-</ul>
-<h3>股票·行业</h3><ul>
-<li>Lucid传闻（聚合 3 条） <a href="https://flash.jin10.com/detail/20260715014414235800" rel="noopener noreferrer">↗</a> <code>#16</code></li>
-<li>海力士溢价（聚合 2 条） <a href="https://flash.jin10.com/detail/20260715020620068800" rel="noopener noreferrer">↗</a> <code>#17</code></li>
-<li>OpenAI硬件（聚合 2 条） <a href="https://flash.jin10.com/detail/20260715044636741800" rel="noopener noreferrer">↗</a> <code>#18</code></li>
-<li>AI公司上市 <a href="https://flash.jin10.com/detail/20260715001657490800" rel="noopener noreferrer">↗</a> <code>#19</code></li>
-<li>苹果AI模型 <a href="https://flash.jin10.com/detail/20260715012440056800" rel="noopener noreferrer">↗</a> <code>#20</code></li>
-<li>OpenAI苹果诉讼 <a href="https://flash.jin10.com/detail/20260715033549266800" rel="noopener noreferrer">↗</a> <code>#21</code></li>
-<li>编剧工会诉派拉蒙 <a href="https://flash.jin10.com/detail/20260715034425151800" rel="noopener noreferrer">↗</a> <code>#22</code></li>
-<li>金鹰AI倡议 <a href="https://flash.jin10.com/detail/20260715065824346800" rel="noopener noreferrer">↗</a> <code>#23</code></li>
-</ul>
-<h2>详情</h2>
-<h3 id="n1">#1 美伊冲突升级（聚合 52 条）</h3>
-<p><strong>标签</strong>：宏观-地缘 · 宏观-大宗 · 宏观-外汇 · S</p>
-<p><strong>报道</strong>：特朗普称任何人都不应对霍尔木兹海峡收费，不喜欢使用费概念，并称伊朗“先开火”。伊朗官方媒体称安迪梅什克市传出爆炸声，基什岛供水供电设施附近有射弹爆炸；巴林拉响防空警报，科威特称正应对空中袭击。英国财政部预计冲突若进一步升级，油价将达150美元/桶。</p>
-<p><strong>分析</strong>：核心变量从外交表态转向航道与周边空袭风险。霍尔木兹收费争议、导弹和无人机指向科威特与巴林、基什岛设施受冲击，共同抬高能源运输风险；150美元/桶预估把冲突升级的成本直接映射到油价尾部。</p>
-<p><strong>Key Takeaway</strong>：原油多头逻辑转为事件驱动，150美元是冲突升级定价锚。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715000846484800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715000921967800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715001051756800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715001124139800" rel="noopener noreferrer">[4]</a> <a href="https://flash.jin10.com/detail/20260715001347013800" rel="noopener noreferrer">[5]</a> <a href="https://flash.jin10.com/detail/20260715001447675800" rel="noopener noreferrer">[6]</a></p>
-<h3 id="n2">#2 芯片AI监管（聚合 2 条）</h3>
-<p><strong>标签</strong>：美股-半导体 · 美股-AI算力 · crypto-监管 · S</p>
-<p><strong>报道</strong>：美国商务部负责出口管制的官员杰弗里·凯斯勒在听证会上表示，芯片和AI监管措施即将出台。他还称，特朗普政府不打算取代拜登政府设立的相关框架。</p>
-<p><strong>分析</strong>：监管焦点落在芯片和AI，且由出口管制官员释放，意味着政策变量直接影响受管制技术与供应链预期。不取代既有框架，暗示变化更可能是在原有规则上加码或调整，而非完全重写。</p>
-<p><strong>Key Takeaway</strong>：芯片AI标的短线交易重点在新规边际强弱。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715002426858800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715011025049800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n3">#3 英国数字债</h3>
-<p><strong>标签</strong>：宏观-美债 · crypto-RWA · S</p>
-<p><strong>报道</strong>：英国财政大臣里夫斯表示，英国将在2027年初发行首个数字主权债券。</p>
-<p><strong>分析</strong>：数字主权债券把主权融资与数字化发行结合，时间点明确落在2027年初。对市场而言，意义不在即时供给冲击，而在英国将数字债纳入主权债务工具箱的政策信号。</p>
-<p><strong>Key Takeaway</strong>：英国数字债催化偏中长期，利好债券数字化叙事。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715041040701800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n4">#4 沃什谈通胀（聚合 9 条）</h3>
-<p><strong>标签</strong>：宏观-央行 · 宏观-数据 · 宏观-美债 · A</p>
-<p><strong>报道</strong>：美联储主席沃什称，工作是确保价格变动不会扩大为通货膨胀，并表示今天CPI好于预期也不应只挑有利数据。他称将讨论实现价格稳定的工具部署程度和时机，并需要新指标衡量潜在通胀。</p>
-<p><strong>分析</strong>：沃什把好于预期的CPI放回高通胀框架中评估，削弱单月数据对政策转向的解释力。新指标、内部讨论和工具时机并列，说明通胀判断仍依赖更完整方案，而非单一CPI读数。</p>
-<p><strong>Key Takeaway</strong>：利率交易不宜只押CPI利好，通胀框架仍偏审慎。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715000026606800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715001457542800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715002557397800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715002743816800" rel="noopener noreferrer">[4]</a> <a href="https://flash.jin10.com/detail/20260715003528589800" rel="noopener noreferrer">[5]</a> <a href="https://flash.jin10.com/detail/20260715005529659800" rel="noopener noreferrer">[6]</a></p>
-<h3 id="n5">#5 伊拉克石油（聚合 4 条）</h3>
-<p><strong>标签</strong>：宏观-地缘 · 宏观-大宗 · A</p>
-<p><strong>报道</strong>：特朗普称本周或下周将宣布伊拉克石油合作伙伴关系，并表示美国将与伊拉克达成大量交易、从伊拉克开采大量石油。美国支持重启伊拉克-叙利亚输油管道，国务院官员称美国企业预计将在重建中发挥重要作用。</p>
-<p><strong>分析</strong>：伊拉克石油合作与伊拉克-叙利亚管道重启被放在同一政策方向下：增加伊拉克石油开发，并通过避开霍尔木兹海峡削弱伊朗的海峡影响力。对油市而言，这是供应路径重塑而非单纯增产表态。</p>
-<p><strong>Key Takeaway</strong>：伊拉克石油主题博弈点在本周或下周公告。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715000121336800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715010017787800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715031604115800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715043914073800" rel="noopener noreferrer">[4]</a></p>
-<h3 id="n6">#6 涉伊俄制裁案（聚合 3 条）</h3>
-<p><strong>标签</strong>：宏观-地缘 · 宏观-大宗 · A</p>
-<p><strong>报道</strong>：特朗普称，正在考虑将伊朗和黎巴嫩真主党纳入俄罗斯制裁法案。更新后的法案把俄罗斯石油和天然气买家的关税上限调至最高100%，此前拟实施统一500%关税，并允许特朗普在符合美国国家利益时豁免制裁。</p>
-<p><strong>分析</strong>：制裁对象若扩展至伊朗和真主党，法案的地缘覆盖面扩大；但对俄油气买家的关税从统一500%改为最高100%，边际压力下降。豁免条款使最终约束强度取决于特朗普的国家利益认定。</p>
-<p><strong>Key Takeaway</strong>：俄油气买家：100%上限弱于500%预案，交易重心转向豁免口径</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715002450815800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715030217353800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715030333963800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n7">#7 俄能源遇袭油涨（聚合 3 条）</h3>
-<p><strong>标签</strong>：宏观-大宗 · 宏观-地缘 · A</p>
-<p><strong>报道</strong>：乌克兰袭击俄罗斯能源设施引发供应担忧，油价期货继续走高，美国柴油期货上涨5%。布伦特原油期货结算价报84.73美元/桶，上涨1.43美元，涨幅1.72%；纽约8月轻质原油收于79.34美元/桶，涨1.20美元，涨幅1.54%。</p>
-<p><strong>分析</strong>：能源设施遇袭直接指向供应端扰动，柴油5%的涨幅显示成品油端反应更急。布伦特84.73美元和WTI 79.34美元同步上行，说明市场把俄罗斯能源风险重新计入原油期限价格。</p>
-<p><strong>Key Takeaway</strong>：布伦特84.73美元上方，供应扰动仍利多柴油相对原油</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715022251876800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715025231352800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715052602799800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n8">#8 要求以撤军（聚合 2 条）</h3>
-<p><strong>标签</strong>：宏观-地缘 · 宏观-大宗 · A</p>
-<p><strong>报道</strong>：据Axios援引美以官员报道，特朗普在与内塔尼亚胡通话时要求以军开始从叙利亚重新部署兵力，并敦促以方从黎巴嫩撤军。相关要求同时涉及叙利亚和黎巴嫩两个方向。</p>
-<p><strong>分析</strong>：这是一项来自美国总统对以色列总理的直接军事部署要求，核心变量不是市场价格，而是以军在叙利亚、黎巴嫩的实际撤出节奏。若重新部署启动，地区风险定价的焦点会从表态转向执行。</p>
-<p><strong>Key Takeaway</strong>：中东风险资产：叙利亚重新部署比口头表态更具催化</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715010408240800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715010957773800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n9">#9 美国制裁伊朗（聚合 2 条）</h3>
-<p><strong>标签</strong>：宏观-地缘 · crypto-监管 · A</p>
-<p><strong>报道</strong>：美国财政部发布涉及伊朗的通用许可证，同时更新制裁名单，新增10名个人、20余家企业及多艘船舶，并更新伊朗央行制裁信息。美国财长贝森特称，OFAC制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。</p>
-<p><strong>分析</strong>：此次制裁同时覆盖个人、企业、船舶和与伊朗央行相关的钱包，执行对象从传统实体延伸到资金载体。超过1.3亿美元被冻结，说明制裁已落到可量化资金层面。</p>
-<p><strong>Key Takeaway</strong>：伊朗相关钱包与船舶链条，1.3亿美元冻结构成硬约束</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715035554444800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715064945051800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n10">#10 英国央行加息</h3>
-<p><strong>标签</strong>：宏观-央行 · A</p>
-<p><strong>报道</strong>：英国财政部预计，英国央行将在2026年至少加息一次。</p>
-<p><strong>分析</strong>：“至少加息一次”的表述把2026年英国利率路径推向更紧方向。对英镑和英国利率资产而言，关键变量是市场是否已充分计入一次以上加息。</p>
-<p><strong>Key Takeaway</strong>：英国利率资产：2026至少一次加息利空久期，利多英镑相对定价</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715001044969800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n11">#11 美军撤伊</h3>
-<p><strong>标签</strong>：宏观-地缘 · 宏观-大宗 · A</p>
-<p><strong>报道</strong>：伊拉克总理扎伊迪当地时间14日与美国总统特朗普在白宫会晤时表示，美军须在今年9月30日前撤出伊拉克。</p>
-<p><strong>分析</strong>：9月30日把撤军议题从原则表态变成明确期限，影响集中在美军驻伊安排及美伊、伊拉克国内政治博弈的节奏上。</p>
-<p><strong>Key Takeaway</strong>：9月30日前，伊拉克撤军进展是事件交易核心催化。</p>
-<p><strong>来源</strong>：<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=10503328866962255514&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D10503328866962255514%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n12">#12 古尔斯比CPI</h3>
-<p><strong>标签</strong>：宏观-数据 · 宏观-央行 · A</p>
-<p><strong>报道</strong>：美联储古尔斯比表示，6月CPI通胀数据温和得出人意料。</p>
-<p><strong>分析</strong>：官员将6月CPI定性为“温和”且超预期，意味着该数据在美联储通胀判断中的边际权重上升，市场会围绕后续政策口径重新定价。</p>
-<p><strong>Key Takeaway</strong>：美元利率交易更偏向围绕6月CPI口径做事件博弈。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715012506978800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n13">#13 美国资本流入</h3>
-<p><strong>标签</strong>：宏观-数据 · 宏观-美债 · A</p>
-<p><strong>报道</strong>：美国5月长期资本净流入2327亿美元，前值由1031亿美元修正为1048亿美元。</p>
-<p><strong>分析</strong>：2327亿美元显著高于修正后的1048亿美元，说明5月长期资本流入动能增强；对美元资产需求的判断，短期会更多依赖这一跨月改善幅度。</p>
-<p><strong>Key Takeaway</strong>：2327亿美元读数强化美元资产相对吸引力叙事。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715040002324800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n14">#14 日本减持美债</h3>
-<p><strong>标签</strong>：宏观-美债 · 宏观-外汇 · A</p>
-<p><strong>报道</strong>：美国财政部数据显示，日本5月持有美国国债1.143万亿美元，低于4月的1.210万亿美元；英国5月持有9490亿美元，高于4月的9380亿美元。</p>
-<p><strong>分析</strong>：日本单月持仓下降670亿美元，而英国增加110亿美元，显示主要海外持有人对美债配置方向分化；日本减持规模是本条数据的核心变量。</p>
-<p><strong>Key Takeaway</strong>：美债海外持仓分化中，日本670亿美元减持更具扰动性。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715040723672800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n15">#15 经济金融发布会</h3>
-<p><strong>标签</strong>：宏观-数据 · A股-政策 · A</p>
-<p><strong>报道</strong>：国务院新闻办公室将于2026年7月15日星期三上午10时举行新闻发布会，请国家统计局副局长毛盛勇介绍2026年上半年国民经济情况。当天还将举行事关金融数据的发布会。</p>
-<p><strong>分析</strong>：上半年国民经济与金融数据同日发布，宏观基本面和金融条件会被同时校准；A股、人民币资产的短线定价锚将集中到这两场发布会披露的信息。</p>
-<p><strong>Key Takeaway</strong>：7月15日宏观与金融数据同日落地，适合做指数级事件定价。</p>
-<p><strong>来源</strong>：<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7954715615790238057&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D7954715615790238057%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n16">#16 Lucid传闻（聚合 3 条）</h3>
-<p><strong>标签</strong>：美股-新能源车 · 美股-科技巨头 · A</p>
-<p><strong>报道</strong>：Lucid Group(LCID.O)传出正评估私有化或第11章破产保护，股价一度暴跌49%。公司称报道不实，流动性足以支持运营直到明年，AlixPartners未向管理层或董事会建议破产；另有收盘显示LCID跌16%、IBM跌25%。</p>
-<p><strong>分析</strong>：LCID的定价焦点从电动车经营预期转向残余股权价值。破产传闻会直接压低普通股估值，公司否认后，市场核心变量变成“流动性可撑到明年”这一时间窗口。</p>
-<p><strong>Key Takeaway</strong>：LCID只适合围绕破产澄清做事件博弈。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715014414235800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715021149394800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715041340789800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n17">#17 海力士溢价（聚合 2 条）</h3>
-<p><strong>标签</strong>：美股-半导体 · 美股-AI算力 · 美股-科技巨头 · A</p>
-<p><strong>报道</strong>：SK海力士ADR上市仅三天后，较韩国普通股溢价已接近50%。周二ADR盘中最高涨23%，美股收盘海力士涨超27%；道指涨0.02%，标普500涨0.38%，纳指涨0.9%，闪迪和美光约涨5%。</p>
-<p><strong>分析</strong>：接近50%的ADR溢价显示美股资金愿为海力士敞口支付明显通道溢价。与美光、闪迪约5%的涨幅相比，海力士ADR更像供需和上市初期流动性驱动，而不只是板块同步上涨。</p>
-<p><strong>Key Takeaway</strong>：海力士ADR溢价接近50%，相对价值优先于追涨。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715020620068800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715040252856800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n18">#18 OpenAI硬件（聚合 2 条）</h3>
-<p><strong>标签</strong>：美股-AI算力 · 美股-科技巨头 · A</p>
-<p><strong>报道</strong>：市场消息称，OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。知情人士称，该产品可移动、无屏幕，被定位为AI时代的新型家庭电脑，最快今年发布。</p>
-<p><strong>分析</strong>：无屏智能音箱把AI入口从应用界面推向家庭语音场景，也触及苹果的消费硬件舒适区。若“AI陪伴助手”成立，竞争点会从模型能力延伸到终端形态和家庭使用频次。</p>
-<p><strong>Key Takeaway</strong>：AI硬件主线从模型公司估值外溢到消费终端。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715044636741800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715050136121800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n19">#19 AI公司上市</h3>
-<p><strong>标签</strong>：美股-AI算力 · 美股-IPO · A</p>
-<p><strong>报道</strong>：高盛CEO所罗门表示，对于OpenAI和Anthropic是否会在今年上市，他没有太多可说的。</p>
-<p><strong>分析</strong>：这句话没有确认上市时间表，也没有给出承销、估值或申报信息。对二级市场而言，OpenAI、Anthropic今年上市预期缺少来自高盛CEO表态的增量支撑。</p>
-<p><strong>Key Takeaway</strong>：AI IPO预期不宜用所罗门表态定价。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715001657490800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n20">#20 苹果AI模型</h3>
-<p><strong>标签</strong>：美股-科技巨头 · 美股-AI算力 · A</p>
-<p><strong>报道</strong>：据CNBC报道，苹果正与AI初创公司PrismML进行初步接触，并评估其AI模型压缩技术。苹果希望让大型AI模型直接运行于iPhone。</p>
-<p><strong>分析</strong>：模型压缩若用于iPhone，核心是把大模型能力从云端调用转向端侧运行。对苹果而言，PrismML相关技术评估指向设备本地AI能力，而不是单纯增加外部AI服务入口。</p>
-<p><strong>Key Takeaway</strong>：苹果AI催化更偏端侧模型压缩与iPhone落地。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715012440056800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n21">#21 OpenAI苹果诉讼</h3>
-<p><strong>标签</strong>：美股-科技巨头 · 美股-AI算力 · A</p>
-<p><strong>报道</strong>：OpenAI回应苹果诉讼称，公司严肃对待这些指控。该回应直接针对苹果诉讼本身，未进一步披露更多处理细节。</p>
-<p><strong>分析</strong>：事件核心在于诉讼指控已进入被告回应阶段。OpenAI选择强调“严肃对待”，短期信息增量有限，定价焦点仍落在后续法律进展与指控内容。</p>
-<p><strong>Key Takeaway</strong>：OpenAI相关预期不宜因单句回应提前定性。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715033549266800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n22">#22 编剧工会诉派拉蒙</h3>
-<p><strong>标签</strong>：美股-科技巨头 · A</p>
-<p><strong>报道</strong>：法院文件显示，美国编剧工会已起诉，寻求阻止派拉蒙收购华纳兄弟探索公司WBD.O。该诉讼直接指向这笔拟议收购交易。</p>
-<p><strong>分析</strong>：编剧工会起诉把交易推进从商业谈判拉入司法程序。对WBD.O而言，收购预期的兑现节奏与不确定性，成为价格博弈的主要变量。</p>
-<p><strong>Key Takeaway</strong>：WBD.O交易溢价逻辑受诉讼约束。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715034425151800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n23">#23 金鹰AI倡议</h3>
-<p><strong>标签</strong>：美股-AI算力 · 美股-科技巨头 · A</p>
-<p><strong>报道</strong>：金十数据7月15日讯，声明显示，美国白宫启动网络安全“金鹰”AI倡议。该平台旨在协调网络安全漏洞应对，以简化流程并推进人工智能创新。</p>
-<p><strong>分析</strong>：“金鹰”把漏洞应对协调与AI创新放在同一平台，重点不是单一产品发布，而是流程整合。政策层面的协调机制若推进，网络安全响应效率将成为核心变量。</p>
-<p><strong>Key Takeaway</strong>：网络安全AI催化偏政策端与漏洞响应链条。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715065824346800" rel="noopener noreferrer">[1]</a></p>
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 · 宏观-美债 ｜ <strong>重要度</strong>：S ｜ 聚合 17 条快讯</p>
+<p><strong>报道</strong>：美军周二对伊朗本土军事目标及港口发动数小时追加空袭，旨在削弱其封锁霍尔木兹海峡的能力。打击波及胡齐斯坦省多地以及基什岛水电设施、格什姆岛和班达尔阿巴斯周边区域。</p>
+<p><strong>分析</strong>：美军直接下场轰炸伊朗南部能源基建周边与海上节点，标志着中东地缘对抗发生质变。扼守全球原油动脉的霍尔木兹海峡面临直接军事封锁风险，将导致全球能源供应链面临剧烈重估。</p>
+<p><strong>Key Takeaway</strong>：做多VIX指数对冲宏观不确定性，买入原油期货防范供应链阻断导致的脉冲式飙升。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715001347013800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715003916670800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715020245338800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715022456719800" rel="noopener noreferrer">[4]</a> <a href="https://flash.jin10.com/detail/20260715024025097800" rel="noopener noreferrer">[5]</a> <a href="https://flash.jin10.com/detail/20260715031033960800" rel="noopener noreferrer">[6]</a> <a href="https://flash.jin10.com/detail/20260715032420134800" rel="noopener noreferrer">[7]</a> <a href="https://flash.jin10.com/detail/20260715033059498800" rel="noopener noreferrer">[8]</a> <a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;item_id=17118839811831546048&amp;channelId=1119" rel="noopener noreferrer">[9]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
-<title>新西兰联储如期加息（市场日报 2026-07-08）</title>
-<link>https://melroseee-e.github.io/market-daily/2026-07-08.html</link>
-<guid isPermaLink="false">newswire-2026-07-08</guid>
-<pubDate>Wed, 08 Jul 2026 08:30:00 +0800</pubDate>
-<description>新西兰联储如期加息25BP / 美伊局势推升霍尔木兹风险 / 中国央行连续第20个月增持黄金 / 俄乌冲突24小时局势延续 / 机构关注日元、美元与黄金走势 / 美股三大指数收跌，芯片股下挫 / 亚马逊完成大额美元债发行 / 微软提价并推进AI自主化</description>
+<title>[S] 伊朗袭击周边海湾多国</title>
+<link>https://melroseee-e.github.io/market-daily/#s862d0ed58d23</link>
+<guid isPermaLink="false">s862d0ed58d23</guid>
+<pubDate>Fri, 17 Jul 2026 10:29:14 +0800</pubDate>
+<description>买入布伦特原油近月看涨期权博弈地缘溢价飙升，做多能源与黄金等避险资产。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<h1>市场日报 2026-07-08</h1>
-<p><strong>网页版</strong>：<a href="https://melroseee-e.github.io/market-daily/2026-07-08.html" rel="noopener noreferrer">打开精排页</a> ｜ <strong>数据源</strong>：金十 · investing · Market Trend</p>
-<h2>概览</h2>
-<h3>宏观与地缘</h3><ul>
-<li>新西兰联储如期加息25BP <a href="https://flash.jin10.com/detail/20260708100019157800" rel="noopener noreferrer">↗</a> <code>#1</code></li>
-<li>美伊局势推升霍尔木兹风险 <a href="https://flash.jin10.com/detail/20260708063101849800" rel="noopener noreferrer">↗</a> <code>#2</code></li>
-<li>中国央行连续第20个月增持黄金 <a href="https://flash.jin10.com/detail/20260708063101849800" rel="noopener noreferrer">↗</a> <code>#3</code></li>
-<li>俄乌冲突24小时局势延续 <a href="https://flash.jin10.com/detail/20260708062100040800" rel="noopener noreferrer">↗</a> <code>#4</code></li>
-<li>机构关注日元、美元与黄金走势 <a href="https://flash.jin10.com/detail/20260707160955181800" rel="noopener noreferrer">↗</a> <code>#5</code></li>
-</ul>
-<h3>隔夜美股</h3><ul>
-<li>美股三大指数收跌，芯片股下挫 <a href="https://flash.jin10.com/detail/20260708040120713800" rel="noopener noreferrer">↗</a> <code>#6</code></li>
-<li>亚马逊完成大额美元债发行 <a href="https://flash.jin10.com/detail/20260707201852165800" rel="noopener noreferrer">↗</a> <code>#7</code></li>
-<li>微软提价并推进AI自主化 <a href="https://flash.jin10.com/detail/20260707200129788800" rel="noopener noreferrer">↗</a> <code>#8</code></li>
-<li>英伟达相关消息交织 <a href="https://flash.jin10.com/detail/20260707190020440800" rel="noopener noreferrer">↗</a> <code>#9</code></li>
-<li>Meta推出Muse图像生成模型 <a href="https://flash.jin10.com/detail/20260708020143676800" rel="noopener noreferrer">↗</a> <code>#10</code></li>
-</ul>
-<h3>A股盘前</h3><ul>
-<li>A股高开低走，成交额放大 <a href="https://flash.jin10.com/detail/20260708092521754800" rel="noopener noreferrer">↗</a> <code>#11</code></li>
-<li>监管关注虚假信息与基金溢价 <a href="https://flash.jin10.com/detail/20260707204437761800" rel="noopener noreferrer">↗</a> <code>#12</code></li>
-<li>两融余额减少130.37亿元 <a href="https://flash.jin10.com/detail/20260708084715143800" rel="noopener noreferrer">↗</a> <code>#13</code></li>
-<li>旅游规划带动相关板块高开 <a href="https://flash.jin10.com/detail/20260708063101849800" rel="noopener noreferrer">↗</a> <code>#14</code></li>
-<li>算力硬件与AI PC活跃 <a href="https://flash.jin10.com/detail/20260708100824028800" rel="noopener noreferrer">↗</a> <code>#15</code></li>
-</ul>
-<h3>港股</h3><ul>
-<li>港交所上半年IPO与成交增长 <a href="https://flash.jin10.com/detail/20260707164903627800" rel="noopener noreferrer">↗</a> <code>#16</code></li>
-<li>港股高开高走，南向资金净买额达80亿元 <a href="https://flash.jin10.com/detail/20260708092123549800" rel="noopener noreferrer">↗</a> <code>#17</code></li>
-<li>港股石油股全线反弹 <a href="https://cn.investing.com/news/stock-market-news/article-3450973" rel="noopener noreferrer">↗</a> <code>#18</code></li>
-<li>科网与人工智能板块走强 <a href="https://flash.jin10.com/detail/20260708095931407800" rel="noopener noreferrer">↗</a> <code>#19</code></li>
-<li>立讯精密与鼎泰高科H股定价 <a href="https://flash.jin10.com/detail/20260707182440966800" rel="noopener noreferrer">↗</a> <code>#20</code></li>
-</ul>
-<h3>Crypto</h3><ul>
-<li>前100代币分化，M领涨VVV领跌 <a href="https://www.techflowpost.com/newsletter/detail_127490.html" rel="noopener noreferrer">↗</a> <code>#21</code></li>
-<li>Strategy出售BTC引发资金讨论 <a href="https://www.chaincatcher.com/article/2275231" rel="noopener noreferrer">↗</a> <code>#22</code></li>
-<li>USDD披露透明度与激励计划 <a href="https://www.chaincatcher.com/article/2275253" rel="noopener noreferrer">↗</a> <code>#23</code></li>
-<li>Web3安全与治理风险继续暴露 <a href="https://www.chaincatcher.com/article/2275210" rel="noopener noreferrer">↗</a> <code>#24</code></li>
-</ul>
-<h3>今日看点</h3><ul>
-<li>亚太时段：库存、日本贸易与新西兰央行 <a href="https://flash.jin10.com/detail/20260708001000002800" rel="noopener noreferrer">↗</a> <code>#25</code></li>
-<li>美国晚间：批发销售与EIA库存 <a href="https://flash.jin10.com/detail/20260708001000002800" rel="noopener noreferrer">↗</a> <code>#26</code></li>
-<li>次日凌晨：美债竞拍与美联储纪要 <a href="https://flash.jin10.com/detail/20260708001000002800" rel="noopener noreferrer">↗</a> <code>#27</code></li>
-</ul>
-<h2>详情</h2>
-<h3 id="n1">#1 新西兰联储如期加息25BP</h3>
-<p><strong>标签</strong>：央行 · 利率</p>
-<p>新西兰联储将官方现金利率从2.25%上调至2.5%，符合市场预期，此前已连续三次会议按兵不动。声明称通胀仍高于目标、经济活动预计增强，可能需要进一步减少货币刺激；委员会一致认为未来会议进一步加息可能性较大，但时机高度不确定。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708100019157800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708100407669800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n2">#2 美伊局势推升霍尔木兹风险</h3>
-<p><strong>标签</strong>：地缘 · 原油</p>
-<p>美国撤销一项允许伊朗石油销售的通用许可，相关收尾交易可持续至美国东部时间7月17日零点；美军称对伊朗发动系列打击，以回应霍尔木兹海峡商船遇袭。据报道布伦特原油应声飙升超5%，地缘风险溢价卷土重来。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708063101849800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708111328016800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n3">#3 中国央行连续第20个月增持黄金</h3>
-<p><strong>标签</strong>：黄金 · 外储</p>
-<p>昨日今晨重要新闻显示，中国央行连续第20个月增持黄金，中国6月外汇储备为34162.62亿美元。人民银行行长潘功胜表示，国家外汇储备将继续提高在香港的资产配置比例；人民银行等三部门欢迎中国外汇交易中心与香港交易所共建香港电子固定收益及货币交易平台。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708063101849800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n4">#4 俄乌冲突24小时局势延续</h3>
-<p><strong>标签</strong>：俄乌 · 地缘</p>
-<p>金十整理显示，俄称一夜击落400余架飞往莫斯科无人机；泽连斯基敦促北约加大对乌防空援助。乌克兰武装部队称首都基辅遭导弹袭击，消息称俄罗斯鄂木斯克炼油厂在周一无人机袭击后暂停运营，乌军还称袭击布良斯克一处俄罗斯微电子工厂。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708062100040800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n5">#5 机构关注日元、美元与黄金走势</h3>
-<p><strong>标签</strong>：机构观点 · 外汇</p>
-<p>每日机构观点显示，华侨银行称日元走弱与日债收益率上升或引发全球波动，法国兴业银行认为日元持久复苏需要更好的增长前景，同时称受强劲增长前景提振，美元或进一步走高。星展银行表示，黄金中期前景仍略微更具建设性。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707160955181800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708102503367800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n6">#6 美股三大指数收跌，芯片股下挫</h3>
-<p><strong>标签</strong>：美股 · 半导体</p>
-<p>美股周二收盘三大股指下跌，道指跌0.25%，标普500指数跌0.45%，纳指跌1.16%。盘中纳斯达克100指数跌超2%，费城半导体指数跌超6%；存储芯片股继续下挫，闪迪跌7%，西部数据跌近8%，美光科技跌4.7%。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708040120713800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260707221630076800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n7">#7 亚马逊完成大额美元债发行</h3>
-<p><strong>标签</strong>：亚马逊 · 债券</p>
-<p>亚马逊计划通过美元债券发行筹集至少250亿美元，资金用途指向人工智能基础设施建设。据美国证交会文件显示，亚马逊定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%；此前公司启动八部分美国投资级债券发行。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707201852165800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708051404780800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n8">#8 微软提价并推进AI自主化</h3>
-<p><strong>标签</strong>：微软 · AI</p>
-<p>微软本月已上调Microsoft365企业版订阅费用，最高涨幅33%，调整于2026年7月1日生效，暂不影响个人版和教育版。另据市场消息，微软在部分应用中以自研AI模型取代OpenAI和Anthropic模型，Excel、Outlook等部分办公应用已开始使用MAI模型处理AI请求。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707200129788800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708003008011800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n9">#9 英伟达相关消息交织</h3>
-<p><strong>标签</strong>：英伟达 · AI芯片</p>
-<p>英伟达盘前一度跌幅扩大至2%，盘中跌1.3%。荷兰国际集团称，随着微软、Alphabet和亚马逊等主要客户开发自研芯片，英伟达维持利润率的能力存在不确定性。另据The Information，英伟达和AI芯片初创公司d-Matrix正在一套新系统中整合硬件。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707190020440800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708085247878800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n10">#10 Meta推出Muse图像生成模型</h3>
-<p><strong>标签</strong>：Meta · 生成式AI</p>
-<p>Meta Platforms表示，Muse视频即将上线，面向创作者和Meta AI，并推出首个由Meta超级智能实验室开发的图像生成模型“Muse Image”。Muse Image已于今日上线美国地区的Meta AI应用、Meta AI网站及Instagram Stories，并已在部分国家和地区的WhatsApp推出。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708020143676800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708020148135800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n11">#11 A股高开低走，成交额放大</h3>
-<p><strong>标签</strong>：A股 · 指数</p>
-<p>A股开盘沪指涨0.16%，深证成指涨0.29%，创业板指涨0.52%。随后三大股指高开低走，创业板指一度跌超2%，深证成指跌1.9%，沪指跌0.49%，全市场超3400只个股下跌；10:06沪深两市成交额突破1万亿元，较上日放量超800亿元。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708092521754800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708100217185800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260708100620537800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n12">#12 监管关注虚假信息与基金溢价</h3>
-<p><strong>标签</strong>：监管 · ETF</p>
-<p>证监会查明，7月2日安某编造传播涉及中公教育的虚假误导性信息，决定对其立案调查。上交所公告，景顺长城全球芯片LOF、中韩半导体ETF华泰柏瑞因二级市场交易价格明显高于基金份额净值或参考净值，将于7月8日开市起停牌，10:30起复牌。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707204437761800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260707190303898800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260707190903996800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n13">#13 两融余额减少130.37亿元</h3>
-<p><strong>标签</strong>：资金面 · 融资余额</p>
-<p>截至7月7日，上交所融资余额报14882.28亿元，较前一交易日减少58.89亿元；深交所融资余额报14597.1亿元，较前一交易日减少71.48亿元。两市融资余额合计29479.38亿元，较前一交易日减少130.37亿元。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708084715143800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n14">#14 旅游规划带动相关板块高开</h3>
-<p><strong>标签</strong>：旅游 · 政策</p>
-<p>国务院原则同意《旅游强国建设“十五五”规划》。A股旅游及酒店板块高开，岭南控股一字涨停，西藏旅游、天府文旅、西域旅游、陕西旅游跟涨；免税店板块随后拉升，中百集团涨停，岭南控股此前涨停，东百集团、王府井纷纷拉升。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708063101849800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708092823839800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260708095146022800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n15">#15 算力硬件与AI PC活跃</h3>
-<p><strong>标签</strong>：算力 · AI PC</p>
-<p>A股算力租赁板块局部活跃，网宿科技20CM涨停，飞利信涨超10%。AI服务器、交换机等算力硬件股持续活跃，并带动AI PC概念异动拉升，泓禧科技30CM涨停，雷神科技涨超15%，华勤技术、慧为智能、亿道信息、联芸科技等跟涨。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708100824028800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708110703172800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n16">#16 港交所上半年IPO与成交增长</h3>
-<p><strong>标签</strong>：港交所 · IPO</p>
-<p>港交所公告，2026年6月平均每日成交金额为3191亿元，较上月2929亿元上升9%，较去年同期2302亿元上升39%。2026年上半年平均每日成交金额为2830亿元，较去年同期2402亿元上升18%；上半年首次公开招股集资金额为2102亿元，较去年同期上升92%。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707164903627800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260707165105688800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260707165234452800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n17">#17 港股高开高走，南向资金净买额达80亿元</h3>
-<p><strong>标签</strong>：恒指 · 南向资金</p>
-<p>港股开盘恒指涨0.19%，恒生科技指数涨0.42%。盘中港股高开高走，恒指一度涨2%，恒生科技指数涨超3%，科技股、算力股走强；截至发稿，南向资金净买额达80亿元。恒指期货夜盘收涨0.11%，报23499点。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708092123549800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708110932481800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260708105729796800" rel="noopener noreferrer">[3]</a></p>
-<h3 id="n18">#18 港股石油股全线反弹</h3>
-<p><strong>标签</strong>：石油股 · 中东局势</p>
-<p>港股石油股走强，中国海洋石油涨超5%，延长石油国际涨3.85%，中国石油股份涨3.6%，中国石油化工股份涨1.5%。中东局势再度升级，国际油价反弹创两周高位，带动港股石油股全线反弹。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3450973" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708100457875800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n19">#19 科网与人工智能板块走强</h3>
-<p><strong>标签</strong>：科网股 · 人工智能</p>
-<p>港股科网股走强，商汤、阿里巴巴、腾讯控股、百度均涨超3%，美团、哔哩哔哩涨超2%。人工智能板块持续走高，金蝶国际涨超10%，上海复旦涨近9%，金山云涨近7%，联想集团、智谱涨超4%。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708095931407800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708100038066800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n20">#20 立讯精密与鼎泰高科H股定价</h3>
-<p><strong>标签</strong>：H股 · 新股</p>
-<p>鼎泰高科公告，H股发行最终价格为每股380港元，预计于2026年7月9日在香港联交所主板挂牌上市交易。立讯精密公告，H股发行最终价格为每股63.28港元，预计同样于2026年7月9日在香港联交所主板挂牌上市交易。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260707182440966800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260707182715688800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n21">#21 前100代币分化，M领涨VVV领跌</h3>
-<p><strong>标签</strong>：加密市场 · 行情</p>
-<p>据CoinMarketCap数据，7月07日加密货币市值前100代币中，MemeCore（M）涨17.91%，现价1.35美元；Zcash（ZEC）涨9.06%，现价491.91美元。另据：VVV跌9.04%，为当日跌幅端的代表。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_127490.html" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n22">#22 Strategy出售BTC引发资金讨论</h3>
-<p><strong>标签</strong>：比特币 · 上市公司</p>
-<p>BBX数据显示，Strategy Inc.于7月6日向SEC提交文件披露历史性套现2.16亿美元，另有消息称其抛售3588枚BTC派息。Grayscale Research表示，Strategy上周出售部分比特币，可能有助于降低融资风险，并对比特币价格稳定形成支持，预计可覆盖约17个月股息支付需求。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2275231" rel="noopener noreferrer">[1]</a> <a href="https://www.chaincatcher.com/article/2275227" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n23">#23 USDD披露透明度与激励计划</h3>
-<p><strong>标签</strong>：稳定币 · DeFi</p>
-<p>USDD发布6月透明度报告，截至6月末总抵押资产达到20.3亿美元，当月流通量峰值达14.2亿美元，月末超额抵押率为149.35%。另据消息，波场TRON DeFi Summer开启，USDD与币安钱包、JustLend DAO联合推出夏日赚币计划，参与用户可瓜分90万美元奖励。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2275253" rel="noopener noreferrer">[1]</a> <a href="https://www.chaincatcher.com/article/2275242" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n24">#24 Web3安全与治理风险继续暴露</h3>
-<p><strong>标签</strong>：安全事件 · 治理</p>
-<p>BonkDAO披露遭遇恶意治理提案攻击，约2000万美元BONK代币从国库中被盗，并称正与交易所、跨链桥及Solana基金会合作。EMURGO表示，遭黑客攻击的钱包服务SecondFi即使在安全审计完成后也不会恢复正常运营，要求用户通过官方恢复流程迁移资产。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2275210" rel="noopener noreferrer">[1]</a> <a href="https://www.chaincatcher.com/article/2275241" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n25">#25 亚太时段：库存、日本贸易与新西兰央行</h3>
-<p><strong>标签</strong>：日程 · 亚太</p>
-<p>今日重点关注事件显示，04:30公布美国至7月3日当周API原油库存，07:50公布日本5月贸易帐，10:00新西兰联储公布利率决议，11:00新西兰联储主席布雷曼召开新闻发布会。新西兰联储已将利率上调至2.5%。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708001000002800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260708100008588800" rel="noopener noreferrer">[2]</a></p>
-<h3 id="n26">#26 美国晚间：批发销售与EIA库存</h3>
-<p><strong>标签</strong>：美国数据 · 原油库存</p>
-<p>今日22:00将公布美国5月批发销售月率。22:30将集中公布美国至7月3日当周EIA原油库存、EIA库欣原油库存及EIA战略石油储备库存。结合美伊局势和油价反弹信息，库存数据将成为晚间能源市场的重点变量。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708001000002800" rel="noopener noreferrer">[1]</a></p>
-<h3 id="n27">#27 次日凌晨：美债竞拍与美联储纪要</h3>
-<p><strong>标签</strong>：美债 · 美联储</p>
-<p>次日01:00关注美国至7月8日10年期国债竞拍的得标利率和投标倍数，次日02:00美联储将公布货币政策会议纪要。报道中美国10年期国债收益率曾上涨至4.497%，会议纪要将为市场观察政策路径提供更多信息。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260708001000002800" rel="noopener noreferrer">[1]</a> <a href="https://www.chaincatcher.com/article/2275267" rel="noopener noreferrer">[2]</a></p>
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：S ｜ 聚合 6 条快讯</p>
+<p><strong>报道</strong>：伊朗在「承诺2号行动」第三轮打击中，向巴林及科威特多个军事基地发射数十枚导弹和无人机，目标直指弹药库与MQ-9设施。科威特军方拦截了数十个目标，但仍有多处设施受损及4名军人受伤。</p>
+<p><strong>分析</strong>：冲突外溢至海湾产油国本土，打破了此前原油市场对地缘摩擦仅限局部的定价逻辑。针对美军驻周边国家基地的直接打击，将显著拉升波斯湾原油航运的风险溢价，推高供给中断概率。</p>
+<p><strong>Key Takeaway</strong>：买入布伦特原油近月看涨期权博弈地缘溢价飙升，做多能源与黄金等避险资产。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715011248181800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715015453513800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715015740918800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715024433438800" rel="noopener noreferrer">[4]</a> <a href="https://flash.jin10.com/detail/20260715031321598800" rel="noopener noreferrer">[5]</a> <a href="https://flash.jin10.com/detail/20260715065922175800" rel="noopener noreferrer">[6]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[S] 美将出台芯片和AI监管</title>
+<link>https://melroseee-e.github.io/market-daily/#s0d3d63b39b1b</link>
+<guid isPermaLink="false">s0d3d63b39b1b</guid>
+<pubDate>Fri, 17 Jul 2026 10:29:14 +0800</pubDate>
+<description>对冲半导体设备出口限制风险，做空美股高市值AI芯片股，布局国产替代算力。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 · crypto-监管 · 宏观-地缘 ｜ <strong>重要度</strong>：S ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：美国商务部出口管制主管官员杰弗里·凯斯勒在周二听证会上透露，针对芯片和AI领域的监管措施即将出台。他指出特朗普政府无意取代拜登政府已设立的相关机制。</p>
+<p><strong>分析</strong>：新一轮监管表明美国在高端算力与前沿算法领域的出口封锁将在政府换届间保持连贯，这将直接冲击半导体产业链的跨国技术授权与先进制程设备交付预期，压制AI核心标的短期估值。</p>
+<p><strong>Key Takeaway</strong>：对冲半导体设备出口限制风险，做空美股高市值AI芯片股，布局国产替代算力。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715002426858800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715011025049800" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[S] 美伊领导人交涉与互相威胁</title>
+<link>https://melroseee-e.github.io/market-daily/#saed88d6fe0e3</link>
+<guid isPermaLink="false">saed88d6fe0e3</guid>
+<pubDate>Fri, 17 Jul 2026 10:29:14 +0800</pubDate>
+<description>买入黄金看涨期权对冲下周中东地缘恶化尾部风险，逢高沽空区域风险敞口较大的基建标的。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：S ｜ 聚合 8 条快讯</p>
+<p><strong>报道</strong>：特朗普指责伊朗「先开火」，透露周二双方进行了对话，并威胁若伊朗下周拒绝重返谈判桌，美军将空袭其发电厂和桥梁，而能源设施目标留到最后。伊朗总统佩泽希齐扬回应称，将以实际行动捍卫祖国每一寸土地。</p>
+<p><strong>分析</strong>：大国博弈中「边打边谈」的极限施压策略使中东局势的不可预测性陡增。明确的「下周」时间窗口及具体的「发电厂、桥梁」打击目标清单，为市场提供了清晰的事件博弈节点，直接推升了短端避险资产的波动率预期。</p>
+<p><strong>Key Takeaway</strong>：买入黄金看涨期权对冲下周中东地缘恶化尾部风险，逢高沽空区域风险敞口较大的基建标的。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715001447675800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715011502137800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715061106742800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715061205994800" rel="noopener noreferrer">[4]</a> <a href="https://flash.jin10.com/detail/20260715061629798800" rel="noopener noreferrer">[5]</a> <a href="https://flash.jin10.com/detail/20260715061817167800" rel="noopener noreferrer">[6]</a> <a href="https://flash.jin10.com/detail/20260715062920165800" rel="noopener noreferrer">[7]</a> <a href="https://m.weibo.cn/detail/5320832932905458" rel="noopener noreferrer">[8]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[S] 国际油价上涨及相关影响</title>
+<link>https://melroseee-e.github.io/market-daily/#s6578e906c799</link>
+<guid isPermaLink="false">s6578e906c799</guid>
+<pubDate>Fri, 17 Jul 2026 10:29:14 +0800</pubDate>
+<description>依托84美元支撑位做多布伦特原油期货，押注双线地缘冲突溢价阶段性走阔。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：S ｜ 聚合 4 条快讯</p>
+<p><strong>报道</strong>：受乌克兰袭击俄罗斯能源设施影响，14日油价期货走高，美国柴油期货上涨5%。布伦特原油期货结算价上涨1.72%至每桶84.73美元，WTI轻质原油8月合约收涨1.54%至每桶79.34美元。英国财政部预计，若美伊冲突升级，油价将达每桶150美元。</p>
+<p><strong>分析</strong>：俄乌战火向能源基础设施蔓延直接冲击短期现货供给，而宏观机构对美伊摩擦升级的极值预测则拔高了远期原油的风险定价锚。实体现货短缺担忧与地缘尾部风险预期共振，正推动原油及成品油裂解价差全线走强。</p>
+<p><strong>Key Takeaway</strong>：依托84美元支撑位做多布伦特原油期货，押注双线地缘冲突溢价阶段性走阔。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260715001051756800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260715022251876800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260715025231352800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260715052602799800" rel="noopener noreferrer">[4]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[S] 三星投资建设HBM工厂</title>
+<link>https://melroseee-e.github.io/market-daily/#s936151946482</link>
+<guid isPermaLink="false">s936151946482</guid>
+<pubDate>Fri, 17 Jul 2026 10:29:14 +0800</pubDate>
+<description>逢低配置HBM产业链核心设备供应商，博弈头部大厂产能竞赛带来的中长期订单溢价。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：S</p>
+<p><strong>报道</strong>：三星集团宣布，将在天安市和温阳市投资56万亿韩元，用于建设HBM工厂。</p>
+<p><strong>分析</strong>：巨额资本开支直接指向高性能存储产能扩张，反映AI算力硬件端对高带宽内存的长期强劲需求。此举标志着全球头部大厂的存储芯片军备竞赛白热化，将深刻影响产业链上下游设备的订单可见度与产能分配周期。</p>
+<p><strong>Key Takeaway</strong>：逢低配置HBM产业链核心设备供应商，博弈头部大厂产能竞赛带来的中长期订单溢价。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260629153147258800" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 </channel></rss>
