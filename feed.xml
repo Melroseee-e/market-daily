@@ -5,7 +5,21 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,逐条报道 · 分析 · Key Takeaway(agy/Opus 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 20 Jul 2026 06:06:23 +0800</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 07:07:23 +0800</lastBuildDate>
+<item>
+<title>[A] 两天三名美军死亡，科威特拦截伊朗无人机</title>
+<link>https://melroseee-e.github.io/market-daily/#s60ba03fd60e1</link>
+<guid isPermaLink="false">s60ba03fd60e1</guid>
+<pubDate>Mon, 20 Jul 2026 07:07:23 +0800</pubDate>
+<description>买入黄金及布伦特原油看涨期权对冲尾部风险，警惕风险资产短线剧震。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：科威特防空部队正应对源于伊朗敌对行为的无人机攻击。同时，两天内已有三名美军死亡，美伊双方攻击不断升级。特朗普此前曾警告若杀害美军将面临强烈回应，中东局势目前正逼近危险临界点。</p>
+<p><strong>分析</strong>：美军实质性伤亡触及美方红线，市场计价美军发动直接报复打击的概率陡增。中东全面冲突风险→避险资金涌入推高金价→原油市场因担忧霍尔木兹海峡等关键节点供应链中断而快速拉升地缘风险溢价。</p>
+<p><strong>Key Takeaway</strong>：买入黄金及布伦特原油看涨期权对冲尾部风险，警惕风险资产短线剧震。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260720062734615800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260720065512528800" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
 <item>
 <title>[A] 俄对基辅发动最大规模弹道导弹袭击致1死17伤</title>
 <link>https://melroseee-e.github.io/market-daily/#s9943ba230bb9</link>
@@ -1110,20 +1124,6 @@
 <p><strong>分析</strong>：预期增速上调印证了经济基本面强于边际放缓预期，经济韧性逻辑得到强化→无风险利率大概率在高位维持更久→对流动性敏感的风险资产估值形成边际压制。</p>
 <p><strong>Key Takeaway</strong>：宏观底座坚实支撑美元走强，逢高做空对利率敏感的非美货币。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260718004854770800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 法国要求屏蔽预测平台Polymarket</title>
-<link>https://melroseee-e.github.io/market-daily/#s7e186ea38e01</link>
-<guid isPermaLink="false">s7e186ea38e01</guid>
-<pubDate>Sun, 19 Jul 2026 06:12:04 +0800</pubDate>
-<description>清仓涉嫌违规博彩的去中心化预测市场类代币，规避监管向网络基建层渗透的合规黑天鹅。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：crypto-监管 · crypto-DeFi ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：法国国家投注管理局（ANJ）指出预测市场平台 Polymarket 涉嫌推广非法投注服务且可能致用户遭受重大损失，已要求法国互联网服务提供商对其进行屏蔽。</p>
-<p><strong>分析</strong>：监管机构从ISP层面封堵预测市场，显示出主权合规利刃已切向去中心化应用的物理流量入口。此禁令将直接阻断法国境内访问→平台流动性流失，且同类应用面临多国效仿打击的估值压制。</p>
-<p><strong>Key Takeaway</strong>：清仓涉嫌违规博彩的去中心化预测市场类代币，规避监管向网络基建层渗透的合规黑天鹅。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2277075" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 </channel></rss>
