@@ -5,7 +5,21 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,逐条报道 · 分析 · Key Takeaway(agy/Opus 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 19 Jul 2026 07:07:28 +0800</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 08:06:03 +0800</lastBuildDate>
+<item>
+<title>[S] US renews strikes on Iran after two military personnel were </title>
+<link>https://melroseee-e.github.io/market-daily/#s20529ee34f56</link>
+<guid isPermaLink="false">s20529ee34f56</guid>
+<pubDate>Sun, 19 Jul 2026 08:06:03 +0800</pubDate>
+<description>买入黄金与原油看涨期权对冲地缘冲突风险，直接了结加密资产多头敞口。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：S</p>
+<p><strong>报道</strong>：美国重新对伊朗发动军事打击。此次行动发生在此前两名美军人员于伊朗的袭击中丧生之后。</p>
+<p><strong>分析</strong>：美伊直接军事冲突升级标志着地缘政治风险急剧攀升，将迅速推升市场避险情绪与能源中断担忧。原油与黄金→短期脉冲式上涨概率大增，加密货币等风险资产→因避险资金快速抽离而面临显著抛压。</p>
+<p><strong>Key Takeaway</strong>：买入黄金与原油看涨期权对冲地缘冲突风险，直接了结加密资产多头敞口。</p>
+<p><strong>来源</strong>：<a href="https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
 <item>
 <title>[A] 美国长期失业人数持续攀升</title>
 <link>https://melroseee-e.github.io/market-daily/#sf242ecce4e6e</link>
@@ -1110,20 +1124,6 @@
 <p><strong>分析</strong>：利润率收窄是企业基本面恶化的核心指标。资金对盈利预期下调做出激进定价，单日20%的暴跌说明市场正对该标的进行快速且深度的估值重估。</p>
 <p><strong>Key Takeaway</strong>：规避Nolato抢反弹操作，利润率收窄压力需较长时间消化，右侧确认企稳前严禁抄底。</p>
 <p><strong>来源</strong>：<a href="https://www.investing.com/news/transcripts/earnings-call-transcript-nolato-q2-2026-shares-sink-20-as-margins-narrow-93CH-4797499" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] Uniswap费改与销毁提案</title>
-<link>https://melroseee-e.github.io/market-daily/#s136ef00ad3b3</link>
-<guid isPermaLink="false">s136ef00ad3b3</guid>
-<pubDate>Sun, 19 Jul 2026 04:13:43 +0800</pubDate>
-<description>逢低做多UNI现货或看涨期权，抢跑v4费用开启及销毁机制落地带来的估值重塑催化。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：crypto-DeFi ｜ <strong>重要度</strong>：A ｜ 聚合 3 条快讯</p>
-<p><strong>报道</strong>：Uniswap创始人Hayden表示已提交两项关键治理提案，将于19日至26日进行最终链上投票。提案计划在Robinhood链启用v2、首次对v4池启用协议费用，且新增协议收入将全部进入UNI销毁机制。</p>
-<p><strong>分析</strong>：协议费用直接挂钩销毁机制，标志着UNI从纯治理代币向价值捕获型资产完成实质性跨越。新增收入用于销毁将直接缩减流通盘→通缩模型落地改善了筹码供需格局，更彻底重塑了代币在DEX赛道的长期估值中枢。</p>
-<p><strong>Key Takeaway</strong>：逢低做多UNI现货或看涨期权，抢跑v4费用开启及销毁机制落地带来的估值重塑催化。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2277047" rel="noopener noreferrer">[1]</a> <a href="https://www.techflowpost.com/newsletter/detail_128715.html" rel="noopener noreferrer">[2]</a> <a href="https://www.chaincatcher.com/article/2277113" rel="noopener noreferrer">[3]</a></p>
 </div>]]></content:encoded>
 </item>
 </channel></rss>
