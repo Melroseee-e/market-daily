@@ -5,22 +5,129 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,按主线聚合 · 报道·分析·Key Takeaway(agy 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 25 Jul 2026 00:16:41 +0800</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 01:13:28 +0800</lastBuildDate>
 <item>
-<title>[A] 俄罗斯打击乌克兰敖德萨和皮夫登尼港设施（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-4dae642de71797</link>
-<guid isPermaLink="false">th-4dae642de71797</guid>
+<title>[A] 欧央行首席经济学家称9月或调整利率政策（主线·3步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-dad3cc706740ae</link>
+<guid isPermaLink="false">th-dad3cc706740ae</guid>
+<pubDate>Sat, 25 Jul 2026 01:10:24 +0800</pubDate>
+<description>构建欧元兑美元期权跨式策略博弈9月决议波动，规避单边方向性押注。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「欧央行利率政策走向」· 最新进展 ↓</p>
+<p><strong>板块</strong>：宏观-央行 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：欧洲央行首席经济学家连恩表示，9月将成为利率政策的下一个关键节点。欧洲央行届时将重新评估并可能调整政策立场，后续利率决策将继续严格依据经济数据。</p>
+<p><strong>分析</strong>：连恩的表态确认了欧洲央行已摒弃预设加降息路径，全面转向数据依赖模式。这意味着9月会议前的通胀与增长指标将直接决定欧元资产定价，引发欧元汇率及主权债收益率中枢的高频震荡。</p>
+<p><strong>Key Takeaway</strong>：构建欧元兑美元期权跨式策略博弈9月决议波动，规避单边方向性押注。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260725005338569800" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
+<li>07-24 18:17 · 欧央行管委西姆库斯称加息概率高于维持不变 <a href="https://flash.jin10.com/detail/20260724174937389800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 19:16 · 欧央行两管委称九月加息可能高于维持不变 <a href="https://flash.jin10.com/detail/20260724181121963800" rel="noopener noreferrer">↗</a></li>
+<li>07-25 01:10 · 欧央行首席经济学家称9月或调整利率政策 <a href="https://flash.jin10.com/detail/20260725005338569800" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 英特尔与Lens Tech在AI封装领域合作（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-e77e44ca9c20fc</link>
+<guid isPermaLink="false">th-e77e44ca9c20fc</guid>
+<pubDate>Sat, 25 Jul 2026 01:10:24 +0800</pubDate>
+<description>买入英特尔股票押注产能瓶颈突破，同步挖掘Lens Tech相关设备供应商。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「英特尔与蓝思合作」· 最新进展 ↓</p>
+<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：市场消息指出，英特尔(INTC.O)已确定将在AI封装技术领域与Lens Tech展开合作。双方将针对人工智能芯片的封装环节进行联合推进。</p>
+<p><strong>分析</strong>：当前AI算力放量受制于先进封装产能瓶颈，英特尔通过外部结盟可有效缓解自身制造压力。此举有望加速其AI芯片交付迭代节奏，并为合作方及上游封装设备供应链带来估值重估红利。</p>
+<p><strong>Key Takeaway</strong>：买入英特尔股票押注产能瓶颈突破，同步挖掘Lens Tech相关设备供应商。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260725005013803800" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>07-24 19:16 · 蓝思国际与Intel签玻璃通孔技术备忘录 <a href="https://flash.jin10.com/detail/20260724182229625800" rel="noopener noreferrer">↗</a></li>
+<li>07-25 01:10 · 英特尔与Lens Tech在AI封装领域合作 <a href="https://flash.jin10.com/detail/20260725005013803800" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 俄舍斯哈里斯码头自21日起暂停原油装载</title>
+<link>https://melroseee-e.github.io/market-daily/#th-65684b531311df</link>
+<guid isPermaLink="false">th-65684b531311df</guid>
+<pubDate>Sat, 25 Jul 2026 01:10:24 +0800</pubDate>
+<description>逢低做多原油近月合约博弈供给中断，或买入原油跨期正向价差。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-大宗 · 宏观-地缘 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：俄罗斯新罗西斯克的舍斯哈里斯石油码头自7月21日周二早间以来，一直未进行原油装载作业。该设施的原油装卸活动当前已陷入停滞状态。</p>
+<p><strong>分析</strong>：舍斯哈里斯作为俄罗斯核心原油出口枢纽，其装载停摆直接切断了部分海运原油供给。若短期物流无法恢复，现货断供预期将快速推升欧洲地中海市场溢价，驱动国际原油曲线前端走强。</p>
+<p><strong>Key Takeaway</strong>：逢低做多原油近月合约博弈供给中断，或买入原油跨期正向价差。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260725003554137800" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] Radiopharm因稀释性融资计划跌21%</title>
+<link>https://melroseee-e.github.io/market-daily/#th-d4f56cae5c005d</link>
+<guid isPermaLink="false">th-d4f56cae5c005d</guid>
+<pubDate>Sat, 25 Jul 2026 01:10:24 +0800</pubDate>
+<description>逢反弹做空Radiopharm及同类依赖摊薄融资的初创企业，规避估值体系下移的踩踏风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-创新药 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：因公布了一项稀释性融资计划引发市场的严重担忧，Radiopharm股价在周五的交易中遭遇资金抛售重挫，单日暴跌达21%。</p>
+<p><strong>分析</strong>：企业在二级市场通过增发等稀释性融资手段补充现金流，会直接大幅摊薄原有股东的权益。这种稀释预期一旦兑现，极易彻底击穿投资者心理防线，导致筹码踩踏式出逃与个股估值体系快速下移。</p>
+<p><strong>Key Takeaway</strong>：逢反弹做空Radiopharm及同类依赖摊薄融资的初创企业，规避估值体系下移的踩踏风险。</p>
+<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-93CH-3478509" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美英拟组霍尔木兹护航联盟，伊朗发击杀警告（主线·8步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-6a5a3b59f06050</link>
+<guid isPermaLink="false">th-6a5a3b59f06050</guid>
+<pubDate>Sat, 25 Jul 2026 01:10:24 +0800</pubDate>
+<description>做多布伦特原油主力合约及原油运输龙头标的，对冲中东原油断供及地缘冲突升级风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「美伊中东冲突及影响」· 最新进展 ↓</p>
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A ｜ 聚合 3 条快讯</p>
+<p><strong>报道</strong>：据伊朗媒体报道，伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀就将杀死一名美军。此外，美英计划下周在伦敦开会讨论建立霍尔木兹海峡护航联盟。另有消息称，通过曼德海峡的商船正遵守也门海军决定。</p>
+<p><strong>分析</strong>：曼德海峡的航行规则正被区域武装重塑，而美英介入霍尔木兹海峡护航将大幅推升双方在关键咽喉水道发生直接武装冲突的概率。原油运输大动脉面临封锁风险→航运风险溢价飙升→推高全球能源价格与油运费率。</p>
+<p><strong>Key Takeaway</strong>：做多布伦特原油主力合约及原油运输龙头标的，对冲中东原油断供及地缘冲突升级风险。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260725000646407800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260725001557560800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260725003110364800" rel="noopener noreferrer">[3]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 8 步）</p><ul>
+<li>07-24 18:17 · 美军空袭伊朗致55死，卡航停飞中东三地 <a href="https://flash.jin10.com/detail/20260724170528121800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 19:16 · 伊朗打击美中东基地，美承诺助日解决供油 <a href="https://flash.jin10.com/detail/20260724182443498800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 20:17 · 伊朗导弹击中科威特美军基地，巴林拦截攻击 <a href="https://flash.jin10.com/detail/20260724191910831800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 21:20 · 伊朗革命卫队打击多地美军资产摧毁爱国者 <a href="https://www.techflowpost.com/newsletter/detail_129384.html" rel="noopener noreferrer">↗</a></li>
+<li>07-24 22:13 · 也门封锁沙特且美伊红海对峙致油价破百 <a href="https://flash.jin10.com/detail/20260724204950140800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 23:14 · 科威特拦截伊朗目标，实货油价跳涨创两月新高 <a href="https://www.investing.com/news/economy-news/analysisinvestors-fret-that-spiking-oil-prices-and-rising-yields-could-threaten-stockrally-4812149" rel="noopener noreferrer">↗</a></li>
+<li>07-25 00:14 · 伊朗打击多国美军目标且拒停火，布油大跌4% <a href="https://flash.jin10.com/detail/20260724231609577800" rel="noopener noreferrer">↗</a></li>
+<li>07-25 01:10 · 美英拟组霍尔木兹护航联盟，伊朗发击杀警告 <a href="https://flash.jin10.com/detail/20260725000646407800" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 高通因成本持续上涨提价两位数百分比</title>
+<link>https://melroseee-e.github.io/market-daily/#th-466d2dbf7ebeb5</link>
+<guid isPermaLink="false">th-466d2dbf7ebeb5</guid>
+<pubDate>Sat, 25 Jul 2026 01:10:24 +0800</pubDate>
+<description>做空对芯片采购成本敏感的低毛利手机代工厂商，超配具备强议价能力的上游半导体设备股。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：全球最大的智能手机处理器制造商之一高通（QCOM.O）告知客户，将不得不将产品价格上调两位数百分比。据外媒援引的文件显示，此次提价的原因是成本持续上涨，公司已无法继续自行消化增加的成本。</p>
+<p><strong>分析</strong>：智能手机处理器核心供应商大幅提价，将直接推升下游终端手机厂商的物料成本，进而压缩产业链中下游的利润空间。此举标志着上游半导体制造环节的涨价压力已实质性向消费终端环节传导。</p>
+<p><strong>Key Takeaway</strong>：做空对芯片采购成本敏感的低毛利手机代工厂商，超配具备强议价能力的上游半导体设备股。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260725001359141800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260725004154903800" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 俄罗斯打击乌克兰敖德萨和皮夫登尼港设施（主线·3步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-b176ff24284a31</link>
+<guid isPermaLink="false">th-b176ff24284a31</guid>
 <pubDate>Sat, 25 Jul 2026 00:14:28 +0800</pubDate>
 <description>买入大宗商品或农业ETF博弈短线供给冲击，对冲港口遇袭带来的物流受阻风险。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「俄打击乌克兰港口设施」· 最新进展 ↓</p>
+<p style='color:#888'>主线「俄乌冲突及军事进展」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据国际文传电讯社报道，俄罗斯官方表示，已经对乌克兰敖德萨和皮夫登尼港的港口设施实施了打击。</p>
 <p><strong>分析</strong>：敖德萨等港口是关键海运节点，设施受损将直接冲击区域物流与商品出口能力。冲突延宕至核心贸易枢纽，不仅推高海运成本，更会对依赖该航线的大宗商品供给端形成突发利多刺激。</p>
 <p><strong>Key Takeaway</strong>：买入大宗商品或农业ETF博弈短线供给冲击，对冲港口遇袭带来的物流受阻风险。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724235613592800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
 <li>07-24 19:16 · 俄无人机袭击尼古拉耶夫港致两艘民船受损 <a href="https://flash.jin10.com/detail/20260724182125439800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 23:14 · 北约盟军战斗机在罗马尼亚空域击落无人机 <a href="https://www.investing.com/news/economy-news/nato-drone-shot-down-in-romanian-airspace-93CH-4812110" rel="noopener noreferrer">↗</a></li>
 <li>07-25 00:14 · 俄罗斯打击乌克兰敖德萨和皮夫登尼港设施 <a href="https://flash.jin10.com/detail/20260724235613592800" rel="noopener noreferrer">↗</a></li>
 </ul>
 </div>]]></content:encoded>
@@ -40,17 +147,22 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] GPT-5.6系列模型上线亚马逊Bedrock</title>
-<link>https://melroseee-e.github.io/market-daily/#th-0223a5831895f0</link>
-<guid isPermaLink="false">th-0223a5831895f0</guid>
+<title>[A] GPT-5.6系列模型上线亚马逊Bedrock（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-8be4b2b7e12e99</link>
+<guid isPermaLink="false">th-8be4b2b7e12e99</guid>
 <pubDate>Sat, 25 Jul 2026 00:14:28 +0800</pubDate>
 <description>做多亚马逊正股，押注顶级模型接入带来的云基础设施收入扩张与商业化落地预期。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「亚马逊AI产品新进展」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-科技巨头 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：亚马逊云服务宣布，OpenAI旗下的GPT-5.6 SOL、TERRA和LUNA三款模型现已在亚马逊Bedrock平台上正式上线。</p>
 <p><strong>分析</strong>：OpenAI新一代模型接入AWS生态，标志着大模型厂商多云分发战略加速落地。此举将直接丰富Bedrock的产品矩阵，强化亚马逊在企业级AI基础设施市场的竞争壁垒，并有望提振其云业务收入增速。</p>
 <p><strong>Key Takeaway</strong>：做多亚马逊正股，押注顶级模型接入带来的云基础设施收入扩张与商业化落地预期。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724234329207800" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>07-24 18:17 · 亚马逊推出下一代人工智能助手Alexa+ <a href="https://flash.jin10.com/detail/20260724174449803800" rel="noopener noreferrer">↗</a></li>
+<li>07-25 00:14 · GPT-5.6系列模型上线亚马逊Bedrock <a href="https://flash.jin10.com/detail/20260724234329207800" rel="noopener noreferrer">↗</a></li>
+</ul>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -186,7 +298,7 @@
 <pubDate>Sat, 25 Jul 2026 00:14:28 +0800</pubDate>
 <description>回避支出增速失控导致利润受压的个股，在财务结构改善前不作左侧抄底。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美国运通财报与指引」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美国运通二季度财报」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-财报 · 美股-券商金融 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：美国运通(AXP.US)公布Q2业绩，因期内支出增速超过营收，引发市场对其利润空间或被压缩的担忧，导致该股大跌逾6%。</p>
 <p><strong>分析</strong>：支出增速高于营收是侵蚀利润率的直接因素，财务模型的恶化预期导致估值承压。资金对基本面边际转弱的公司反应剧烈，直接通过抛售进行重新定价。</p>
@@ -207,7 +319,7 @@
 <pubDate>Sat, 25 Jul 2026 00:14:28 +0800</pubDate>
 <description>右侧逢低做多宁德时代并作为新能源链反弹的锚，博弈回购落地带来的估值修复脉冲。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「宁德时代业绩与回购」· 最新进展 ↓</p>
+<p style='color:#888'>主线「宁德时代业绩及回购」· 最新进展 ↓</p>
 <p><strong>板块</strong>：A股-板块 · 宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
 <p><strong>报道</strong>：宁德时代发布上半年业绩，归母净利润达432.84亿元，同比增长41.98%。同时，随着内幕交易刑事追责进入规则落地阶段，宁德时代或将迎来A股史上最大规模的回购。</p>
 <p><strong>分析</strong>：强劲的利润增速叠加潜在的史诗级回购计划，双重利好将显著改善新能源龙头估值水位。大额回购不仅能直接提升每股收益，更向二级市场释放了明确的底部确认信号，有望带动产业链资金风险偏好回升并形成向上共振。</p>
@@ -223,37 +335,13 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[S] 伊朗打击多国美军目标且拒停火，布油大跌4%（主线·7步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-b0f50638a8397f</link>
-<guid isPermaLink="false">th-b0f50638a8397f</guid>
-<pubDate>Sat, 25 Jul 2026 00:14:28 +0800</pubDate>
-<description>顺势做空布油失守91美元后的下行空间，优先配置黄金等不依赖工业需求的纯避险资产。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美伊中东冲突与油价」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：S ｜ 聚合 7 条快讯</p>
-<p><strong>报道</strong>：伊朗对约旦等四国境内美军目标发动打击，并称霍尔木兹海峡要求获满足前拒停火，胡塞武装亦击中两艘沙特油轮。特朗普称普京承诺不向伊售武。布伦特原油日内大跌4%至91.11美元/桶。</p>
-<p><strong>分析</strong>：地缘冲突多点爆发与原油暴跌形成背离，反映市场对普京拒售武器及局部摩擦难以长期阻断供应的定价。原油重挫表明需求端悲观预期压倒了短期地缘风险溢价，资金在剧烈博弈中更倾向于交易宏观需求衰退而非供给中断。</p>
-<p><strong>Key Takeaway</strong>：顺势做空布油失守91美元后的下行空间，优先配置黄金等不依赖工业需求的纯避险资产。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724231609577800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260724231839940800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260724232446195800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260724232733605800" rel="noopener noreferrer">[4]</a> <a href="https://h.xinhuaxmt.com/vh512/share/13212822?docid=13212822&amp;newstype=1001&amp;d=1352774" rel="noopener noreferrer">[5]</a> <a href="https://flash.jin10.com/detail/20260724234214249800" rel="noopener noreferrer">[6]</a> <a href="https://flash.jin10.com/detail/20260724234746085800" rel="noopener noreferrer">[7]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 7 步）</p><ul>
-<li>07-24 18:17 · 美军空袭伊朗致55死，卡航停飞中东三地 <a href="https://flash.jin10.com/detail/20260724170528121800" rel="noopener noreferrer">↗</a></li>
-<li>07-24 19:16 · 伊朗打击美中东基地，美承诺助日解决供油 <a href="https://flash.jin10.com/detail/20260724182443498800" rel="noopener noreferrer">↗</a></li>
-<li>07-24 20:17 · 伊朗导弹击中科威特美军基地，巴林拦截攻击 <a href="https://flash.jin10.com/detail/20260724191910831800" rel="noopener noreferrer">↗</a></li>
-<li>07-24 21:20 · 伊朗革命卫队打击多地美军资产摧毁爱国者 <a href="https://www.techflowpost.com/newsletter/detail_129384.html" rel="noopener noreferrer">↗</a></li>
-<li>07-24 22:13 · 也门封锁沙特且美伊红海对峙致油价破百 <a href="https://flash.jin10.com/detail/20260724204950140800" rel="noopener noreferrer">↗</a></li>
-<li>07-24 23:14 · 科威特拦截伊朗目标，实货油价跳涨创两月新高 <a href="https://www.investing.com/news/economy-news/analysisinvestors-fret-that-spiking-oil-prices-and-rising-yields-could-threaten-stockrally-4812149" rel="noopener noreferrer">↗</a></li>
-<li>07-25 00:14 · 伊朗打击多国美军目标且拒停火，布油大跌4% <a href="https://flash.jin10.com/detail/20260724231609577800" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
 <title>[S] 美国对欧盟及近60个经济体扩大10%关税范围（主线·2步）</title>
 <link>https://melroseee-e.github.io/market-daily/#th-07ad8f06404c3f</link>
 <guid isPermaLink="false">th-07ad8f06404c3f</guid>
 <pubDate>Sat, 25 Jul 2026 00:14:28 +0800</pubDate>
 <description>做多美元指数对冲非美货币贬值风险，规避对美出口敞口较大的多国制造业板块。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美国扩大关税影响」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美国扩大关税及回应」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · 宏观-外汇 ｜ <strong>重要度</strong>：S</p>
 <p><strong>报道</strong>：美国宣布扩大10%关税覆盖范围，该政策涉及欧盟及近60个经济体。此举随即引发多国对特朗普保护主义升级的强烈批评。</p>
 <p><strong>分析</strong>：关税范围大幅扩张将直接推升美国本土通胀预期，并加剧全球贸易摩擦的不确定性。受波及经济体的出口型企业利润将受压，可能促使资金加速回流美元避险，非美货币与全球股市短期面临估值调整及流动性收紧双重压力。</p>
@@ -272,7 +360,7 @@
 <pubDate>Fri, 24 Jul 2026 23:14:44 +0800</pubDate>
 <description>底仓持有微软等闭源寡头对冲监管风险，超配英伟达以锁定任何生态下的底层算力红利。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「科技巨头力挺开放AI」· 最新进展 ↓</p>
+<p style='color:#888'>主线「科技巨头力挺开源AI」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-科技巨头 · 美股-AI算力 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
 <p><strong>报道</strong>：微软、英伟达等25家科技巨头联名施压特朗普，反对全面限制开放权重AI模型，称其是保持技术优势的基础。此前近200家AI初创企业已致信白宫警告此举将扼杀创新。</p>
 <p><strong>分析</strong>：监管路径之争直接重塑AI产业链估值逻辑。政策放行将激发开源生态的算力消耗与边缘部署需求；反之若一刀切落地，AI变现红利将加速向闭源寡头集中。</p>
@@ -285,33 +373,40 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 内塔尼亚胡周一赴美见特朗普，军事打击或暂缓</title>
-<link>https://melroseee-e.github.io/market-daily/#th-1fdd406e30d3ef</link>
-<guid isPermaLink="false">th-1fdd406e30d3ef</guid>
+<title>[A] 内塔尼亚胡周一赴美见特朗普，军事打击或暂缓（主线·3步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-be3649c8680f02</link>
+<guid isPermaLink="false">th-be3649c8680f02</guid>
 <pubDate>Fri, 24 Jul 2026 23:14:44 +0800</pubDate>
 <description>平仓原油及黄金短期多头头寸，卖出避险资产短期看涨期权博弈外交空窗期。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「特朗普中东外交斡旋」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 3 条快讯</p>
 <p><strong>报道</strong>：以色列总理办公室声明，应美国总统特朗普邀请，总理内塔尼亚胡定于27日启程前往华盛顿进行会晤。Axios披露，此次出访意味着在此之前可能不会发生重大的冲突升级。</p>
 <p><strong>分析</strong>：领导人离境进行高规格外交访问客观上需要前线维持战术静默。美以首脑的交涉预期为紧绷的地缘神经提供了缓冲期，降低了突发性打击的尾部风险，从而压制避险资产的短期动能。</p>
 <p><strong>Key Takeaway</strong>：平仓原油及黄金短期多头头寸，卖出避险资产短期看涨期权博弈外交空窗期。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724221512312800" rel="noopener noreferrer">[1]</a> <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=9851846789125197594&amp;channelId=1017&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D9851846789125197594%2526channelId%253D1017%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260724224755604800" rel="noopener noreferrer">[3]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
+<li>07-24 18:17 · 特朗普要求美沙核协议绑定以沙关系正常化 <a href="https://flash.jin10.com/detail/20260724174536066800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 20:17 · 黎巴嫩总统会见特朗普并承诺遵守对以协议 <a href="https://flash.jin10.com/detail/20260724194852026800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 23:14 · 内塔尼亚胡周一赴美见特朗普，军事打击或暂缓 <a href="https://flash.jin10.com/detail/20260724221512312800" rel="noopener noreferrer">↗</a></li>
+</ul>
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 美联储减少政策指引，各期限美债收益率全线走高（主线·3步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-15a7dd1b960579</link>
-<guid isPermaLink="false">th-15a7dd1b960579</guid>
+<title>[A] 美联储减少政策指引，各期限美债收益率全线走高（主线·4步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-33e58826923373</link>
+<guid isPermaLink="false">th-33e58826923373</guid>
 <pubDate>Fri, 24 Jul 2026 23:14:44 +0800</pubDate>
 <description>买入MOVE指数看涨产品对冲利率高波动，缩短固收组合久期防御美债收益率上行。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美联储政策指引预期」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美联储利率政策影响」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-央行 · 宏观-美债 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：美联储沃什主张减少政策指引，推动市场定价回归数据驱动。美国债市对此作出暴跌的强烈回应，各期限美债收益率全线走高，且该波动并非单纯受通胀预期的影响。</p>
 <p><strong>分析</strong>：美联储弱化前瞻指引意在将资产定价权交还市场，在失去官方预期锚定的真空期，宏观数据的边际变化将被放大。期限溢价的系统性重估直接导致美债收益率上行，标志着利率高波动时代的到来。</p>
 <p><strong>Key Takeaway</strong>：买入MOVE指数看涨产品对冲利率高波动，缩短固收组合久期防御美债收益率上行。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724220632626800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
+<hr><p><strong>📅 本主题时间线</strong>（共 4 步）</p><ul>
+<li>07-24 18:17 · 美银警告美联储加息恐致港元利率急剧攀升 <a href="https://cn.investing.com/news/forex-news/article-93CH-3477578" rel="noopener noreferrer">↗</a></li>
 <li>07-24 19:16 · 美联储决议及科技股财报潮双重施压美股 <a href="https://www.investing.com/news/economy-news/us-stocks-face-tests-from-fed-decision-techled-earnings-deluge-4810946" rel="noopener noreferrer">↗</a></li>
 <li>07-24 21:20 · 大摩预计美联储7月及年内剩余时间按兵不动 <a href="https://www.techflowpost.com/newsletter/detail_129380.html" rel="noopener noreferrer">↗</a></li>
 <li>07-24 23:14 · 美联储减少政策指引，各期限美债收益率全线走高 <a href="https://flash.jin10.com/detail/20260724220632626800" rel="noopener noreferrer">↗</a></li>
@@ -347,27 +442,13 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 北约盟军战斗机在罗马尼亚空域击落无人机</title>
-<link>https://melroseee-e.github.io/market-daily/#th-c4fc46e32d21b3</link>
-<guid isPermaLink="false">th-c4fc46e32d21b3</guid>
-<pubDate>Fri, 24 Jul 2026 23:14:44 +0800</pubDate>
-<description>增配黄金短期看涨期权，对冲防空摩擦升级可能带来的脉冲式冲击。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
-<p><strong>报道</strong>：北约方面发布声明证实，盟军战斗机已在罗马尼亚领空内成功击落了一架无人机。</p>
-<p><strong>分析</strong>：盟军战机在成员国领空采取实质性击落动作，标志着防空交战规则的收紧。从雷达追踪走向直接火力拦截，军事反馈层级提升降低了擦枪走火门槛，直接推高传统避险资产的尾部溢价。</p>
-<p><strong>Key Takeaway</strong>：增配黄金短期看涨期权，对冲防空摩擦升级可能带来的脉冲式冲击。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/nato-drone-shot-down-in-romanian-airspace-93CH-4812110" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260724221909237800" rel="noopener noreferrer">[2]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
 <title>[A] 白宫称特朗普下周将在华盛顿会晤泽连斯基（主线·2步）</title>
 <link>https://melroseee-e.github.io/market-daily/#th-f1f94f7707c3ae</link>
 <guid isPermaLink="false">th-f1f94f7707c3ae</guid>
 <pubDate>Fri, 24 Jul 2026 23:14:44 +0800</pubDate>
 <description>削减欧洲军工板块多头敞口，做空布伦特原油以博弈地缘降温预期。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「特朗普将会晤泽连斯基」· 最新进展 ↓</p>
+<p style='color:#888'>主线「特朗普将晤泽连斯基」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：白宫方面对外宣布，特朗普与乌克兰总统泽连斯基将于下周在华盛顿举行面对面会晤。</p>
 <p><strong>分析</strong>：白宫层面的外交接触将主导美国对乌政策预期重置。双方谈判立场→后续军援规模定调→俄乌冲突时间线重估，该传导链条是驱动欧洲防务股估值回归及全球原油地缘溢价修正的核心变量。</p>
@@ -478,34 +559,38 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 以总理指示以军在约旦河西岸采取强硬措施</title>
-<link>https://melroseee-e.github.io/market-daily/#th-1a5384d2d0636e</link>
-<guid isPermaLink="false">th-1a5384d2d0636e</guid>
+<title>[A] 以总理指示以军在约旦河西岸采取强硬措施（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-81fa47e4d20de4</link>
+<guid isPermaLink="false">th-81fa47e4d20de4</guid>
 <pubDate>Fri, 24 Jul 2026 22:13:30 +0800</pubDate>
 <description>买入黄金看涨期权博弈西岸地缘风险溢价脉冲，切勿左侧做空避险资产。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「以色列高层安全动作」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：7月24日，以色列总理内塔尼亚胡与防长卡茨在与安全内阁及军情高层磋商后发表联合声明，正式指示以军在约旦河西岸采取一系列强硬措施。</p>
 <p><strong>分析</strong>：政府最高层直接下达军事指令标志着西岸地缘矛盾实质性激化。冲突的横向蔓延将推高区域地缘风险溢价，避险资金的涌入会直接为黄金等传统避险资产提供坚实的短期多头动能。</p>
 <p><strong>Key Takeaway</strong>：买入黄金看涨期权博弈西岸地缘风险溢价脉冲，切勿左侧做空避险资产。</p>
 <p><strong>来源</strong>：<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=2384883162071482024&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D2384883162071482024%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>07-24 19:16 · 以色列防长及总参谋长等军方高层举行安全磋商 <a href="https://flash.jin10.com/detail/20260724182415749800" rel="noopener noreferrer">↗</a></li>
+<li>07-24 22:13 · 以总理指示以军在约旦河西岸采取强硬措施 <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=2384883162071482024&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D2384883162071482024%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">↗</a></li>
+</ul>
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 英特尔Q2财报超预期但华尔街忧代工亏损（主线·5步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-1888e5fc3dca0d</link>
-<guid isPermaLink="false">th-1888e5fc3dca0d</guid>
+<title>[A] 英特尔Q2财报超预期但华尔街忧代工亏损（主线·4步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-eb148a156b6d52</link>
+<guid isPermaLink="false">th-eb148a156b6d52</guid>
 <pubDate>Fri, 24 Jul 2026 22:13:30 +0800</pubDate>
 <description>逢高做空INTC博弈AI变现不及预期，在代工亏损收窄前规避长期多头头寸。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「英特尔财报超预期」· 最新进展 ↓</p>
+<p style='color:#888'>主线「英特尔财报与目标价」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-半导体 · 美股-财报 · 美股-科技巨头 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：英特尔发布Q2财报，亮眼数据赚足市场「预期差」。但华尔街仍对其代工业务亏损及潜在的「AI估值杀」保持深切担忧。</p>
 <p><strong>分析</strong>：短期财报利好无法掩盖长期结构性瑕疵。代工业务的现金流消耗削弱了基本面韧性，而在行业AI叙事下，英特尔若无法兑现算力变现预期，将面临严重的估值向下重估压力。</p>
 <p><strong>Key Takeaway</strong>：逢高做空INTC博弈AI变现不及预期，在代工亏损收窄前规避长期多头头寸。</p>
 <p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3478206" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 5 步）</p><ul>
-<li>07-24 18:17 · 英特尔绩后涨5%且黄金升至4050美元 <a href="https://cn.investing.com/news/stock-market-news/article-3477477" rel="noopener noreferrer">↗</a></li>
+<hr><p><strong>📅 本主题时间线</strong>（共 4 步）</p><ul>
 <li>07-24 19:16 · 英特尔业绩预期强劲释AI利好提振股价 <a href="https://www.investing.com/news/stock-market-news/intel-rises-as-strong-forecasts-signal-ai-boost-for-turnaround-4811049" rel="noopener noreferrer">↗</a></li>
 <li>07-24 20:17 · 两大机构上调英特尔目标价最高至98美元 <a href="https://flash.jin10.com/detail/20260724192559612800" rel="noopener noreferrer">↗</a></li>
 <li>07-24 21:20 · 大摩上调英特尔目标价至84美元 <a href="https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-intel-stock-price-target-on-server-share-losses-93CH-4811605" rel="noopener noreferrer">↗</a></li>
@@ -534,7 +619,7 @@
 <pubDate>Fri, 24 Jul 2026 22:13:30 +0800</pubDate>
 <description>逢低布局三星与SK海力士，博弈巨额芯片供应协议落地带来的营收预期上修。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「三星海力士赴美签单」· 最新进展 ↓</p>
+<p style='color:#888'>主线「韩芯片巨头访美签单」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-半导体 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：李在明访问美国期间，三星与SK海力士有望与美国公司正式签署巨额的芯片供应协议。</p>
 <p><strong>分析</strong>：访美行程直接催化了晶圆厂的海外商业拓展。三星与SK海力士一旦成功斩获美国公司的巨额芯片供应订单，将实质性增厚这两家芯片企业的远期营收预期。</p>
@@ -847,20 +932,6 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 黎巴嫩总统会见特朗普并承诺遵守对以协议</title>
-<link>https://melroseee-e.github.io/market-daily/#th-1028eb38276930</link>
-<guid isPermaLink="false">th-1028eb38276930</guid>
-<pubDate>Fri, 24 Jul 2026 20:17:44 +0800</pubDate>
-<description>逢高沽空原油及黄金等带有地缘风险溢价的避险资产，博弈短期避险情绪退潮。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
-<p><strong>报道</strong>：黎巴嫩总统奥恩在与特朗普总统进行富有成效的会晤后表态，宣布结束战争的时刻已经到来，并明确承诺黎巴嫩将遵守与以色列达成的框架协议。</p>
-<p><strong>分析</strong>：黎巴嫩最高领导人结束高层会晤后公开做出遵守框架协议的承诺，标志着该地缘热点迈出实质性停战步伐。此举将大幅削减地缘冲突带来的风险溢价，对原油与黄金等传统避险品种形成直接压制。</p>
-<p><strong>Key Takeaway</strong>：逢高沽空原油及黄金等带有地缘风险溢价的避险资产，博弈短期避险情绪退潮。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724194852026800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260724194909354800" rel="noopener noreferrer">[2]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
 <title>[A] MannKind获批新药融资五千万股价涨6%</title>
 <link>https://melroseee-e.github.io/market-daily/#th-14957f6e78673f</link>
 <guid isPermaLink="false">th-14957f6e78673f</guid>
@@ -875,22 +946,17 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 赛富时获美退伍军人事务部16亿美元合同（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-f9ad04ce035fb5</link>
-<guid isPermaLink="false">th-f9ad04ce035fb5</guid>
+<title>[A] 赛富时获美退伍军人事务部16亿美元合同</title>
+<link>https://melroseee-e.github.io/market-daily/#th-b5a1bb39003032</link>
+<guid isPermaLink="false">th-b5a1bb39003032</guid>
 <pubDate>Fri, 24 Jul 2026 20:17:44 +0800</pubDate>
 <description>买入并持有Salesforce，博弈政府大单标杆效应带来的后续订单预期及股价修复。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「赛富时获美退伍军人单」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-科技巨头 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：Salesforce成功获得美国退伍军人事务部价值16亿美元的合同。受此大额政府订单消息提振，Salesforce股价在市场交易中上涨1.3%。</p>
 <p><strong>分析</strong>：斩获16亿美元政府机构大单直接为Salesforce带来可观的长期确定性收入，也印证了其在公共部门云服务市场的竞争力。此类大额合同具有极强标杆效应与高客户粘性，有助于锁定业绩基本盘。</p>
 <p><strong>Key Takeaway</strong>：买入并持有Salesforce，博弈政府大单标杆效应带来的后续订单预期及股价修复。</p>
 <p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-93CH-3477815" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>07-24 18:17 · Salesforce获美国退伍军人事务部16亿美元合同 <a href="https://www.investing.com/news/company-news/salesforce-wins-16b-contract-with-us-veterans-affairs-93CH-4810801" rel="noopener noreferrer">↗</a></li>
-<li>07-24 20:17 · 赛富时获美退伍军人事务部16亿美元合同 <a href="https://cn.investing.com/news/stock-market-news/article-93CH-3477815" rel="noopener noreferrer">↗</a></li>
-</ul>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -992,34 +1058,6 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 以色列防长及总参谋长等军方高层举行安全磋商</title>
-<link>https://melroseee-e.github.io/market-daily/#th-48c4e63797f235</link>
-<guid isPermaLink="false">th-48c4e63797f235</guid>
-<pubDate>Fri, 24 Jul 2026 19:16:36 +0800</pubDate>
-<description>依托黄金及原油期权构建宽跨式策略，提前对冲中东突发军事行动带来的尾部风险。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：以色列总理办公室声明显示，国防部长加兰特、总参谋长齐夫少将、辛贝特安全局局长齐尼、国家安全委员会主席本-埃兹拉及多名国防军高级军官共同出席了安全磋商会议。</p>
-<p><strong>分析</strong>：军方、情报机构与国家安全中枢一把手集体举行安全磋商，通常预示着存在紧迫的战术行动规划或重大安全威胁评估。此类高规格军事会议将提升市场对中东局势突变的防御性预期，推高避险资产短线隐含波动率。</p>
-<p><strong>Key Takeaway</strong>：依托黄金及原油期权构建宽跨式策略，提前对冲中东突发军事行动带来的尾部风险。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724182415749800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 蓝思国际与Intel签玻璃通孔技术备忘录</title>
-<link>https://melroseee-e.github.io/market-daily/#th-87f7ccf60fc3e3</link>
-<guid isPermaLink="false">th-87f7ccf60fc3e3</guid>
-<pubDate>Fri, 24 Jul 2026 19:16:36 +0800</pubDate>
-<description>逢低买入布局先进封装玻璃基板概念股，博弈蓝思科技后续实质性技术订单落地。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：A股-板块 · 美股-半导体 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：蓝思科技发布公告称，其全资子公司蓝思国际（香港）有限公司近日与Intel Corporation正式签署合作备忘录。双方将主要围绕玻璃通孔技术展开讨论。</p>
-<p><strong>分析</strong>：Intel作为半导体巨头，其技术路线选择对产业链具有极强风向标意义。此次与消费电子玻璃龙头签署备忘录，标志着玻璃基板及通孔技术在先进封装领域的产业化进程加速，将重塑上游材料端竞争格局。</p>
-<p><strong>Key Takeaway</strong>：逢低买入布局先进封装玻璃基板概念股，博弈蓝思科技后续实质性技术订单落地。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724182229625800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
 <title>[A] 苹果要求iPhone18高端OLED降价20%</title>
 <link>https://melroseee-e.github.io/market-daily/#th-f68a048598b972</link>
 <guid isPermaLink="false">th-f68a048598b972</guid>
@@ -1045,25 +1083,6 @@
 <p><strong>分析</strong>：大额长单落地将显著增厚子公司业绩。高达8.5亿元的订单上限印证下游材料需求景气度，为上游衬底供应商的产能消化和营收增长提供了实质且确定的数据支撑。</p>
 <p><strong>Key Takeaway</strong>：逢回调建立云南锗业多头仓位，博弈大额长单财报利润兑现及半导体材料景气度预期。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724181134825800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 欧央行两管委称九月加息可能高于维持不变（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-7ea09221249747</link>
-<guid isPermaLink="false">th-7ea09221249747</guid>
-<pubDate>Fri, 24 Jul 2026 19:16:36 +0800</pubDate>
-<description>做空欧元区短端国债博弈九月加息超预期，或买入欧元看涨期权防通胀反弹。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「欧央行管委发声偏鹰」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-央行 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
-<p><strong>报道</strong>：欧洲央行管委西姆库斯与斯莱普恩均暗示加息。西姆库斯指出通胀风险偏上行且当前环境对通胀有利，加息概率高于按兵不动；斯莱普恩强调即使未现二次效应，九月仍可能加息。</p>
-<p><strong>分析</strong>：两名管委表态打破市场对欧央行暂停加息的单边预期，凸显抗通胀仍是核心任务。二次效应并非加息的绝对先决条件，短端欧元区国债收益率面临上行压力，欧元汇率或获短期支撑。</p>
-<p><strong>Key Takeaway</strong>：做空欧元区短端国债博弈九月加息超预期，或买入欧元看涨期权防通胀反弹。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260724181121963800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260724181258815800" rel="noopener noreferrer">[2]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>07-24 18:17 · 欧央行管委西姆库斯称加息概率高于维持不变 <a href="https://flash.jin10.com/detail/20260724174937389800" rel="noopener noreferrer">↗</a></li>
-<li>07-24 19:16 · 欧央行两管委称九月加息可能高于维持不变 <a href="https://flash.jin10.com/detail/20260724181121963800" rel="noopener noreferrer">↗</a></li>
-</ul>
 </div>]]></content:encoded>
 </item>
 </channel></rss>
