@@ -5,7 +5,7 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,按主线聚合 · 报道·分析·Key Takeaway(agy 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 27 Jul 2026 04:20:43 +0800</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 05:09:05 +0800</lastBuildDate>
 <item>
 <title>[A] 叙利亚总统称正寻求与以色列达成安全协议</title>
 <link>https://melroseee-e.github.io/market-daily/#th-90e228c13499a1</link>
@@ -27,7 +27,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>买入比特币现货作为地缘宏观对冲配置，顺应主权及大型机构进场通道建设的长期趋势。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「俄最大银行推加密交易」· 最新进展 ↓</p>
+<p style='color:#888'>主线「俄最大银行拟推加密交易」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-交易所 · 宏观-地缘 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：俄罗斯最大银行Sberbank计划于今年构建加密货币交易基础设施。作为俄罗斯资产规模最大的银行，Sberbank正在开展加密货币交易相关的基础设施建设。</p>
 <p><strong>分析</strong>：主权受限国家的顶级银行亲自下场建设底层基础设施，将为主权货币与加密资产提供直接的资金渠道→不仅服务跨境结算现实需求，更强化比特币作为地缘对冲和非主权储备标的的流动性溢价。</p>
@@ -65,7 +65,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>立即撤离停运平台存量资产，事件交易上偏多链上保险与安全设计赛道标的。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「BitMart停运及暴跌」· 最新进展 ↓</p>
+<p style='color:#888'>主线「BitMart关停与暴跌」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-交易所 · crypto-监管 · crypto-安全 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：BitMart交易所宣布逐步停止运营，其全球CEO发布澄清声明称事先不知情，且已被终止职务。此外，美参议院最新版Clarity法案草案纳入了白帽黑客激励条款。</p>
 <p><strong>分析</strong>：交易所突发停运极易引发平台资产挤兑与信任危机，流动性与存量资金将加速向头部合规平台集中。同时，法案对白帽黑客的激励条款有助于明确链上资产追偿与规范，提升去中心化安全协议的合规预期。</p>
@@ -80,22 +80,21 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 美联储决议领衔央行周与超10家项目关停（主线·7步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-2f73c855d7ab5b</link>
-<guid isPermaLink="false">th-2f73c855d7ab5b</guid>
+<title>[A] 美联储决议领衔央行周与超10家项目关停（主线·6步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-b67b2b3f8c9709</link>
+<guid isPermaLink="false">th-b67b2b3f8c9709</guid>
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>在央行周决议前出清停运风险尾部币种，围绕SK海力士ADR转股折溢价及长鑫科技上市做事件套利。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美联储货币政策与预期」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美联储决议及利率预期」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-央行 · crypto-DeFi · crypto-交易所 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
 <p><strong>报道</strong>：7月27日至8月2日市场迎来「超级央行周」，美联储新一期利率决议将登场。长鑫科技于7月27日在科创板上市，芝商所同日推出单一股票期货，SK海力士ADR与普通股预计29日开放双向转换。同时加密行业迎关停潮，YGG Play、Tropykus等超10家项目宣布停运或于27日后终止前端支持。</p>
 <p><strong>分析</strong>：宏观货币政策窗口期叠加新金融工具与芯片半导体标的上市，将加大跨市场资金在利率决议前的避险与重新配置。SK海力士双向转换打通跨国套利渠道，影响半导体板块局部定价；而超10家加密尾部项目停运反映行业出清加速，资金将进一步向具有真实现金流与头部共识的资产集中。</p>
 <p><strong>Key Takeaway</strong>：在央行周决议前出清停运风险尾部币种，围绕SK海力士ADR转股折溢价及长鑫科技上市做事件套利。</p>
 <p><strong>来源</strong>：<a href="https://www.panewslab.com/zh/articles/019f9e15-b8e2-7240-824f-c8c1bd86ae07" rel="noopener noreferrer">[1]</a> <a href="https://www.odaily.news/zh-CN/post/5212115" rel="noopener noreferrer">[2]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 7 步）</p><ul>
+<hr><p><strong>📅 本主题时间线</strong>（共 6 步）</p><ul>
 <li>07-26 04:17 · 市场预计美联储9月加息概率达56.2% <a href="https://www.chaincatcher.com/article/2278070" rel="noopener noreferrer">↗</a></li>
-<li>07-26 09:06 · 沃什或释鹰派信号考验黄金4000美元铁底 <a href="https://flash.jin10.com/detail/20260726084625890800" rel="noopener noreferrer">↗</a></li>
-<li>07-26 20:07 · 高盛发布沃什货币政策工作组前瞻报告 <a href="https://www.investing.com/news/economy-news/goldman-previews-warshs-task-forces-for-advancing-monetary-policy-4812856" rel="noopener noreferrer">↗</a></li>
+<li>07-26 18:07 · 美联储决议前比特币稳守64000美元上方 <a href="https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-64000-as-traders-brace-for-upcoming-fed-decision-4812846" rel="noopener noreferrer">↗</a></li>
 <li>07-26 22:07 · 美联储领衔超级央行周，Meta财报与PCE公布 <a href="https://flash.jin10.com/detail/20260726210004874800" rel="noopener noreferrer">↗</a></li>
 <li>07-27 02:07 · 花旗预计美联储维持利率不变且立场偏鸽 <a href="https://cn.investing.com/news/stock-market-news/article-3479082" rel="noopener noreferrer">↗</a></li>
 <li>07-27 04:16 · 油价突破100美元，美联储7月加息概率急升 <a href="https://www.panewslab.com/zh/articles/019f9ce1-f865-732f-b800-ae5a9f87a57a" rel="noopener noreferrer">↗</a></li>
@@ -124,7 +123,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>EUL在KRW盘上线前后易生短线价差，可依托以太坊主网充提网络时滞执行跨市场事件驱动博弈。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「Upbit上线EUL」· 最新进展 ↓</p>
+<p style='color:#888'>主线「Upbit上线EUL交易」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-交易所 · crypto-DeFi ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：UPBIT将于7月26日12:00正式上线Euler（EUL）的韩元（KRW）交易市场。本次交易支持的入金网络限定为EUL-Ethereum，用户在操作入金前必须确认对应网络。</p>
 <p><strong>分析</strong>：UPBIT开启KRW市场直接打通了EUL的韩元法币流动性渠道，降低韩元买盘的交易摩擦。由于入金渠道仅支持以太坊主网，上币初期的充提网络限制或导致市场短期流动性错配，直接作用于EUL二级市场定价。</p>
@@ -157,7 +156,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>锚定十年十倍规模红利，多头逢调整配置英伟达及SK集团供应链龙头。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「黄仁勋称芯片需求激增」· 最新进展 ↓</p>
+<p style='color:#888'>主线「黄仁勋称芯片规模需大增」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：英伟达CEO黄仁勋在接受彭博社播客采访时表示，未来10年半导体产业规模或需扩大至当前的10倍。他强调韩国处于「黄金时代」，其半导体及工业能力将协助全球建设AI基础设施；目前英伟达已与SK集团达成多项合作。</p>
 <p><strong>分析</strong>：AI基础设施建设长期需要海量半导体与工业能力支撑→十年十倍规模预期抬升上游增长天花板。英伟达通过与SK集团的深度绑定，将全球AI基础建设需求落地至韩国供应链，直接对英伟达、SK集团等核心供需主体的中长期估值与订单空间形成长期托底。</p>
@@ -170,21 +169,25 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] SK海力士Q2盈利预创新高双雄破150万亿（主线·3步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-9f6b9c2076f425</link>
-<guid isPermaLink="false">th-9f6b9c2076f425</guid>
+<title>[A] SK海力士Q2盈利预创新高双雄破150万亿（主线·7步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-e422058b76a7ef</link>
+<guid isPermaLink="false">th-e422058b76a7ef</guid>
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>围绕29日SK海力士Q2业绩披露进行催化博弈，偏多配置存储双雄估值。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「韩存储双雄Q2创纪录」· 最新进展 ↓</p>
+<p style='color:#888'>主线「SK海力士及韩存储双雄」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-半导体 · 美股-财报 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：韩国金融信息机构Yonhap Infom数据显示，继三星电子之后，SK海力士今年第二季度盈利预计也将创下历史新高，其二季度业绩将于29日公布。受此带动，韩国存储双雄合计利润有望突破150万亿韩元。</p>
 <p><strong>分析</strong>：三星电子与SK海力士接连盈利创新高→反映出行业头部的利润兑现爆发力。双雄合计利润有望突破150万亿韩元的预期，将直接形成对SK海力士及三星电子二级市场盈亏表现与估值的强劲支撑，业绩披露日的实际财报数字将成为检验估值溢价与盈利延续性的核心。</p>
 <p><strong>Key Takeaway</strong>：围绕29日SK海力士Q2业绩披露进行催化博弈，偏多配置存储双雄估值。</p>
 <p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2278206" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
+<hr><p><strong>📅 本主题时间线</strong>（共 7 步）</p><ul>
+<li>07-26 04:17 · SK集团获美企七千五百亿美元芯片供应大单 <a href="https://www.chaincatcher.com/article/2278113" rel="noopener noreferrer">↗</a></li>
 <li>07-26 12:07 · SK海力士Q2盈利料创纪录双雄破150万亿 <a href="https://flash.jin10.com/detail/20260726115500172800" rel="noopener noreferrer">↗</a></li>
+<li>07-26 14:06 · SK海力士存托凭证溢价高企再引AI泡沫警告 <a href="https://cn.investing.com/news/stock-market-news/article-3478962" rel="noopener noreferrer">↗</a></li>
 <li>07-26 15:09 · 韩国存储双雄Q2利润有望破150万亿韩元 <a href="https://www.techflowpost.com/newsletter/detail_129513.html" rel="noopener noreferrer">↗</a></li>
+<li>07-26 21:09 · 韩国NPS等养老金首度净买入重仓SK海力士 <a href="https://www.techflowpost.com/newsletter/detail_129522.html" rel="noopener noreferrer">↗</a></li>
+<li>07-26 21:09 · 东芝重夺铠侠第一大股东SK海力士或居二 <a href="https://www.techflowpost.com/newsletter/detail_129530.html" rel="noopener noreferrer">↗</a></li>
 <li>07-27 04:16 · SK海力士Q2盈利预创新高双雄破150万亿 <a href="https://www.chaincatcher.com/article/2278206" rel="noopener noreferrer">↗</a></li>
 </ul>
 </div>]]></content:encoded>
@@ -229,7 +232,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>2194万美元现货转入警示短期抛压，多头宜暂缓追高，防范TRUMP流动性冲击回调。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「特朗普团队代币转所」· 最新进展 ↓</p>
+<p style='color:#888'>主线「TRUMP代币转入CEX」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-代币解锁 · crypto-Meme ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据链上分析师余烬监测，TRUMP团队地址昨日解锁转出的代币已进入CEX。共计1380万枚、价值2194万美元的TRUMP代币被转入Binance。</p>
 <p><strong>分析</strong>：团队地址解锁代币直接流入交易所，意味着潜在二级市场抛压骤增。高达2194万美元筹码进入买卖盘口→直接增加TRUMP现货市场的即时供应量→对当前流动性与承接力构成考验。</p>
@@ -248,7 +251,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>韩国针对海外未许可衍生品平台流量渠道收紧，减配依赖韩国零售客群的海外未合规交易所业务。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「韩国下架海外加密所」· 最新进展 ↓</p>
+<p style='color:#888'>主线「韩谷歌应用商店下架加密所」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-交易所 · crypto-监管 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据韩媒Digital Asset调查，在CoinMarketCap排名前50的海外衍生品交易所中，至少有29家已被韩国Google Play商店下架。</p>
 <p><strong>分析</strong>：应用商店下架直接阻断了韩国移动端增量用户下载与存量用户版本更新渠道。韩国作为高活跃度合规零售交易市场，对未经许可的海外衍生品平台封堵收紧，将迫使当地零售流动性进一步向合规本土平台集中，未合规海外交易所的韩国地区交易量将收缩。</p>
@@ -295,7 +298,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>布局Aave等监管清晰受益的DeFi龙头，博弈美参议院法案推进的政策催化。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「CLARITY立法进程」· 最新进展 ↓</p>
+<p style='color:#888'>主线「CLARITY法案立法进展」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-监管 · crypto-DeFi ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
 <p><strong>报道</strong>：Fidelity Investments呼吁美国参议院通过Clarity Act以建立投资者信任。同时Aave创始人Stani也表示，CLARITY法案已进入「最后一公里」，呼吁行业形成共识推动法案通过。</p>
 <p><strong>分析</strong>：传统资管机构与DeFi核心协议共同推进监管立法→法案落地将消除底层代币合规不确定性，向DeFi协议开放传统资金入场通道，直接改善合规借贷及流动性协议的长期估值逻辑。</p>
@@ -315,7 +318,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>8月23日禁令生效前规避HTX资产敞口，排查交互地址的合规冻结风险。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「欧盟制裁HTX交易所」· 最新进展 ↓</p>
+<p style='color:#888'>主线「欧盟制裁新增HTX交易所」· 最新进展 ↓</p>
 <p><strong>板块</strong>：crypto-监管 · crypto-交易所 · 宏观-地缘 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：欧盟已将加密交易所HTX列入对俄罗斯制裁清单。自8月23日起，相关机制将全面禁止个人与HTX之间的相关交易行为。</p>
 <p><strong>分析</strong>：欧盟合规管辖区内的资金和用户将面临交易禁令，法币通道与合规流动性受阻→HTX平台面临欧洲区域流动性出清压力，合规要求强化也将拉高链上资产跨界转移的监管合规门槛。</p>
@@ -334,7 +337,7 @@
 <pubDate>Mon, 27 Jul 2026 04:16:56 +0800</pubDate>
 <description>押注预测市场成产品流量增长新驱动，顺势做多Robinhood潜在新业务扩张的估值预期。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「罗宾汉洽谈预测市场」· 最新进展 ↓</p>
+<p style='color:#888'>主线「罗宾汉洽谈预测市场业务」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-券商金融 · crypto-交易所 · crypto-DeFi ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据WSJ报道，加密货币与股票交易应用Robinhood背后的公司正与Crypto.com进行谈判，讨论围绕预测市场的相关计划。</p>
 <p><strong>分析</strong>：作为股票和加密货币交易应用背后的公司，Robinhood洽谈布局预测市场意在扩充应用衍生交易品类。与Crypto.com讨论若能达成计划，将把原有交易客群直接引流至高互动性的预测市场场景，加剧流量争夺。</p>
@@ -368,7 +371,7 @@
 <pubDate>Mon, 27 Jul 2026 03:07:40 +0800</pubDate>
 <description>原油与黄金对极端地缘溢价脉冲上升，做多布伦特原油近远月价差，做空对油价敏感的高耗能板块。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美伊冲突与海峡局势」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美伊冲突及海峡进展」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：伊朗革命卫队胡齐斯坦省指挥官对外声称，美军分布在中东地区基地内的超过288个目标已遭到摧毁。</p>
 <p><strong>分析</strong>：中东军事冲突直接威胁波斯湾及原油主干航道安全，市场对原油及天然气供给中断预期大幅升温→油价避险与地缘溢价扩张；同时推高避险情绪，黄金与能源挂钩资产定价中枢急剧抬升。</p>
@@ -482,7 +485,7 @@
 <pubDate>Sun, 26 Jul 2026 22:07:25 +0800</pubDate>
 <description>储能销量占比达四分之一且大电芯规模化交付，逢缩量回调做多宁德时代正股及大储龙头。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「宁德时代业绩与业务」· 最新进展 ↓</p>
+<p style='color:#888'>主线「宁德时代业绩与规模交付」· 最新进展 ↓</p>
 <p><strong>板块</strong>：A股-板块 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：宁德时代发布投资者关系活动记录表公告，表示其587Ah储能大电芯已实现规模化交付。公司上半年动力和储能电池合计销量同比增长约60%，其中储能电池销量占比约四分之一。</p>
 <p><strong>分析</strong>：587Ah等大容量电芯规模化交付→摊薄储能系统单位Wh制造与储运成本→强化商业级项目投标竞争力。储能出货已达到总销量四分之一，大规格储能产品规模化落地有利于优化业务结构和出货韧性。</p>
@@ -509,45 +512,42 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 东芝重夺铠侠第一大股东SK海力士或居二</title>
-<link>https://melroseee-e.github.io/market-daily/#th-66510b39ffda51</link>
-<guid isPermaLink="false">th-66510b39ffda51</guid>
-<pubDate>Sun, 26 Jul 2026 21:09:31 +0800</pubDate>
-<description>长期多头配置产业链纵深强化的SK海力士，博弈存储巨头格局重组红利。</description>
+<title>[A] 高盛发布沃什货币政策工作组前瞻报告（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-f97bee568c44e0</link>
+<guid isPermaLink="false">th-f97bee568c44e0</guid>
+<pubDate>Sun, 26 Jul 2026 20:07:38 +0800</pubDate>
+<description>针对政策框架变动博弈，优先在美债收益率曲线陡峭化策略中阶段性兑现部分获利头寸。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-半导体 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据韩媒Daum 7月26日报道，美国投资基金贝恩资本通过出售日本存储芯片企业铠侠的大部分股份，预计获得约2.5万亿回报。在贝恩资本退出后，东芝将重夺铠侠第一大股东地位。同时，SK海力士或成为铠侠实际的第二大股东。</p>
-<p><strong>分析</strong>：存储行业头部股权加速重构，东芝与SK海力士的产业资本话语权大幅提升。PE资金退出→行业内部竞争与协同关系重新分配，SK海力士成为实际第二大股东后，有望在存储周期复苏阶段提升其产业战略纵深与议价能力。</p>
-<p><strong>Key Takeaway</strong>：长期多头配置产业链纵深强化的SK海力士，博弈存储巨头格局重组红利。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_129530.html" rel="noopener noreferrer">[1]</a></p>
+<p style='color:#888'>主线「沃什货币政策及影响」· 最新进展 ↓</p>
+<p><strong>板块</strong>：宏观-央行 · 宏观-美债 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：高盛发布针对沃什推进货币政策工作组的前瞻报告。工作组核心议题围绕推动及拓展货币政策相关工作展开。</p>
+<p><strong>分析</strong>：货币政策工作组议程潜在变动将干预市场对未来基准利率路径及流动性投放工具的预期。若工作组倾向更规则化的政策框架，美元指数反弹波动或加剧，美债收益率曲线预期面临重新定价。</p>
+<p><strong>Key Takeaway</strong>：针对政策框架变动博弈，优先在美债收益率曲线陡峭化策略中阶段性兑现部分获利头寸。</p>
+<p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/goldman-previews-warshs-task-forces-for-advancing-monetary-policy-4812856" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>07-26 09:06 · 沃什或释鹰派信号考验黄金4000美元铁底 <a href="https://flash.jin10.com/detail/20260726084625890800" rel="noopener noreferrer">↗</a></li>
+<li>07-26 20:07 · 高盛发布沃什货币政策工作组前瞻报告 <a href="https://www.investing.com/news/economy-news/goldman-previews-warshs-task-forces-for-advancing-monetary-policy-4812856" rel="noopener noreferrer">↗</a></li>
+</ul>
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 韩国NPS等养老金首度净买入重仓SK海力士</title>
-<link>https://melroseee-e.github.io/market-daily/#th-1f3c9fd7cbe5ec</link>
-<guid isPermaLink="false">th-1f3c9fd7cbe5ec</guid>
-<pubDate>Sun, 26 Jul 2026 21:09:31 +0800</pubDate>
-<description>做多有机构长期流动性托底的SK海力士，相对超配至KOSPI多头核心位置。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据韩国交易所7月26日数据，包括韩国股市最大机构投资者之一国民年金公团（NPS）在内的养老金基金，截至7月本月首次在韩国股市转为净买入，这也是其今年首次转为KOSPI净买入。资金配置上，这些养老金基金重仓SK海力士。</p>
-<p><strong>分析</strong>：作为市场最大机构力量，NPS等国家级长期资金从流出转为净流入，不仅改善KOSPI市场流动性，更为重点标的带来强力配置支撑。机构对SK海力士的重仓倾斜，强化了该标的资金集中度与定价韧性，凸显头部机构对其相对价值的认可。</p>
-<p><strong>Key Takeaway</strong>：做多有机构长期流动性托底的SK海力士，相对超配至KOSPI多头核心位置。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_129522.html" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 印度称45%对美出口获免除特朗普新关税</title>
-<link>https://melroseee-e.github.io/market-daily/#th-3c1ca0e8a79add</link>
-<guid isPermaLink="false">th-3c1ca0e8a79add</guid>
+<title>[A] 印度称45%对美出口获免除特朗普新关税（主线·3步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-b84a1016c335ee</link>
+<guid isPermaLink="false">th-b84a1016c335ee</guid>
 <pubDate>Sun, 26 Jul 2026 19:06:54 +0800</pubDate>
 <description>逢低配置受益于关税豁免的印度出口优势制造业龙头。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「多国应对特朗普新关税」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · 宏观-外汇 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：印度表示，在完成双边贸易谈判后，该国45%输往美国的出口商品获免除特朗普新关税。</p>
 <p><strong>分析</strong>：45%出口商品获得关税豁免将直接缓和双边贸易摩擦并减轻该国外向型制造企业的关税成本负担→豁免落地后相关产业链产品对美出口优势增强，有助于支撑贸易份额及宏观经济预期。</p>
 <p><strong>Key Takeaway</strong>：逢低配置受益于关税豁免的印度出口优势制造业龙头。</p>
 <p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/india-says-45-of-exports-to-us-spared-new-trump-tariffs-after-trade-talks-4812851" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
+<li>07-26 10:07 · 澳总理阿尔巴尼斯将向特朗普交涉新关税 <a href="https://www.investing.com/news/world-news/australia-to-raise-concerns-over-new-tariffs-with-trump-pm-albanese-says-4812827" rel="noopener noreferrer">↗</a></li>
+<li>07-26 11:07 · 澳总理宣布将挑战特朗普12.5%新关税 <a href="https://www.investing.com/news/economy-news/australia-to-challenge-trumps-new-125-tariff-says-pm-albanese-4812830" rel="noopener noreferrer">↗</a></li>
+<li>07-26 19:06 · 印度称45%对美出口获免除特朗普新关税 <a href="https://www.investing.com/news/economy-news/india-says-45-of-exports-to-us-spared-new-trump-tariffs-after-trade-talks-4812851" rel="noopener noreferrer">↗</a></li>
+</ul>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -557,7 +557,7 @@
 <pubDate>Sun, 26 Jul 2026 18:07:46 +0800</pubDate>
 <description>结合20亿元开支对财务投入的约束，评估算力服务落地进展再决策左侧配置。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「亿田智能采购算力设备」· 最新进展 ↓</p>
+<p style='color:#888'>主线「亿田智能拟采购算力设备」· 最新进展 ↓</p>
 <p><strong>板块</strong>：A股-板块 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：亿田智能（300911.SZ）宣布其子公司拟进行服务器及配套设备采购。该采购项目总规模不超过20亿元，目的在于为客户提供算力服务。</p>
 <p><strong>分析</strong>：传统制造企业大规模采购服务器与配套设备，反映算力基础设施需求外部化趋势。通过斥资提供算力服务开拓客户需求，直接改变公司短期资本开支结构与未来业务营收模型。</p>
@@ -581,20 +581,6 @@
 <p><strong>分析</strong>：财报季前的投行评级调整与首选股名单确定，直接影响市场对人工智能板块业绩兑现预期。机构在第二季度财报前重新排兵布阵，表明AI行情逻辑已由纯概念定价转向业绩拐点与兑现度比较。</p>
 <p><strong>Key Takeaway</strong>：围绕被点名的首选股做Q2财报事件博弈，优先配置盈亏比更佳的标的。</p>
 <p><strong>来源</strong>：<a href="https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-several-top-picks-named-into-q2-earnings-4812810" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 美联储决议前比特币稳守64000美元上方</title>
-<link>https://melroseee-e.github.io/market-daily/#th-3951ce76066284</link>
-<guid isPermaLink="false">th-3951ce76066284</guid>
-<pubDate>Sun, 26 Jul 2026 18:07:46 +0800</pubDate>
-<description>以64000美元为决议多空博弈分水岭，决议公布落地后顺势跟随交易。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：crypto-价格 · 宏观-央行 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：在美联储决议即将到来之际，市场交易员正在准备迎接该政策决定。比特币价格目前保持在64000美元上方。</p>
-<p><strong>分析</strong>：美联储决议直接决定宏观流动性与资金风险偏好。在政策公布前比特币能够守住该美元关口，显示加密资产正作为对利率预期极度敏感的资产进行多空资金博弈。</p>
-<p><strong>Key Takeaway</strong>：以64000美元为决议多空博弈分水岭，决议公布落地后顺势跟随交易。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-64000-as-traders-brace-for-upcoming-fed-decision-4812846" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -626,19 +612,20 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 三星李在镕会见奥尔特曼磋商AI与半导体合作（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-da5b4bce920a3d</link>
-<guid isPermaLink="false">th-da5b4bce920a3d</guid>
+<title>[A] 三星李在镕会见奥尔特曼磋商AI与半导体合作（主线·3步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-82b6b723ca6443</link>
+<guid isPermaLink="false">th-82b6b723ca6443</guid>
 <pubDate>Sun, 26 Jul 2026 15:09:23 +0800</pubDate>
 <description>半导体合作磋商强化估值支撑，可逢低配置三星电子，并做多AI硬件供应链主题。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「李在镕会见奥尔特曼」· 最新进展 ↓</p>
+<p style='color:#888'>主线「韩企高管访美洽谈AI合作」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据韩媒7月26日报道，三星电子会长李在镕在旧金山OpenAI总部，与OpenAI创始人奥尔特曼举行会面。双方围绕人工智能与半导体领域的合作方案展开了磋商。</p>
 <p><strong>分析</strong>：AI大厂直接接洽芯片方→人工智能算力与半导体供应链深度绑定，推动定制化硬件路径探索。该磋商强化了三星电子半导体业务的估值支撑，也将催化市场对AI芯片供应链与代工竞争格局演变的博弈。</p>
 <p><strong>Key Takeaway</strong>：半导体合作磋商强化估值支撑，可逢低配置三星电子，并做多AI硬件供应链主题。</p>
 <p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_129518.html" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
+<li>07-26 10:07 · 三星电子等韩企会长访硅谷会见英伟达CEO <a href="https://flash.jin10.com/detail/20260726095452153800" rel="noopener noreferrer">↗</a></li>
 <li>07-26 13:07 · 三星李在镕会见奥尔特曼磋商AI与半导体合作 <a href="https://flash.jin10.com/detail/20260726125707233800" rel="noopener noreferrer">↗</a></li>
 <li>07-26 15:09 · 三星李在镕会见奥尔特曼磋商AI与半导体合作 <a href="https://www.techflowpost.com/newsletter/detail_129518.html" rel="noopener noreferrer">↗</a></li>
 </ul>
@@ -651,7 +638,7 @@
 <pubDate>Sun, 26 Jul 2026 15:09:23 +0800</pubDate>
 <description>以933.86美元为空头防守参考价，逢高对冲英伟达与美光等高位半导体标的多头溢价。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「伯里做空英伟达和美光」· 最新进展 ↓</p>
+<p style='color:#888'>主线「伯里加码做空半导体股」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据外媒7月26日报道，「大空头」迈克尔·伯里继续做空美光、英伟达及其他半导体公司。伯里在Substack帖子中表示，其已在933.86美元价位进一步做空。</p>
 <p><strong>分析</strong>：「大空头」公开明确价位的空头头寸对半导体多头情绪构成冲击。伯里在933.86美元价位进一步做空的信号强化了板块顶部压力，加速市场对英伟达、美光及其他半导体公司估值分歧的扩散。</p>
@@ -661,20 +648,6 @@
 <li>07-26 13:07 · 伯里加码做空美光、英伟达及半导体公司 <a href="https://flash.jin10.com/detail/20260726124353854800" rel="noopener noreferrer">↗</a></li>
 <li>07-26 15:09 · 伯里在933.86美元加码做空英伟达和美光 <a href="https://www.techflowpost.com/newsletter/detail_129514.html" rel="noopener noreferrer">↗</a></li>
 </ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] SK海力士存托凭证溢价高企再引AI泡沫警告</title>
-<link>https://melroseee-e.github.io/market-daily/#th-9e9ad9dd646ce9</link>
-<guid isPermaLink="false">th-9e9ad9dd646ce9</guid>
-<pubDate>Sun, 26 Jul 2026 14:06:52 +0800</pubDate>
-<description>对溢价率偏高的硬件存托凭证进行估值收敛对冲，避免追高已透支预期的核心标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：SK Hynix美国存托凭证出现溢价高企现象。这一估值溢价表现再度在市场中引发AI泡沫警告。</p>
-<p><strong>分析</strong>：存托凭证溢价大幅走高→反映海外溢出资金对核心硬件资产的追价情绪极端化。估值偏离度过高将放大半导体板块的预期透支风险，加大标的在溢价收敛过程中的波动。</p>
-<p><strong>Key Takeaway</strong>：对溢价率偏高的硬件存托凭证进行估值收敛对冲，避免追高已透支预期的核心标的。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3478962" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -740,7 +713,7 @@
 <pubDate>Sun, 26 Jul 2026 11:07:08 +0800</pubDate>
 <description>原油及成品油品种博弈加工扰动溢价，可借地缘催化短线偏多配置供给受限的炼化与能源标的。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「乌克兰袭击俄油气设施」· 最新进展 ↓</p>
+<p style='color:#888'>主线「乌军袭击俄油气设施」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：在乌克兰和俄罗斯不断加强对彼此关键基础设施袭击之际，俄罗斯乌拉尔地区秋明炼油厂遭到乌克兰无人机袭击并引发火灾。这一情况也涉及该地区行政长官亚历山管辖区域。</p>
 <p><strong>分析</strong>：炼油厂作为能源核心基础设施遇袭→俄罗斯原油加工能力及区域成品油供应受到扰动→潜在产出缩减抬升大宗能源市场地缘风险溢价，加剧油品价格与供需平衡波动。</p>
@@ -749,25 +722,6 @@
 <hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
 <li>07-26 04:17 · 乌克兰袭击里海俄油平台及伊朗商船致死伤 <a href="https://www.chaincatcher.com/article/2278140" rel="noopener noreferrer">↗</a></li>
 <li>07-26 11:07 · 乌克兰无人机袭击致俄秋明炼油厂起火 <a href="https://flash.jin10.com/detail/20260726101828465800" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 澳总理宣布将挑战特朗普12.5%新关税（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-96487cde9e1c47</link>
-<guid isPermaLink="false">th-96487cde9e1c47</guid>
-<pubDate>Sun, 26 Jul 2026 11:07:08 +0800</pubDate>
-<description>做多关税争端下的互补贸易替代标的，短线逢反弹减仓关税敞口过大的对美出口高敏感标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「澳洲应对特朗普关税」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-地缘 · 宏观-外汇 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：澳大利亚总理阿尔巴尼斯宣布，针对特朗普向澳大利亚实施的新增12.5%关税政策，澳大利亚将采取行动发起挑战。这是澳大利亚针对美国关税措施做出的维权反击。</p>
-<p><strong>分析</strong>：美方施加12.5%关税直接抬升自澳进出口成本→澳方挑战旨在关税争端中争取通商定价权与贸易博弈杠杆。纷争加剧将推升澳元汇率波动，并对出口敏感型标的现金流带来预期扰动。</p>
-<p><strong>Key Takeaway</strong>：做多关税争端下的互补贸易替代标的，短线逢反弹减仓关税敞口过大的对美出口高敏感标的。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/australia-to-challenge-trumps-new-125-tariff-says-pm-albanese-4812830" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>07-26 10:07 · 澳总理阿尔巴尼斯将向特朗普交涉新关税 <a href="https://www.investing.com/news/world-news/australia-to-raise-concerns-over-new-tariffs-with-trump-pm-albanese-says-4812827" rel="noopener noreferrer">↗</a></li>
-<li>07-26 11:07 · 澳总理宣布将挑战特朗普12.5%新关税 <a href="https://www.investing.com/news/economy-news/australia-to-challenge-trumps-new-125-tariff-says-pm-albanese-4812830" rel="noopener noreferrer">↗</a></li>
 </ul>
 </div>]]></content:encoded>
 </item>
@@ -797,20 +751,6 @@
 <p><strong>分析</strong>：巨额反垄断罚单打破行业护城河→中介依赖市场支配地位的定价模式与高毛利护城河面临收缩。51亿罚金将直接冲击相关企业利润表，压缩行业整体估值溢价与盈利拓展空间。</p>
 <p><strong>Key Takeaway</strong>：防范中介行业头部企业盈利下调与估值重估风险，规避反垄断重灾区高佣金模式标的。</p>
 <p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3478927" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 三星电子等韩企会长访硅谷会见英伟达CEO</title>
-<link>https://melroseee-e.github.io/market-daily/#th-3bb4543eb69d42</link>
-<guid isPermaLink="false">th-3bb4543eb69d42</guid>
-<pubDate>Sun, 26 Jul 2026 10:07:28 +0800</pubDate>
-<description>多配英伟达与三星电子，博弈巨头高层会晤后在芯片与算力供应链落地实质协作的催化。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-AI算力 · 美股-半导体 · 美股-科技巨头 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据韩媒报道，三星电子会长李在镕、现代汽车集团会长郑义宣及Naver创始人兼董事长李海珍此前访问了位于硅谷的英伟达总部。三位韩国科技巨头高管在访问期间共同会见了英伟达CEO。</p>
-<p><strong>分析</strong>：三星电子、现代汽车与Naver分别对应硬件制造、车载场景与AI应用平台。三家头部韩企负责人集体直访英伟达总部，反映出产业对核心算力资源的战略重视，高层对接有望强化双方在芯片与AI基建环节的绑定，直接影响相关公司AI业务推进效率。</p>
-<p><strong>Key Takeaway</strong>：多配英伟达与三星电子，博弈巨头高层会晤后在芯片与算力供应链落地实质协作的催化。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260726095452153800" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -1016,7 +956,7 @@
 <pubDate>Sun, 26 Jul 2026 04:17:48 +0800</pubDate>
 <description>规避因核心机密外泄面临私募推进停滞的AI初创项目，资金转向基本面透明的上市算力龙头。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「深度求索暂停融资」· 最新进展 ↓</p>
+<p style='color:#888'>主线「深度求索暂停第二轮融资」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-AI算力 · 美股-IPO · A股-板块 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
 <p><strong>报道</strong>：据彭博社7月25日报道，因不满首次融资交易期间4小时内部闭门会议内容外泄，创始人梁文锋叫停了DeepSeek第二轮融资，并口头通知潜在投资者不再签署预期协议。</p>
 <p><strong>分析</strong>：头部AI独角兽因保密纠纷单方面终止融资，反映出顶级模型研发企业对核心战略信息的安全需求远高于外部资金补充。该事件将加剧一级市场对优质AI标的争夺，并迫使投资机构重塑尽调保密流程。</p>
@@ -1054,20 +994,6 @@
 <p><strong>分析</strong>：合规规则若受既得利益集团深度干预，不仅暴露了Tether护城河的政治脆弱性，更可能招致联邦层面针对USDT发行业务的反垄断清算。政策透明度缺失正成为稳定币定价机制中极具破坏性的隐性系统风险。</p>
 <p><strong>Key Takeaway</strong>：做空USDT兑美元微小溢价，或将稳定币生息头寸轮动至USDC防黑天鹅。</p>
 <p><strong>来源</strong>：<a href="https://www.panewslab.com/zh/articles/019f9928-4744-757b-bc2b-c256b009c1c2" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[S] SK集团获美企七千五百亿美元芯片供应大单</title>
-<link>https://melroseee-e.github.io/market-daily/#th-c68de8b598e652</link>
-<guid isPermaLink="false">th-c68de8b598e652</guid>
-<pubDate>Sun, 26 Jul 2026 04:17:48 +0800</pubDate>
-<description>增配英伟达与SK海力士多头头寸，做多AI硬件基础设施赛道核心标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-半导体 · 美股-科技巨头 · 美股-AI算力 ｜ <strong>重要度</strong>：S ｜ 聚合 4 条快讯</p>
-<p><strong>报道</strong>：SK集团将向英伟达等美国科技巨头供应价值7500亿美元芯片。同时，英伟达与SK开展超5000亿美元涵盖数据中心与存储的AI计划，并向Naver投资10亿美元。Anthropic也与三星及SK海力士签署供应协议。</p>
-<p><strong>分析</strong>：超万亿美元的跨国半导体采购与AI基建投资，标志着算力军备竞赛进入硬件垄断阶段。巨头通过长协天量资金提前锁定下一代存储器等上游核心产能，这种深度绑定将进一步抬升硬件初创公司的入局门槛。</p>
-<p><strong>Key Takeaway</strong>：增配英伟达与SK海力士多头头寸，做多AI硬件基础设施赛道核心标的。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2278113" rel="noopener noreferrer">[1]</a> <a href="https://www.chaincatcher.com/article/2278089" rel="noopener noreferrer">[2]</a> <a href="https://www.chaincatcher.com/article/2278084" rel="noopener noreferrer">[3]</a> <a href="https://www.chaincatcher.com/article/2278080" rel="noopener noreferrer">[4]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
