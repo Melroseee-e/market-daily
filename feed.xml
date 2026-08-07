@@ -5,27 +5,390 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,按主线聚合 · 报道·分析·Key Takeaway(agy 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 08 Aug 2026 04:34:52 +0800</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 05:18:06 +0800</lastBuildDate>
 <item>
-<title>[A] 美7月非农减2.3万人，现货黄金涨3%（主线·11步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-4373357b92fe11</link>
-<guid isPermaLink="false">th-4373357b92fe11</guid>
+<title>[A] ether.fi剥离weETH再质押敞口</title>
+<link>https://melroseee-e.github.io/market-daily/#th-175e7304abf9f3</link>
+<guid isPermaLink="false">th-175e7304abf9f3</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>配置weETHs博取Symbiotic生态早期红利，做空EIGEN对冲头部资金流失引发的估值下修风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：crypto-DeFi ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：ether.fi宣布已将weETH的全部再质押敞口移除，使其成为纯流动性质押代币（LST）。再质押功能被转移至基于Symbiotic的独立代币weETHs，标志着该协议接近全面退出EigenLayer。</p>
+<p><strong>分析</strong>：weETH剥离再质押属性意味着消除AVS罚没风险，底层收益纯粹挂钩以太坊PoS。百亿级LRT龙头倒戈转移至Symbiotic，将直接抽血EigenLayer的TVL护城河，驱动再质押赛道资金向挑战者协议加速重分配。</p>
+<p><strong>Key Takeaway</strong>：配置weETHs博取Symbiotic生态早期红利，做空EIGEN对冲头部资金流失引发的估值下修风险。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281162" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 伊朗与阿曼就霍尔木兹复航达成框架协议（主线·6步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-72e848db6a2f68</link>
+<guid isPermaLink="false">th-72e848db6a2f68</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>逢高沽空布伦特原油近月合约博弈地缘溢价挤出，或做多下游炼化企业享受成本下降红利。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「霍尔木兹复航与遇袭」· 最新进展 ↓</p>
+<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A ｜ 聚合 5 条快讯</p>
+<p><strong>报道</strong>：伊朗与阿曼已明确恢复霍尔木兹海峡商业航运的协议总体框架。美国官员证实谈判进展，并承诺复航协议达成后将解除对伊港口封锁，美布两油受此消息影响短线走低。</p>
+<p><strong>分析</strong>：霍尔木兹海峡作为全球能源生命线，其复航协议直接清除了中东原油断供的尾部风险。美国解除港口封锁的承诺，预示更多伊朗原油将合法回流国际市场，从供给端对短期油价施加结构性压制。</p>
+<p><strong>Key Takeaway</strong>：逢高沽空布伦特原油近月合约博弈地缘溢价挤出，或做多下游炼化企业享受成本下降红利。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281168" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260808030033577800" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260808030514702800" rel="noopener noreferrer">[3]</a> <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13295228302223530557&amp;channelId=1017&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D13295228302223530557%2526channelId%253D1017%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[4]</a> <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5496681615898442959&amp;channelId=1017&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D5496681615898442959%2526channelId%253D1017%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[5]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 6 步）</p><ul>
+<li>08-07 23:20 · ADNOC霍尔木兹海峡15艘船遭袭影响运营 <a href="https://flash.jin10.com/detail/20260807220425522800" rel="noopener noreferrer">↗</a></li>
+<li>08-08 00:12 · 阿联酋船只遇袭，伊朗称过霍尔木兹需撤制裁 <a href="https://flash.jin10.com/detail/20260807220456201800" rel="noopener noreferrer">↗</a></li>
+<li>08-08 01:14 · ADNOC船只霍尔木兹遇袭致1死20伤 <a href="https://flash.jin10.com/detail/20260807220705108800" rel="noopener noreferrer">↗</a></li>
+<li>08-08 02:13 · 伊朗正等待最高国安委批准与美阿达成的协议 <a href="https://flash.jin10.com/detail/20260808013555092800" rel="noopener noreferrer">↗</a></li>
+<li>08-08 04:32 · 预测市场「8日伊朗解封」胜率暴跌36.5% <a href="https://www.chaincatcher.com/article/2281366" rel="noopener noreferrer">↗</a></li>
+<li>08-08 05:15 · 伊朗与阿曼就霍尔木兹复航达成框架协议 <a href="https://www.chaincatcher.com/article/2281168" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 阿里拟对Qwen模型重度用户收取分成</title>
+<link>https://melroseee-e.github.io/market-daily/#th-4cdb9ecee17327</link>
+<guid isPermaLink="false">th-4cdb9ecee17327</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>买入阿里核心看涨期权博弈AI商业变现预期，坚决回避直接依赖Qwen做「套壳」的初创企业。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：港股 · 美股-科技巨头 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：路透社报道，阿里巴巴计划要求其下一代Qwen开源AI模型的重度商业用户分享部分收入，该商业化探索举措与月之暗面Kimi K3的许可模式相仿。</p>
+<p><strong>分析</strong>：头部大厂从「完全免费开源」转向对重度客户收费，标志国内大模型行业迈入商业变现深水区。此举将实质性提升阿里AI业务的中长期收入预期，并迫使依赖开源模型的初创企业重估成本结构。</p>
+<p><strong>Key Takeaway</strong>：买入阿里核心看涨期权博弈AI商业变现预期，坚决回避直接依赖Qwen做「套壳」的初创企业。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281178" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] UPBIT上线BSB并支持韩元交易</title>
+<link>https://melroseee-e.github.io/market-daily/#th-832e7321f77d68</link>
+<guid isPermaLink="false">th-832e7321f77d68</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>直接做多BSB现货博弈韩元买盘首日拉升，防范冲高回落的流动性反噬。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：crypto-交易所 · crypto-价格 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：据ChainCatcher消息，UPBIT将于8月7日15:00上线Block Street (BSB)，并同步开放KRW、BTC及USDT交易市场。</p>
+<p><strong>分析</strong>：韩国头部交易所UPBIT的上线往往伴随显著的韩元流动性溢价。此次直接开通KRW交易对，打通了韩国本土零售资金入场通道，将在短期内为BSB注入极高的流动性与投机买盘。</p>
+<p><strong>Key Takeaway</strong>：直接做多BSB现货博弈韩元买盘首日拉升，防范冲高回落的流动性反噬。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281182" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] Tether增持14吨黄金成最大私人持有者</title>
+<link>https://melroseee-e.github.io/market-daily/#th-4f49878565e16c</link>
+<guid isPermaLink="false">th-4f49878565e16c</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>买入黄金多头头寸，对冲加密市场单一定价体系及法币购买力持续贬值的尾部风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：crypto-稳定币 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：2026年第二季度，Tether新增14吨黄金，总持仓达创纪录的146吨。其黄金资产价值约188亿美元，成为全球除央行和政府外最大的私人黄金持有者。</p>
+<p><strong>分析</strong>：稳定币巨头将储备向实物黄金倾斜，意在对冲美债收益率下行与美元信用稀释风险。此举大幅夯实USDT底层资产抗通胀能力，更可能引发其他加密机构效仿囤金。</p>
+<p><strong>Key Takeaway</strong>：买入黄金多头头寸，对冲加密市场单一定价体系及法币购买力持续贬值的尾部风险。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281189" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] Firmus获英伟达20亿美元融资，估值翻倍</title>
+<link>https://melroseee-e.github.io/market-daily/#th-61300fa0a6e168</link>
+<guid isPermaLink="false">th-61300fa0a6e168</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>加仓英伟达供应链上的核心液冷与光模块标的，顺势博弈AI基建赛道一级市场高溢价。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-AI算力 · 美股-半导体 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：8月7日，AI基础设施公司Firmus宣布完成20亿美元股权融资，英伟达与Coatue参投。其投后估值突破105亿美元，较4月份55亿美元估值近乎翻倍。</p>
+<p><strong>分析</strong>：英伟达重金押注独立AI基建商，旨在巩固自身算力硬件生态并防御传统云厂商。短短四个月估值翻倍，印证一级资本对核心数据中心资产的定价仍在加速上行。</p>
+<p><strong>Key Takeaway</strong>：加仓英伟达供应链上的核心液冷与光模块标的，顺势博弈AI基建赛道一级市场高溢价。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281192" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] Google退出前沿AI竞争，GCP加速外售TPU</title>
+<link>https://melroseee-e.github.io/market-daily/#th-7281c636d950d8</link>
+<guid isPermaLink="false">th-7281c636d950d8</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>做空Google大模型生态概念股，布局受益于TPU算力降本的AI应用端开发商。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-科技巨头 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：研究机构SemiAnalysis指出，Google DeepMind已不再属于前沿AI实验室行列。此前一周DeepMind联合创始人Demis亦有发声，目前GCP正加速向第三方出售TPU获利。</p>
+<p><strong>分析</strong>：退出前沿竞争意味Google战略重心从大模型研发转向算力基建变现。TPU外售加速将直接冲击英伟达算力租赁市场份额，引发AI基础设施算力价格体系重估。</p>
+<p><strong>Key Takeaway</strong>：做空Google大模型生态概念股，布局受益于TPU算力降本的AI应用端开发商。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281194" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 集邦上调26年AI服务器出货增幅至31%</title>
+<link>https://melroseee-e.github.io/market-daily/#th-82ad76e70ac1ee</link>
+<guid isPermaLink="false">th-82ad76e70ac1ee</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>逢低布局占据主导地位的算力芯片与服务器代工龙头，博弈云厂商资本开支高增的业绩兑现。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：TrendForce集邦咨询最新研究预估，2026年全球九大云端服务供应商总资本支出将同比增长约90%。在超大型CSP及Tier-2数据中心需求带动下，该机构将2026年AI服务器出货量增幅上调至近31%。</p>
+<p><strong>分析</strong>：云端巨头超预期高达90%的资本支出增幅，直观反映了底层算力军备竞赛的持续性。这一开支将向上传导为强劲的硬件采购订单，出货量上调进一步确认了算力产业链景气度，为上游核心供应商锁定业绩确定性。</p>
+<p><strong>Key Takeaway</strong>：逢低布局占据主导地位的算力芯片与服务器代工龙头，博弈云厂商资本开支高增的业绩兑现。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281206" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 日本发布11项防诈新规要求交易所延迟提款（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-f990e82ec90eca</link>
+<guid isPermaLink="false">th-f990e82ec90eca</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>评估日本合规加密平台的资金流转成本，调低利用日元渠道进行高频跨所套利的预期收益。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「日本强化加密监管」· 最新进展 ↓</p>
+<p><strong>板块</strong>：crypto-监管 · crypto-交易所 ｜ <strong>重要度</strong>：A ｜ 聚合 3 条快讯</p>
+<p><strong>报道</strong>：日本金融厅与警察厅于8月6日联合向加密资产交易业协会发函，要求各交易所加大力度防范加密诈骗案件。此次共提出11项防诈新规，其中包括强化提款地址审查以及引入提款延迟机制等具体安全防线。</p>
+<p><strong>分析</strong>：政府机关直接指导行业协会，表明防欺诈已成为日本数字资产监管优先事项。新规通过提款延迟阻断链上资产转移，但此举直接推高了合规平台的审核摩擦与时间成本，将显著降低用户的跨所套利效率。</p>
+<p><strong>Key Takeaway</strong>：评估日本合规加密平台的资金流转成本，调低利用日元渠道进行高频跨所套利的预期收益。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281224" rel="noopener noreferrer">[1]</a> <a href="https://www.panewslab.com/zh/articles/019fdaa6-6d64-731d-82e8-d8234322949d" rel="noopener noreferrer">[2]</a> <a href="https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams" rel="noopener noreferrer">[3]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>08-08 05:15 · 日本金融厅新设加密资产和稳定币专职部门 <a href="https://www.chaincatcher.com/article/2281300" rel="noopener noreferrer">↗</a></li>
+<li>08-08 05:15 · 日本发布11项防诈新规要求交易所延迟提款 <a href="https://www.chaincatcher.com/article/2281224" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 央行上海总部会议强调持续防范虚拟币炒作</title>
+<link>https://melroseee-e.github.io/market-daily/#th-8dc1a2b50de84d</link>
+<guid isPermaLink="false">th-8dc1a2b50de84d</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>规避使用境内主要银行借记卡进行大额场外兑换，切断涉币转账关联以防触发风控审核。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-央行 · crypto-监管 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：中国人民银行上海总部召开2026年下半年工作会议，要求坚决守牢不发生系统性金融风险底线。会议明确将持续防范处置虚拟货币交易炒作风险，并加大银行机构评级评估核查及系统重要性金融机构监测力度。</p>
+<p><strong>分析</strong>：将虚拟币炒作防范作为下半年重点工作并与系统性风险挂钩，显示本土合规监管高压不减。叠加对银行机构的评级核查，针对涉币大额出入金通道及场外可疑账户的排查将进一步收紧，冻卡频率可能随之上升。</p>
+<p><strong>Key Takeaway</strong>：规避使用境内主要银行借记卡进行大额场外兑换，切断涉币转账关联以防触发风控审核。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281225" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] AMD收购Taalas将模型权重刻进硅片</title>
+<link>https://melroseee-e.github.io/market-daily/#th-4bf6282b021ccd</link>
+<guid isPermaLink="false">th-4bf6282b021ccd</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>押注专用架构对通用GPU在推理端的替代逻辑，逢低做多AMD并在其生态链中寻找阿尔法。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：AMD宣布收购累计融资2.19亿美元的多伦多AI推理芯片初创公司Taalas。此次未披露价格的交易旨在增强AMD在推理市场的布局，Taalas正在尝试将AI模型的权重直接刻入硅片中。</p>
+<p><strong>分析</strong>：将模型权重硬编码入硅片是从通用计算向专用ASIC演进的极致路径。该方案虽牺牲灵活性，却能换取极高推理能效比，反映出AMD试图通过底层硬件架构的颠覆式创新，在巨头主导的推理市场撕开破局缺口。</p>
+<p><strong>Key Takeaway</strong>：押注专用架构对通用GPU在推理端的替代逻辑，逢低做多AMD并在其生态链中寻找阿尔法。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281229" rel="noopener noreferrer">[1]</a> <a href="https://www.techflowpost.com/zh-CN/article/33101" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 字节跳动正训练10万亿参数级AI模型</title>
+<link>https://melroseee-e.github.io/market-daily/#th-4def34b4727737</link>
+<guid isPermaLink="false">th-4def34b4727737</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>锚定国内头部大厂不计成本的算力资本支出，做多为其提供底层智算基建与网络设备的核心标的。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-科技巨头 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：据金融时报报道，字节跳动正在训练一款10万亿参数规模的AI模型，其体量或接近Anthropic最先进的Mythos系列，标志着中国企业持续缩小与美国顶级人工智能实验室的技术差距。</p>
+<p><strong>分析</strong>：十万亿参数级别的模型训练代表国产大模型正试图在绝对规模上实现跨越。这种体量的模型对底层智算集群提出极高要求，势必驱动字节内部AI算力资本开支维持高位运行，进一步加剧头部大厂间的军备竞赛。</p>
+<p><strong>Key Takeaway</strong>：锚定国内头部大厂不计成本的算力资本支出，做多为其提供底层智算基建与网络设备的核心标的。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281234" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美光称内存占系统总价值比例升至近50%</title>
+<link>https://melroseee-e.github.io/market-daily/#th-7334df03c9ec74</link>
+<guid isPermaLink="false">th-7334df03c9ec74</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>沿着存储在算力硬件中占比提升的逻辑，做多具备先进封装及高带宽内存产能的头部供应商。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：美光科技在FMS 2026会议上向德意志银行指出，AI正重塑产业格局。内存占系统总价值比例已从三十年前约10%飙升至目前近50%且趋势加速，当前AI Agent需求仍处于「季前热身」阶段。</p>
+<p><strong>分析</strong>：内存价值占比的跃升反映出AI硬件成本结构已发生根本性倾斜。随着Agent等高频读写场景的落地，存储瓶颈凸显，标志着存储板块在算力产业链中的话语权被重估，这将直接拔高头部内存厂商的长期估值中枢与议价能力。</p>
+<p><strong>Key Takeaway</strong>：沿着存储在算力硬件中占比提升的逻辑，做多具备先进封装及高带宽内存产能的头部供应商。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281236" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] BONK遭两千万美元明抢后被Upbit下架</title>
+<link>https://melroseee-e.github.io/market-daily/#th-24ea54a7f979e0</link>
+<guid isPermaLink="false">th-24ea54a7f979e0</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>现价直接做空BONK或清仓避险，防范流动性抽空与大户恐慌砸盘带来的归零风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：crypto-交易所 · crypto-Meme · crypto-安全 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：在遭遇2000万美元「合法」明抢事件后，韩国最大加密交易所Upbit宣布，将于9月7日15:00终止对BONK的交易支持，受影响的包括韩元与USDT交易对。</p>
+<p><strong>分析</strong>：头部交易所切断法币及稳定币流动性是对Meme币的致命打击。此举直接引发大量抛压预期，叠加此前巨额资金被抢的恶性事件，将加速场内恐慌踩踏与流动性枯竭。</p>
+<p><strong>Key Takeaway</strong>：现价直接做空BONK或清仓避险，防范流动性抽空与大户恐慌砸盘带来的归零风险。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281246" rel="noopener noreferrer">[1]</a> <a href="https://www.panewslab.com/zh/articles/019fdbc1-12b1-76a5-8ae3-91e129038ca5" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] SK海力士将投资35.2万亿韩元建设芯片厂</title>
+<link>https://melroseee-e.github.io/market-daily/#th-a6ae8e8e50fb22</link>
+<guid isPermaLink="false">th-a6ae8e8e50fb22</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>逢低布局半导体设备与材料上游核心供应商，买入并持有以共享产能扩张的红利。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：SK海力士计划在韩国龙仁市进行第二阶段芯片厂建设，为此将投入高达35.2万亿韩元的巨额资金。</p>
+<p><strong>分析</strong>：巨额资本开支投向新阶段晶圆厂建设，彰显存储巨头对算力及存储需求爆发的长期看好。此举不仅巩固其产能壁垒，亦将为上游半导体设备及材料供应商带来长期订单预期。</p>
+<p><strong>Key Takeaway</strong>：逢低布局半导体设备与材料上游核心供应商，买入并持有以共享产能扩张的红利。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281248" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 微芯科技二季度收入利润指引超预期盘前涨9%</title>
+<link>https://melroseee-e.github.io/market-daily/#th-f07ccd1bb50578</link>
+<guid isPermaLink="false">th-f07ccd1bb50578</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>顺势做多微芯科技并博弈半导体板块的情绪溢价，以盘前涨幅起步价为短线支撑。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 · 美股-财报 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：微芯科技预测其第二季度收入与利润均将超出预期。受此乐观的业绩指引提振，据Gate行情数据显示，该公司股价在盘前交易中大幅上涨9%。</p>
+<p><strong>分析</strong>：半导体公司业绩指引上调直接映射其下游需求景气度修复与订单饱满。盘前显著的涨幅表明资金对该股基本面改善定价积极，或将带动相关产业链及芯片板块情绪回暖。</p>
+<p><strong>Key Takeaway</strong>：顺势做多微芯科技并博弈半导体板块的情绪溢价，以盘前涨幅起步价为短线支撑。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281262" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美商务部8.74亿美元入股押注后GPU底层技术</title>
+<link>https://melroseee-e.github.io/market-daily/#th-62ac0adf95ad15</link>
+<guid isPermaLink="false">th-62ac0adf95ad15</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>顺势建立CPO与先进封装概念股的多头底仓，长线做多获官方股权背书的核心技术供应商。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-半导体 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：美国商务部于7月29日与七家半导体公司签署意向书，计划通过股权投资形式注资最高8.74亿美元。该资金将直接用于支持CPO、铁电存储器、3D封装等七项被称为「后GPU时代」的核心技术路线。</p>
+<p><strong>分析</strong>：以直接股权投资而非传统补贴形式介入，标志着官方产业政策的深度绑定。主攻CPO与3D封装等节点，旨在打破现有算力瓶颈与巨头垄断格局，这必然加速硅光子及先进封装产业链的商业化落地与市场估值重估。</p>
+<p><strong>Key Takeaway</strong>：顺势建立CPO与先进封装概念股的多头底仓，长线做多获官方股权背书的核心技术供应商。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281270" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美银牛熊指数达9.7创2021年来极度看涨新高</title>
+<link>https://melroseee-e.github.io/market-daily/#th-e6e61a11bf37fd</link>
+<guid isPermaLink="false">th-e6e61a11bf37fd</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>逢高平仓纳指及高Beta加密资产多头，买入VIX看涨期权对冲短线动能衰竭的回调风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-数据 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：美国银行策略师警告投资者看涨情绪已达到自2021年以来的最极端水平。在近期股市上涨与较高收益驱动下，美银牛熊指数从9.4进一步攀升至9.7，该机构明确建议投资者开始减小风险资产的敞口。</p>
+<p><strong>分析</strong>：情绪指标逼近极值往往是反向操作的前瞻信号。牛熊指数突破9.5阈值进入极度贪婪区间，意味着增量资金的做多动能已严重透支。一旦宏观数据或盈利出现瑕疵，拥挤的多头仓位极易发生踩踏，引发高位剧烈调整。</p>
+<p><strong>Key Takeaway</strong>：逢高平仓纳指及高Beta加密资产多头，买入VIX看涨期权对冲短线动能衰竭的回调风险。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281274" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 特朗普称利率由政治化委员会决定而非沃什独断（主线·4步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-2277ef01990e0b</link>
+<guid isPermaLink="false">th-2277ef01990e0b</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>重新评估中期选举前的降息溢价，短线做陡美债收益率曲线以对冲政治化干预风险。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「特朗普欲干预美联储」· 最新进展 ↓</p>
+<p><strong>板块</strong>：宏观-央行 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：针对美联储主席凯文·沃什是否应在中期选举前避免加息，特朗普公开表示，加息与否一定程度上取决于沃什，但不完全如此。他称赞了沃什，并强调利率走向是由一个「非常政治化」的委员会共同决定。</p>
+<p><strong>分析</strong>：此番言论揭示了决策层对美联储独立性的定性判断。将公开市场委员会定性为「政治化」，暗指货币政策路径将深度受到中期选举等政治周期的牵制，而非纯粹的经济数据驱动，这大幅削弱了市场对单一主席政策倾向的定价权重。</p>
+<p><strong>Key Takeaway</strong>：重新评估中期选举前的降息溢价，短线做陡美债收益率曲线以对冲政治化干预风险。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281276" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 4 步）</p><ul>
+<li>08-07 23:20 · 哈塞特称特朗普不向联储主席沃什提利率建议 <a href="https://flash.jin10.com/detail/20260807220744224800" rel="noopener noreferrer">↗</a></li>
+<li>08-08 01:14 · 特朗普在最高法院受挫后仍欲解雇联储理事 <a href="https://flash.jin10.com/detail/20260808004923983800" rel="noopener noreferrer">↗</a></li>
+<li>08-08 02:13 · 特朗普以「严重失职」正式启动罢免美联储库克 <a href="https://www.investing.com/news/economy-news/trump-moving-forward-with-attempt-to-fire-lisa-cook-after-supreme-court-ruling-abcnews-4847248" rel="noopener noreferrer">↗</a></li>
+<li>08-08 05:15 · 特朗普称利率由政治化委员会决定而非沃什独断 <a href="https://www.chaincatcher.com/article/2281276" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美审查中企借境外租算力获取英伟达芯片路径（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-3efe860a7cbf8a</link>
+<guid isPermaLink="false">th-3efe860a7cbf8a</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>沽空因算力成本飙升而研发承压的中资AI标的，做多直接受益于封锁加剧的国产替代算力链。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「美审查中企获取算力」· 最新进展 ↓</p>
+<p><strong>板块</strong>：宏观-地缘 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：彭博社透露，负责调查芯片出口管制的美国政府部门正系统性审查中国AI企业通过境外租用算力等合法途径，获取英伟达先进芯片并绕过禁令的方式。</p>
+<p><strong>分析</strong>：审查之手伸向云端租赁模式，标志着美对华算力封锁从实体硬件向虚拟服务闭环。该行动将推高合规境外算力池的租赁价格，→倒逼国产算力替代进程加速。</p>
+<p><strong>Key Takeaway</strong>：沽空因算力成本飙升而研发承压的中资AI标的，做多直接受益于封锁加剧的国产替代算力链。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281286" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>08-07 21:21 · 美政府审查中企境外租借英伟达算力路径 <a href="https://www.techflowpost.com/newsletter/detail_131152.html" rel="noopener noreferrer">↗</a></li>
+<li>08-08 05:15 · 美审查中企借境外租算力获取英伟达芯片路径 <a href="https://www.chaincatcher.com/article/2281286" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 字母表持5.5亿股SPCX，促其大涨16%</title>
+<link>https://melroseee-e.github.io/market-daily/#th-55ca36ecd9c4f9</link>
+<guid isPermaLink="false">th-55ca36ecd9c4f9</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>顺势做多高通等纳指科技标的，博弈资金向商业航天及底层通信产业链的溢价传导。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：美股-科技巨头 · 美股-航天 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：美国SEC文件显示Alphabet报告持有SpaceX的5.512亿股A类股票。周五美股三大股指收涨，纳指涨1.3%，SpaceX股价大涨15.8%。</p>
+<p><strong>分析</strong>：科技巨头庞大持仓曝光，向市场注入针对商业航天龙头的强信用背书。该动作直接拔高了场外市场对该资产的估值锚点，→带动资金外溢至相关科技产业链。</p>
+<p><strong>Key Takeaway</strong>：顺势做多高通等纳指科技标的，博弈资金向商业航天及底层通信产业链的溢价传导。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281288" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260808040100140800" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 特朗普召集力拓与必和必拓高管商讨矿产供应（主线·2步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-7c11b2aec18f93</link>
+<guid isPermaLink="false">th-7c11b2aec18f93</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>提前埋伏具备本土或盟友产能的力拓与必和必拓，博弈美供应链重构政策落地带来的估值溢价。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p style='color:#888'>主线「特朗普商讨矿产供应」· 最新进展 ↓</p>
+<p><strong>板块</strong>：crypto-挖矿 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：8月7日特朗普于美国国务院召集全球大型矿业公司高管开会，预计力拓集团与必和必拓等巨头出席，旨在采取行动保障美国及其盟友的关键矿产供应。</p>
+<p><strong>分析</strong>：此高级别会议反映出美方欲进一步掌控上游核心资源定价权。供应链回流与盟友体系重塑将直接打破现有矿产供需平衡，提升关键材料战略溢价。</p>
+<p><strong>Key Takeaway</strong>：提前埋伏具备本土或盟友产能的力拓与必和必拓，博弈美供应链重构政策落地带来的估值溢价。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281291" rel="noopener noreferrer">[1]</a></p>
+<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
+<li>08-07 21:21 · 特朗普召集百名矿企高管商讨关键矿产供应 <a href="https://www.techflowpost.com/newsletter/detail_131157.html" rel="noopener noreferrer">↗</a></li>
+<li>08-08 05:15 · 特朗普召集力拓与必和必拓高管商讨矿产供应 <a href="https://www.chaincatcher.com/article/2281291" rel="noopener noreferrer">↗</a></li>
+</ul>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 特朗普公开宣称越来越多民众使用比特币支付</title>
+<link>https://melroseee-e.github.io/market-daily/#th-087aa5bd27b281</link>
+<guid isPermaLink="false">th-087aa5bd27b281</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>顺势增配比特币及闪电网络生态基础设施标的，押注大选前政客竞相对加密行业释放政策红利。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：crypto-监管 · 宏观-地缘 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：据Bitcoin Magazine在X平台视频披露，特朗普公开盛赞加密货币是「一件大事」。他直言目前看到越来越多人使用比特币进行日常支付，甚至表示民众「已经不知道现金为何物」。</p>
+<p><strong>分析</strong>：政治核心人物的公开背书直接强化了比特币作为主流结算货币的合法性预期。这种高调表态旨在拉拢庞大的加密持币选民，预示着若其掌权将推动有利于加密支付普及的宽松监管政策，降低商户采用加密结算的摩擦成本，从基本面上利好支付网关服务商与闪电网络生态。</p>
+<p><strong>Key Takeaway</strong>：顺势增配比特币及闪电网络生态基础设施标的，押注大选前政客竞相对加密行业释放政策红利。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281303" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 俄FSB查封9家无牌加密交易所并拘留逾20人</title>
+<link>https://melroseee-e.github.io/market-daily/#th-a7f0320eaa7d09</link>
+<guid isPermaLink="false">th-a7f0320eaa7d09</guid>
+<pubDate>Sat, 08 Aug 2026 05:15:14 +0800</pubDate>
+<description>规避涉俄非合规OTC平台及混币器相关资产，将交易头寸集中于持牌头部合规交易所。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：crypto-监管 · crypto-交易所 · 宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
+<p><strong>报道</strong>：俄罗斯联邦安全局（FSB）在莫斯科国际商务中心突击查处9家未注册加密交易所，拘留20余名员工，指控其将诈骗资金洗钱至境外。同日，美国亦以涉伊朗违规交易为由宣布制裁两家加密交易所。</p>
+<p><strong>分析</strong>：美俄两国同日加码切断涉制裁与非法资金通道，标志着全球场外法币出入金合规门槛急剧抬升。这种监管高压将迫使灰色资金加速向隐私币或去中心化非托管网络迁移；同时在存量博弈中，具备完善KYC体系的持牌中心化交易所将借机吞噬无牌OTC平台的市场份额。</p>
+<p><strong>Key Takeaway</strong>：规避涉俄非合规OTC平台及混币器相关资产，将交易头寸集中于持牌头部合规交易所。</p>
+<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281318" rel="noopener noreferrer">[1]</a> <a href="https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine" rel="noopener noreferrer">[2]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 美7月非农减2.3万人，现货黄金涨3%（主线·7步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-8f2440d7d3ce8f</link>
+<guid isPermaLink="false">th-8f2440d7d3ce8f</guid>
 <pubDate>Sat, 08 Aug 2026 04:32:20 +0800</pubDate>
 <description>顺势做多现货黄金，依托4368美元一线博弈后续向上空间，同时削减美元资产多头敞口。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美7月非农遇冷及影响」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美国七月非农骤降」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-大宗 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据Gate数据，现货黄金日内涨幅扩大至3%，报4368.18美元/盎司，创下6月17日以来最高水平。此次价格异动同步于美国公布7月非农就业人数减少2.3万人的宏观数据。</p>
 <p><strong>分析</strong>：7月非农就业人数减少2.3万人显示劳动力市场降温，触发市场对宏观环境的重新定价。资金迅速计价宽松预期与避险情绪→大举流入避险资产，直接推升现货黄金至4368.18美元高位。</p>
 <p><strong>Key Takeaway</strong>：顺势做多现货黄金，依托4368美元一线博弈后续向上空间，同时削减美元资产多头敞口。</p>
 <p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281322" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 11 步）</p><ul>
-<li>08-07 20:14 · 华尔街对美7月失业率预期分歧，金价涨2% <a href="https://flash.jin10.com/detail/20260807190849463800" rel="noopener noreferrer">↗</a></li>
-<li>08-07 21:21 · 7月非农减少2.3万人，金价破4300美元 <a href="https://www.techflowpost.com/newsletter/detail_131136.html" rel="noopener noreferrer">↗</a></li>
+<hr><p><strong>📅 本主题时间线</strong>（共 7 步）</p><ul>
 <li>08-07 22:13 · 美国7月非农骤减2.3万致美债与纳指大涨 <a href="https://www.investing.com/news/forex-news/european-bonds-cap-best-week-since-june-as-easing-oil-snaps-bund-selloff-4845170" rel="noopener noreferrer">↗</a></li>
-<li>08-07 22:13 · 现货黄金突破4300美元，赤峰黄金涨近60% <a href="https://cn.investing.com/news/stock-market-news/article-3506542" rel="noopener noreferrer">↗</a></li>
 <li>08-07 23:20 · 7月非农远逊预期削加息动力，海峡或重开 <a href="https://flash.jin10.com/detail/20260807223126163800" rel="noopener noreferrer">↗</a></li>
-<li>08-08 00:12 · Citadel分析师高呼重新开始买入黄金 <a href="https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142" rel="noopener noreferrer">↗</a></li>
 <li>08-08 01:14 · 非农骤降2.3万重挫美元，9月加息预期下调 <a href="https://www.investing.com/news/economy-news/us-rate-futures-cut-chances-of-september-rate-hike-after-jobs-data-4846500" rel="noopener noreferrer">↗</a></li>
 <li>08-08 02:13 · 美财长贝森特称就业报告低估经济实力 <a href="https://flash.jin10.com/detail/20260808014744518800" rel="noopener noreferrer">↗</a></li>
 <li>08-08 03:12 · 美国7月非农缩减2.3万降温美联储加息押注 <a href="https://www.techflowpost.com/newsletter/detail_131174.html" rel="noopener noreferrer">↗</a></li>
@@ -55,20 +418,19 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] Cloudflare飙升11.5%创新高（主线·4步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-e4d99bc8999baa</link>
-<guid isPermaLink="false">th-e4d99bc8999baa</guid>
+<title>[A] Cloudflare飙升11.5%创新高（主线·3步）</title>
+<link>https://melroseee-e.github.io/market-daily/#th-d2538161cee91e</link>
+<guid isPermaLink="false">th-d2538161cee91e</guid>
 <pubDate>Sat, 08 Aug 2026 04:32:20 +0800</pubDate>
 <description>重仓持有并跟随上行趋势做多业绩超预期的云服务核心标的，不猜顶直至动能反转。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「部分科技股业绩大涨」· 最新进展 ↓</p>
+<p style='color:#888'>主线「网络安全股大幅飙升」· 最新进展 ↓</p>
 <p><strong>板块</strong>：美股-科技巨头 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：继此前上调公司年收入预测后，Cloudflare股价在二级市场迎来大幅跃升，单日上涨11.5%，成功创下其股价的历史新高。</p>
 <p><strong>分析</strong>：营收指引上调打破了市场对云服务增速放缓的担忧，直接重估了公司的现金流预期。资金迅速推高股价，反映出在宏观不确定性中，具备确定性收入增长的SaaS基础设施正享有显著的估值溢价。</p>
 <p><strong>Key Takeaway</strong>：重仓持有并跟随上行趋势做多业绩超预期的云服务核心标的，不猜顶直至动能反转。</p>
 <p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281338" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 4 步）</p><ul>
-<li>08-07 20:14 · NET.US二季度盈利超预期且AI流量现拐点 <a href="https://cn.investing.com/news/stock-market-news/article-3506298" rel="noopener noreferrer">↗</a></li>
+<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
 <li>08-07 21:21 · Cloudflare等科技股盘前大幅飙升 <a href="https://cn.investing.com/news/stock-market-news/article-3506424" rel="noopener noreferrer">↗</a></li>
 <li>08-07 22:13 · NET因AI代理流量大涨11.5%创新高 <a href="https://cn.investing.com/news/stock-market-news/article-3506614" rel="noopener noreferrer">↗</a></li>
 <li>08-08 04:32 · Cloudflare飙升11.5%创新高 <a href="https://www.chaincatcher.com/article/2281338" rel="noopener noreferrer">↗</a></li>
@@ -115,20 +477,6 @@
 <p><strong>分析</strong>：监管机构直接点名美式赔率，意味着此类非标衍生品平台将直面合规审查。整改压力不仅会迫使平台调整产品机制，也将显著推高赛道合规成本并引发避险情绪。</p>
 <p><strong>Key Takeaway</strong>：削减涉嫌提供未注册结构化赔率的平台代币敞口。</p>
 <p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281363" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 预测市场「8日伊朗解封」胜率暴跌36.5%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-ee77c697bea8d1</link>
-<guid isPermaLink="false">th-ee77c697bea8d1</guid>
-<pubDate>Sat, 08 Aug 2026 04:32:20 +0800</pubDate>
-<description>做空押注地缘冲突短期内结束的相关预测市场多头合约。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 · crypto-DeFi ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据Catcher Predict监测，Polymarket上「美国宣布伊朗封锁结束」事件中，子市场「8月8日」的「是」选项胜率发生剧烈波动，在1小时内由49.5%暴跌36.5%。</p>
-<p><strong>分析</strong>：赔率的断崖式下跌反映资金对短期达成和解的预期迅速破裂。这种剧烈波动说明可能有掌握边际信息的资金入场下注，直接压制了地缘局势短期内降温的看涨逻辑。</p>
-<p><strong>Key Takeaway</strong>：做空押注地缘冲突短期内结束的相关预测市场多头合约。</p>
-<p><strong>来源</strong>：<a href="https://www.chaincatcher.com/article/2281366" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -286,7 +634,7 @@
 <pubDate>Sat, 08 Aug 2026 04:32:20 +0800</pubDate>
 <description>抢筹不受关税冲击的美国本土多晶硅产能资产，做空对美出口多晶硅敞口极高的海外制造商。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美国加征多晶硅关税」· 最新进展 ↓</p>
+<p style='color:#888'>主线「特朗普多晶硅关税」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · A股-板块 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：据ChainCatcher消息披露，美国总统特朗普已正式签署针对多晶硅的关税行政命令。</p>
 <p><strong>分析</strong>：关税行政命令的落地构筑了实质性的贸易壁垒。多晶硅进口成本被政策性推高，在保护美国本土产能免受海外低价冲击的同时，也严重挤压了高度依赖美国光伏市场的海外多晶硅供应商的利润预期。</p>
@@ -437,7 +785,7 @@
 <pubDate>Sat, 08 Aug 2026 03:12:17 +0800</pubDate>
 <description>逢均线买入国产算力龙头标的，博弈下半年大客户订单落地。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「寒武纪上半年业绩大增」· 最新进展 ↓</p>
+<p style='color:#888'>主线「寒武纪半年度财报」· 最新进展 ↓</p>
 <p><strong>板块</strong>：A股-板块 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：8月7日，寒武纪发布2026年上半年财报。公司实现营业总收入59.96亿元，同比增长108.13%；归母净利润达23.11亿元，同比大幅增长122.61%。</p>
 <p><strong>分析</strong>：营收与净利双双翻倍，印证AI算力需求向芯片端业绩的实质性传导。超122%的利润增速凸显产品放量与盈利能力提升，为国产算力替代周期的估值扩张提供基本面支撑。</p>
@@ -456,7 +804,7 @@
 <pubDate>Sat, 08 Aug 2026 03:12:17 +0800</pubDate>
 <description>逢高做空对利率极度敏感的纳指等成长资产，并增配抗通胀属性强的商品应对政策转向风险。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「联储巴尔金警告收紧」· 最新进展 ↓</p>
+<p style='color:#888'>主线「美联储官员谈抗通胀」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-央行 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：美联储官员巴尔金针对当前通货膨胀形势发表强硬表态。他明确指出，如果在抗击通胀的过程中面临逆风，美联储就必须收紧货币政策。</p>
 <p><strong>分析</strong>：在部分宏观数据走弱的背景下，此番言论属于典型的预期管理，意在对冲市场单边发酵的宽松情绪。巴尔金将收紧动作与抗通胀逆风直接挂钩，为后续政策路径划定了硬性底线。这意味着一旦通胀显现粘性，央行姿态将迅速转为实质性紧缩，从而对全球风险资产估值形成直接压制。</p>
@@ -488,41 +836,17 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] 伊朗正等待最高国安委批准与美阿达成的协议（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-7e630c5d1c2fa6</link>
-<guid isPermaLink="false">th-7e630c5d1c2fa6</guid>
-<pubDate>Sat, 08 Aug 2026 02:13:56 +0800</pubDate>
-<description>逢高做空原油期货，提前定价伊朗原油解禁并重返全球供应链带来的利空冲击。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「伊朗回应美方与协议」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据Axios援引调解国外交官消息，伊朗谈判代表正等待其最高国家安全委员会最终批准一项与美国及阿曼达成的协议，该外交官预计批准「很快会获得」。</p>
-<p><strong>分析</strong>：伊朗最高层若放行该协议，标志着美伊僵局迎来实质性突破。此举将大幅降低波斯湾地缘政治风险，并催生伊朗原油加速重返国际市场的强烈预期，供需两端的同步扭转将对原油价格构成显著下行压力。</p>
-<p><strong>Key Takeaway</strong>：逢高做空原油期货，提前定价伊朗原油解禁并重返全球供应链带来的利空冲击。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260808013555092800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-08 01:14 · 伊朗外交部称特朗普未赢战争即宣称战利品 <a href="https://flash.jin10.com/detail/20260808003933263800" rel="noopener noreferrer">↗</a></li>
-<li>08-08 02:13 · 伊朗正等待最高国安委批准与美阿达成的协议 <a href="https://flash.jin10.com/detail/20260808013555092800" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 胡塞武装打击沙特金恩营地弹药库等军事装备（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-df14ed0d0d69e2</link>
-<guid isPermaLink="false">th-df14ed0d0d69e2</guid>
+<title>[A] 胡塞武装打击沙特金恩营地弹药库等军事装备</title>
+<link>https://melroseee-e.github.io/market-daily/#th-c6a4de4933cbca</link>
+<guid isPermaLink="false">th-c6a4de4933cbca</guid>
 <pubDate>Sat, 08 Aug 2026 02:13:56 +0800</pubDate>
 <description>逢低布局布伦特原油多头头寸，博弈沙特潜在报复行动引发的脉冲式风险溢价。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「红海与中东武装袭击」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A</p>
 <p><strong>报道</strong>：胡塞武装发表声明称，也门武装部队对沙特的集结力量发动了打击，具体目标包括其位于萨赫恩·金恩营地内的相关弹药库、车辆和军事装备。</p>
 <p><strong>分析</strong>：针对沙特军营及弹药库的精确打击显示局部冲突烈度居高不下。这不仅直接消耗对方军备，还可能引发沙特新一轮武力报复，从而推升中东地缘风险溢价，短期内对国际原油等大宗商品价格形成上行催化。</p>
 <p><strong>Key Takeaway</strong>：逢低布局布伦特原油多头头寸，博弈沙特潜在报复行动引发的脉冲式风险溢价。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260808010310234800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-08 01:14 · 也门海军于穆哈附近挫败红海爆炸油轮袭击 <a href="https://flash.jin10.com/detail/20260808004643032800" rel="noopener noreferrer">↗</a></li>
-<li>08-08 02:13 · 胡塞武装打击沙特金恩营地弹药库等军事装备 <a href="https://flash.jin10.com/detail/20260808010310234800" rel="noopener noreferrer">↗</a></li>
-</ul>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -540,25 +864,6 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[S] 特朗普以「严重失职」正式启动罢免美联储库克（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-f1a9ad2a7acb2f</link>
-<guid isPermaLink="false">th-f1a9ad2a7acb2f</guid>
-<pubDate>Sat, 08 Aug 2026 02:13:56 +0800</pubDate>
-<description>逢低做多黄金，做空长端美债以对冲美联储独立性受损的尾部政治风险。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「特朗普欲罢免联储理事」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-央行 · 宏观-地缘 ｜ <strong>重要度</strong>：S ｜ 聚合 4 条快讯</p>
-<p><strong>报道</strong>：据ABC新闻和路透社报道，最高法院裁决后，特朗普正以「严重失职」为由正式启动罢免美联储理事丽莎·库克的程序。白宫已于8月5日致信库克，要求其在21天内对相关陈述提供书面回应。</p>
-<p><strong>分析</strong>：总统试图强行解除美联储理事职务是对央行独立性的空前挑战。该动作将加剧市场对货币政策政治化的担忧，削弱美元信用底座，推升长端美债收益率的政治风险溢价，同时为传统避险资产提供强力支撑。</p>
-<p><strong>Key Takeaway</strong>：逢低做多黄金，做空长端美债以对冲美联储独立性受损的尾部政治风险。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/trump-moving-forward-with-attempt-to-fire-lisa-cook-after-supreme-court-ruling-abcnews-4847248" rel="noopener noreferrer">[1]</a> <a href="https://www.investing.com/news/economy-news/trump-reopens-effort-to-remove-fed-cook-following-supreme-court-ruling--abc-4847263" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260808010047168800" rel="noopener noreferrer">[3]</a> <a href="https://flash.jin10.com/detail/20260808014409531800" rel="noopener noreferrer">[4]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-08 01:14 · 特朗普在最高法院受挫后仍欲解雇联储理事 <a href="https://flash.jin10.com/detail/20260808004923983800" rel="noopener noreferrer">↗</a></li>
-<li>08-08 02:13 · 特朗普以「严重失职」正式启动罢免美联储库克 <a href="https://www.investing.com/news/economy-news/trump-moving-forward-with-attempt-to-fire-lisa-cook-after-supreme-court-ruling-abcnews-4847248" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
 <title>[A] 黎以就监督真主党解除武装国名单达成一致</title>
 <link>https://melroseee-e.github.io/market-daily/#th-3157712b7ffb09</link>
 <guid isPermaLink="false">th-3157712b7ffb09</guid>
@@ -573,23 +878,31 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>[A] ADNOC船只霍尔木兹遇袭致1死20伤（主线·3步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-098ceb26da4bf9</link>
-<guid isPermaLink="false">th-098ceb26da4bf9</guid>
+<title>[A] 也门海军于穆哈附近挫败红海爆炸油轮袭击</title>
+<link>https://melroseee-e.github.io/market-daily/#th-609096483d8686</link>
+<guid isPermaLink="false">th-609096483d8686</guid>
 <pubDate>Sat, 08 Aug 2026 01:14:42 +0800</pubDate>
-<description>逢低布局布伦特原油多单，同时防范航运板块因运费跳涨预期带来的逼空行情。</description>
+<description>逢回调做多欧线集运远月合约，博弈红海绕行常态化带来的运力偏紧逻辑。</description>
 <content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「霍尔木兹海峡船只遇袭」· 最新进展 ↓</p>
 <p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：阿联酋阿布扎比国家石油公司（ADNOC）表示，其船只在霍尔木兹海峡遭遇多起袭击，事件目前已造成1名船员遇难、20人受伤。</p>
-<p><strong>分析</strong>：霍尔木兹海峡作为全球原油咽喉，核心产油国实体船只遇袭直接抬升地缘风险溢价。此事件破坏了原油运输的安全预期，可能引发供应链中断担忧及油价脉冲式拉升。</p>
-<p><strong>Key Takeaway</strong>：逢低布局布伦特原油多单，同时防范航运板块因运费跳涨预期带来的逼空行情。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807220705108800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
-<li>08-07 23:20 · ADNOC霍尔木兹海峡15艘船遭袭影响运营 <a href="https://flash.jin10.com/detail/20260807220425522800" rel="noopener noreferrer">↗</a></li>
-<li>08-08 00:12 · 阿联酋船只遇袭，伊朗称过霍尔木兹需撤制裁 <a href="https://flash.jin10.com/detail/20260807220456201800" rel="noopener noreferrer">↗</a></li>
-<li>08-08 01:14 · ADNOC船只霍尔木兹遇袭致1死20伤 <a href="https://flash.jin10.com/detail/20260807220705108800" rel="noopener noreferrer">↗</a></li>
-</ul>
+<p><strong>报道</strong>：据半岛电视台报道，也门海军部队在靠近穆哈的区域，成功挫败了一起利用载有爆炸物的船只袭击红海一艘油轮的企图。</p>
+<p><strong>分析</strong>：红海航线爆炸船只袭击未遂凸显该水道安全威胁常态化。此类高频袭扰虽被挫败，但足以维持曼德海峡高昂的航运保险费率，迫使商船维持绕行好望角策略，拉长全球运力周转周期，从而支撑欧线集运指数高位运行。</p>
+<p><strong>Key Takeaway</strong>：逢回调做多欧线集运远月合约，博弈红海绕行常态化带来的运力偏紧逻辑。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260808004643032800" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
+<title>[A] 伊朗外交部称特朗普未赢战争即宣称战利品</title>
+<link>https://melroseee-e.github.io/market-daily/#th-a355870fc7e5f6</link>
+<guid isPermaLink="false">th-a355870fc7e5f6</guid>
+<pubDate>Sat, 08 Aug 2026 01:14:42 +0800</pubDate>
+<description>依托原油近期震荡下沿卖出虚值看跌期权收取权利金，博弈地缘溢价支撑。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-地缘 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：伊朗外交部发言人针对特朗普称将对伊采取与委内瑞拉相同做法的言论作出回应。发言人指出，在宣称获得「战争战利品」前必须先赢得战争，直指美国目前深陷僵局且未能实现其恶意目标及耗尽武器储备。</p>
+<p><strong>分析</strong>：特朗普欲对伊实施类委内瑞拉制裁模式的信号引发伊方反击。美伊口头交锋显示制裁博弈陷入僵持，虽暂未构成实质原油断供威胁，但强化了长期地缘冲突预期，为布伦特原油价格中枢构筑了风险溢价底线支撑。</p>
+<p><strong>Key Takeaway</strong>：依托原油近期震荡下沿卖出虚值看跌期权收取权利金，博弈地缘溢价支撑。</p>
+<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260808003933263800" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 <item>
@@ -705,6 +1018,20 @@
 </div>]]></content:encoded>
 </item>
 <item>
+<title>[A] Citadel分析师高呼重新开始买入黄金</title>
+<link>https://melroseee-e.github.io/market-daily/#th-910850c4c21056</link>
+<guid isPermaLink="false">th-910850c4c21056</guid>
+<pubDate>Sat, 08 Aug 2026 00:12:03 +0800</pubDate>
+<description>市价直接买入黄金ETF或实物黄金建立底仓，跟随华尔街顶级对冲基金的右侧发令枪。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-大宗 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：顶级机构Citadel内部的分析师Rubner公开发表最新观点，明确喊话市场，表示现在已经到了重新开始买入黄金的时机。</p>
+<p><strong>分析</strong>：华尔街头部机构释放清晰看多信号，折射出大资金正因应宏观流动性预期或尾部风险重新锚定资产定价。这种公开喊话往往暗示聪明钱已启动右侧建仓，有望激发趋势追随资金涌入，打破金价震荡僵局。</p>
+<p><strong>Key Takeaway</strong>：市价直接买入黄金ETF或实物黄金建立底仓，跟随华尔街顶级对冲基金的右侧发令枪。</p>
+<p><strong>来源</strong>：<a href="https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
+<item>
 <title>[A] Dauch二季度财报超预期，股价暴涨19%</title>
 <link>https://melroseee-e.github.io/market-daily/#th-54966810cfc94f</link>
 <guid isPermaLink="false">th-54966810cfc94f</guid>
@@ -744,354 +1071,6 @@
 <p><strong>分析</strong>：65%的不加息概率标志着资金已将政策暂停作为基准情形定价。这一预期固化将直接压低前端利率，削弱美元利差优势，资金从防守型工具中溢出寻找高收益资产，构成了当前风险偏好回暖的核心微观基础。</p>
 <p><strong>Key Takeaway</strong>：积极买入跌破成本价的主流加密资产，利用期权构建牛市价差策略押注流动性拐点。</p>
 <p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807224435611800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 哈塞特称特朗普不向联储主席沃什提利率建议（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-7abf84dc90acbd</link>
-<guid isPermaLink="false">th-7abf84dc90acbd</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>围绕核心通胀及就业数据顺势交易美债，剥离白宫施压降息的政治风险溢价。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「特朗普评联储主席人选」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-央行 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：白宫国家经济委员会主任哈塞特公开表态，他相信美国总统特朗普不会就利率问题向美联储主席沃什提供建议。</p>
-<p><strong>分析</strong>：白宫经济委员会高官的表态旨在重申美联储货币政策的独立性，缓和市场对行政权力直接干预降息周期的担忧。这表明短期内美联储的决策框架免受外部政治压力，定价模型将纯粹回归宏观基本面。</p>
-<p><strong>Key Takeaway</strong>：围绕核心通胀及就业数据顺势交易美债，剥离白宫施压降息的政治风险溢价。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807220744224800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-07 21:21 · 特朗普称美联储加息决定不全由沃什说了算 <a href="https://www.techflowpost.com/newsletter/detail_131145.html" rel="noopener noreferrer">↗</a></li>
-<li>08-07 23:20 · 哈塞特称特朗普不向联储主席沃什提利率建议 <a href="https://flash.jin10.com/detail/20260807220744224800" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] Manitowoc订单增56%因AI上调指引</title>
-<link>https://melroseee-e.github.io/market-daily/#th-24f57fc5ebf659</link>
-<guid isPermaLink="false">th-24f57fc5ebf659</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>买入Manitowoc，挖掘传统设备供应链中存在AI预期差的同类滞涨标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-财报 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：Manitowoc发布2026年第二季度材料，受人工智能相关收益推动，公司当季订单激增56%，并因此上调了业绩指引。</p>
-<p><strong>分析</strong>：传统机械设备制造商因AI需求出现业绩拐点，56%的订单激增印证了AI基础设施建设对实体供应链的溢出效应。上调指引确认了该趋势的持续性，或将重塑市场对相关设备板块的估值逻辑。</p>
-<p><strong>Key Takeaway</strong>：买入Manitowoc，挖掘传统设备供应链中存在AI预期差的同类滞涨标的。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/company-news/manitowoc-q2-2026-slides-orders-surge-56-guidance-raised-on-ai-gains-93CH-4846989" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 再鼎医药连续两日大幅飙升逾10%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-a0384d62f6d168</link>
-<guid isPermaLink="false">th-a0384d62f6d168</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>依托多头趋势线直接做多再鼎医药，博弈潜在基本面利好兑现前的逼空浪。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-创新药 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：美股市场上，再鼎医药(ZLAB.US)呈现强劲的多头逼空走势。继前一日攀升后，其股价连续第二个交易日大涨，涨幅超过10%。</p>
-<p><strong>分析</strong>：连续两日实现双位数级别上涨，反映出增量主导资金正在不计成本地密集扫货。这种脱离均线的独立上攻形态→直接夯实了新的筹码底线，表明聪明钱正在提前抢跑尚未落地的重大潜在催化剂。</p>
-<p><strong>Key Takeaway</strong>：依托多头趋势线直接做多再鼎医药，博弈潜在基本面利好兑现前的逼空浪。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3506793" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 希捷科技跌逾10%拖累存储芯片股普跌</title>
-<link>https://melroseee-e.github.io/market-daily/#th-233a1fdc275464</link>
-<guid isPermaLink="false">th-233a1fdc275464</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>卖空高库存存储硬件标的，博弈行业周期拐点进一步延后的杀估值风险。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-半导体 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：美股市场存储芯片概念板块出现普遍下跌。其中，希捷科技(STX.US)遭遇资金剧烈抛售，跌幅超过10%。</p>
-<p><strong>分析</strong>：希捷科技的双位数下挫作为风向标，反映市场正对存储行业基本面复苏节奏进行负面重估。巨头领跌→板块普跌的链条，凸显资金对需求端疲软的担忧集中释放，直接压制硬件端估值上限。</p>
-<p><strong>Key Takeaway</strong>：卖空高库存存储硬件标的，博弈行业周期拐点进一步延后的杀估值风险。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3506791" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] SpaceX解禁无抛压，空头回补致其涨逾11%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-7a7aa208366f96</link>
-<guid isPermaLink="false">th-7a7aa208366f96</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>顺势介入具备轧空动能的标的，利用解禁期错杀机会建仓。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-航天 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
-<p><strong>报道</strong>：SpaceX限售股解禁后并未引发市场担忧的抛售，反而因空头回补买盘推动股价持续走高，其日内涨幅最终扩大至超过11%。</p>
-<p><strong>分析</strong>：解禁期未现砸盘彻底打消了筹码供给激增的担忧，迫使前期押注利空的空头资金强行平仓买入，轧空效应成为推动日内现货价格飙升的主导力量。</p>
-<p><strong>Key Takeaway</strong>：顺势介入具备轧空动能的标的，利用解禁期错杀机会建仓。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3506790" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260807223006512800" rel="noopener noreferrer">[2]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] Oklo二季度首达临界，持30亿美元流动性</title>
-<link>https://melroseee-e.github.io/market-daily/#th-b72e70e8864ee8</link>
-<guid isPermaLink="false">th-b72e70e8864ee8</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>积极配置兼具核心技术突破与充裕现金流的核能标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-财报 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：Oklo发布的2026年第二季度演示文稿披露，公司已首次实现核反应堆临界状态，并且目前坐拥高达30亿美元的流动性储备。</p>
-<p><strong>分析</strong>：首次实现临界是核反应技术从研发向量产迈进的关键工程节点。30亿美元的充裕流动性则彻底消除了市场对其商业化前沿烧钱阶段的融资担忧。</p>
-<p><strong>Key Takeaway</strong>：积极配置兼具核心技术突破与充裕现金流的核能标的。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/company-news/oklo-q2-2026-slides-first-criticality-achieved-3b-liquidity-93CH-4846923" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] Ardelyx期权交易激增，股价重挫18%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-9faec695ed0402</link>
-<guid isPermaLink="false">th-9faec695ed0402</guid>
-<pubDate>Fri, 07 Aug 2026 23:20:17 +0800</pubDate>
-<description>规避衍生品异动带来的现货抛售风险，切勿盲目接飞刀。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-创新药 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：Ardelyx在二级市场出现期权交易量异常激增的异动情况，受此影响，其现货股价遭遇大幅抛售，跌幅达到18%。</p>
-<p><strong>分析</strong>：期权成交量的突发性放大叠加现货价格的深度下挫，通常反映出机构资金正在通过衍生品市场进行定向做空或风险对冲，导致现货抛压被显著放大。</p>
-<p><strong>Key Takeaway</strong>：规避衍生品异动带来的现货抛售风险，切勿盲目接飞刀。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-93CH-3506757" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 日财相片山皋月称美日将毫不犹豫干预汇市（主线·3步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-f95a5ef1e2f70f</link>
-<guid isPermaLink="false">th-f95a5ef1e2f70f</guid>
-<pubDate>Fri, 07 Aug 2026 22:13:37 +0800</pubDate>
-<description>择机买入日元看涨期权，防范美日联合入场实际干预引发的汇率剧烈双向波动及空头踩踏。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「美日联手干预汇市」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-外汇 · 宏观-央行 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：日本财务大臣片山皋月接受NHK采访时强调，美日双方一直保持密切沟通，两国将不会犹豫在必要时再次采取行动干预外汇市场。</p>
-<p><strong>分析</strong>：财务大臣释放联合行动信号意在对汇率空头进行口头威慑→强调双边沟通展示了干预的协同性，这将极大增加单边做空日元的潜在成本，短期内有效压制汇率单向贬值预期。</p>
-<p><strong>Key Takeaway</strong>：择机买入日元看涨期权，防范美日联合入场实际干预引发的汇率剧烈双向波动及空头踩踏。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807212003577800" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 3 步）</p><ul>
-<li>08-07 20:14 · 贝莱德称美抛售欧元干预日元加剧长债风险 <a href="https://cn.investing.com/news/stock-market-news/article-3506327" rel="noopener noreferrer">↗</a></li>
-<li>08-07 21:21 · 片山皋月与贝森特称日美将毫不犹豫干预汇市 <a href="https://flash.jin10.com/detail/20260807203333357800" rel="noopener noreferrer">↗</a></li>
-<li>08-07 22:13 · 日财相片山皋月称美日将毫不犹豫干预汇市 <a href="https://flash.jin10.com/detail/20260807212003577800" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 俄罗斯夜间袭击乌克兰7个天然气生产地点</title>
-<link>https://melroseee-e.github.io/market-daily/#th-4414a5dc0a0c59</link>
-<guid isPermaLink="false">th-4414a5dc0a0c59</guid>
-<pubDate>Fri, 07 Aug 2026 22:13:37 +0800</pubDate>
-<description>逢低做多区域天然气期货合约，对冲生产设施遇袭导致的短期能源断供与价格飙升风险。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据乌克兰国家石油天然气公司通报，俄罗斯在夜间发动袭击，针对并打击了乌克兰境内的7个天然气生产地点。</p>
-<p><strong>分析</strong>：针对7个天然气生产地点的打击直接削弱区域产能→供给端突发破坏引发供应链断裂担忧，资金避险情绪升温将迅速传导至交易盘，推高短期天然气价格的风险溢价。</p>
-<p><strong>Key Takeaway</strong>：逢低做多区域天然气期货合约，对冲生产设施遇袭导致的短期能源断供与价格飙升风险。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807211433911800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] SK海力士拟售重庆工厂股权估值约30亿美元（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-38d8edfd664953</link>
-<guid isPermaLink="false">th-38d8edfd664953</guid>
-<pubDate>Fri, 07 Aug 2026 22:13:37 +0800</pubDate>
-<description>逢低布局SK海力士股票，博弈其资产剥离兑现后现金流改善带来的估值修复行情。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「某韩国存储巨头动态」· 最新进展 ↓</p>
-<p><strong>板块</strong>：宏观-地缘 · 美股-半导体 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：SK海力士正考虑出售其位于中国重庆的工厂股权。该项资产的初步估值约为30亿美元。</p>
-<p><strong>分析</strong>：剥离估值达30亿美元的海外工厂股权将带来巨额现金回流→资金注入有望改善资产负债表，使资本配置更集中于核心主业，从而提升整体资金周转效率与资产回报率。</p>
-<p><strong>Key Takeaway</strong>：逢低布局SK海力士股票，博弈其资产剥离兑现后现金流改善带来的估值修复行情。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-93CH-3506652" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-07 21:21 · SK海力士拟投资384亿美元扩张韩国芯片厂 <a href="https://www.techflowpost.com/newsletter/detail_131131.html" rel="noopener noreferrer">↗</a></li>
-<li>08-07 22:13 · SK海力士拟售重庆工厂股权估值约30亿美元 <a href="https://cn.investing.com/news/stock-market-news/article-93CH-3506652" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] ACM二季度营收大增36%且产品组合生变</title>
-<link>https://melroseee-e.github.io/market-daily/#th-4b83976cd32d72</link>
-<guid isPermaLink="false">th-4b83976cd32d72</guid>
-<pubDate>Fri, 07 Aug 2026 22:13:37 +0800</pubDate>
-<description>沿营收高增趋势逢低做多，重点拆解产品组合变动以捕捉潜在的利润率重估空间。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-财报 · 美股-半导体 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：ACM Research发布了2026年第二季度的业绩演示材料。数据显示，公司该季度的营收实现了36%的大幅增长，同时其产品组合也发生了变化。</p>
-<p><strong>分析</strong>：营收的显著增长直接确认了公司核心业务规模的加速扩张。产品组合的切换暗示着供需结构或主打产品周期的演进，这一变化将重新定义后续利润率的释放节奏与营收结构。</p>
-<p><strong>Key Takeaway</strong>：沿营收高增趋势逢低做多，重点拆解产品组合变动以捕捉潜在的利润率重估空间。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/company-news/acm-research-q2-2026-slides-revenue-jumps-36-product-mix-shifts-93CH-4846644" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[S] 北京降非京籍购房门槛至1年且提公积金额度</title>
-<link>https://melroseee-e.github.io/market-daily/#th-c7235a0fe30fef</link>
-<guid isPermaLink="false">th-c7235a0fe30fef</guid>
-<pubDate>Fri, 07 Aug 2026 22:13:37 +0800</pubDate>
-<description>抢筹具备北京核心土储的地产龙头股，融券做空基本面边缘化的弱势房企以对冲大盘风险。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：A股-政策 ｜ <strong>重要度</strong>：S ｜ 聚合 3 条快讯</p>
-<p><strong>报道</strong>：北京多部门联合发文优化房地产政策，非京籍家庭购房的社保或个税缴纳年限正式下调为一年。同时适度提高公积金贷款上限，夫妻双方首套房公积金最高贷款额度达340万元。</p>
-<p><strong>分析</strong>：核心城市限购松绑直接向市场释放积压购买力，社保年限骤降与340万公积金额度形成强力信贷杠杆，将加速刚需与改善型住房需求入市。此举构成对冲楼市下行压力的重磅筹码，向产业链传递明确的信用扩张信号。</p>
-<p><strong>Key Takeaway</strong>：抢筹具备北京核心土储的地产龙头股，融券做空基本面边缘化的弱势房企以对冲大盘风险。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/chinas-beijing-further-relaxes-homebuying-curb-authorities-say-4846779" rel="noopener noreferrer">[1]</a> <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=15977812999427666323&amp;channelId=1119&amp;toc_style_id=feeds_default&amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D15977812999427666323%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default" rel="noopener noreferrer">[2]</a> <a href="https://flash.jin10.com/detail/20260807213231011800" rel="noopener noreferrer">[3]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 无人机袭击致里海管道7月石油装载量降两成</title>
-<link>https://melroseee-e.github.io/market-daily/#th-ffa0d0b2058112</link>
-<guid isPermaLink="false">th-ffa0d0b2058112</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>顺势增配原油多头仓位，利用管线日流量降至130万桶以下的现实缺口博弈油价上行。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 · 宏观-大宗 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：数据及消息源指出，受无人机袭击影响，里海管道联盟7月的石油装载量较原计划落后20%，实际流量已降至每日120万至130万桶。</p>
-<p><strong>分析</strong>：袭击直接造成物理运输受阻，将突发打击转化为实质性的现货减量。装载进度大幅落后不仅冲击短期石油供应链，更将通过现货市场的阶段性供需错配支撑原油的风险溢价。</p>
-<p><strong>Key Takeaway</strong>：顺势增配原油多头仓位，利用管线日流量降至130万桶以下的现实缺口博弈油价上行。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807204442480800" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 加拿大7月失业率回落，新增就业达7.51万</title>
-<link>https://melroseee-e.github.io/market-daily/#th-640f48a2d02472</link>
-<guid isPermaLink="false">th-640f48a2d02472</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>顺势做多加元兑非美弱势货币交叉盘，同时压降加债多头仓位。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-数据 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
-<p><strong>报道</strong>：加拿大7月就业数据表现强劲，当月新增就业人数达7.51万人，大幅超越预期的1.5万及前值1.82万；失业率则由前值的6.5%降至6.4%，低于6.5%的预期。</p>
-<p><strong>分析</strong>：新增就业激增五倍于预期且失业率回落，打破了近期劳动力市场加速降温的悲观叙事。强劲的基本面将显著降低加拿大央行连续大幅降息的紧迫性，短线直接利好加元汇率走强。</p>
-<p><strong>Key Takeaway</strong>：顺势做多加元兑非美弱势货币交叉盘，同时压降加债多头仓位。</p>
-<p><strong>来源</strong>：<a href="https://flash.jin10.com/detail/20260807203002674800" rel="noopener noreferrer">[1]</a> <a href="https://flash.jin10.com/detail/20260807203002642800" rel="noopener noreferrer">[2]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] TakeTwo维持预期，GTA6定于11月发售（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-417bb32d372515</link>
-<guid isPermaLink="false">th-417bb32d372515</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>逢低布局Take-Two正股，博弈「GTA VI」11月发售前的主升浪行情。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「某游戏巨头业绩及发售」· 最新进展 ↓</p>
-<p><strong>板块</strong>：美股-财报 · 美股-科技巨头 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：Take-Two维持了其年度预订收入预期不变，并对外确认「GTA VI」项目正按计划推进，预计将于11月正式发布。</p>
-<p><strong>分析</strong>：维持年度财务指引且确认核心大作「GTA VI」档期，直接打消了市场对该游戏延期的担忧。旗舰产品如期发售将奠定公司财年营收基本盘，并在短期内为股价提供强劲的预期支撑。</p>
-<p><strong>Key Takeaway</strong>：逢低布局Take-Two正股，博弈「GTA VI」11月发售前的主升浪行情。</p>
-<p><strong>来源</strong>：<a href="https://www.investing.com/news/stock-market-news/taketwo-sticks-to-annual-bookings-outlook-says-on-track-for-gta-vi-november-launch-4846091" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-07 20:14 · Take-Two业绩超预期但指引施压股价 <a href="https://cn.investing.com/news/stock-market-news/article-3506329" rel="noopener noreferrer">↗</a></li>
-<li>08-07 21:21 · TakeTwo维持预期，GTA6定于11月发售 <a href="https://www.investing.com/news/stock-market-news/taketwo-sticks-to-annual-bookings-outlook-says-on-track-for-gta-vi-november-launch-4846091" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 沪深拟最晚2027年底终止商品期货等LOF上市（主线·2步）</title>
-<link>https://melroseee-e.github.io/market-daily/#th-4375526e376f7f</link>
-<guid isPermaLink="false">th-4375526e376f7f</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>减仓并规避存在较高溢价的场内商品期货及QDII LOF，转道场外市场布局。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p style='color:#888'>主线「沪深规范特定基金退市」· 最新进展 ↓</p>
-<p><strong>板块</strong>：A股-政策 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：沪深交易所拟完善LOF退出机制。根据安排，商品期货LOF与QDII LOF两类产品最晚将于2027年底终止上市。</p>
-<p><strong>分析</strong>：终止上市将剥离这两类LOF的场内交易属性，使其彻底转为场外申赎模式。这一机制变更将直接抹平相关品种在二级市场可能产生的折溢价空间，倒逼场内资金提前清退或转移。</p>
-<p><strong>Key Takeaway</strong>：减仓并规避存在较高溢价的场内商品期货及QDII LOF，转道场外市场布局。</p>
-<p><strong>来源</strong>：<a href="https://cn.investing.com/news/stock-market-news/article-3506477" rel="noopener noreferrer">[1]</a></p>
-<hr><p><strong>📅 本主题时间线</strong>（共 2 步）</p><ul>
-<li>08-07 20:14 · 深沪交易所公开征求意见拟明确LOF退市情形 <a href="https://m.nbd.com.cn/articles/2026-08-07/4535529.html" rel="noopener noreferrer">↗</a></li>
-<li>08-07 21:21 · 沪深拟最晚2027年底终止商品期货等LOF上市 <a href="https://cn.investing.com/news/stock-market-news/article-3506477" rel="noopener noreferrer">↗</a></li>
-</ul>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 特朗普召集百名矿企高管商讨关键矿产供应</title>
-<link>https://melroseee-e.github.io/market-daily/#th-34fd900e3b69fa</link>
-<guid isPermaLink="false">th-34fd900e3b69fa</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>抢先买入美股关键矿产及稀土开采龙头，博弈圆桌会议后可能出台的实质性产业补贴政策。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：crypto-挖矿 · crypto-监管 · 宏观-大宗 · 宏观-地缘 ｜ <strong>重要度</strong>：A ｜ 聚合 2 条快讯</p>
-<p><strong>报道</strong>：特朗普将于8月7日在美国国务院召集百名全球大型矿业公司高管举行圆桌会议，以探讨「保障美国及盟友的关键矿产供应」，此举或为美股矿业板块带来政策利好。</p>
-<p><strong>分析</strong>：最高层直接协调供应链意味着关键矿产已上升至极高的战略安全级别。此举预示后续大概率配套排他性采购协议或财政补贴，将直接拔高本土及盟友矿企的长期盈利中枢与估值溢价。</p>
-<p><strong>Key Takeaway</strong>：抢先买入美股关键矿产及稀土开采龙头，博弈圆桌会议后可能出台的实质性产业补贴政策。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131157.html" rel="noopener noreferrer">[1]</a> <a href="https://cn.investing.com/news/stock-market-news/article-3506480" rel="noopener noreferrer">[2]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 美政府审查中企境外租借英伟达算力路径</title>
-<link>https://melroseee-e.github.io/market-daily/#th-4833920f115908</link>
-<guid isPermaLink="false">th-4833920f115908</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>规避重度依赖海外云算力的初创AI企业，逢低做多具备自主硬件的国产算力替代标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据Bloomberg报道，美国负责调查出口管制的政府部门，正系统性审查中国AI企业通过境外租用算力，合法获取英伟达先进芯片的绕过禁令路径。</p>
-<p><strong>分析</strong>：监管触角从硬件实体销售向云端虚拟租赁延伸，意在彻底切断算力获取的变通渠道。若审查收紧甚至出台新规，将直接抬升国内大模型厂商的训练成本，同时冲击提供相关服务的海外云厂商营收。</p>
-<p><strong>Key Takeaway</strong>：规避重度依赖海外云算力的初创AI企业，逢低做多具备自主硬件的国产算力替代标的。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131152.html" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 特朗普称AI或比石油重要，赢AI者赢一切</title>
-<link>https://melroseee-e.github.io/market-daily/#th-7ab2ee294da7d4</link>
-<guid isPermaLink="false">th-7ab2ee294da7d4</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>主权博弈推升AI赛道估值溢价，直接超配美股AI算力基础设施核心标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-地缘 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：美国总统特朗普就人工智能发表重磅言论，将其重要性与传统能源类比，称AI「可能比石油还要重要」，并断言「谁赢得人工智能，谁就赢得一切」。</p>
-<p><strong>分析</strong>：国家首脑将AI上升至超越石油的战略资源高度，预示着后续可能伴随国家级资本投入与政策倾斜。核心算力与AI基础设施将直接受益于这种主权级别的战略竞争。</p>
-<p><strong>Key Takeaway</strong>：主权博弈推升AI赛道估值溢价，直接超配美股AI算力基础设施核心标的。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131146.html" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] RWA存款增至74亿美元，DeFi存款降15%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-b95b18755fb865</link>
-<guid isPermaLink="false">th-b95b18755fb865</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>资金向RWA赛道迁徙趋势确立，逢低布局已实现正向现金流的头部RWA协议。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：crypto-DeFi · crypto-RWA ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：据CoinShares与Token Terminal报告，过去一年DeFi整体存款下滑15%，而RWA领域资金呈现逆势流入，总存款规模已攀升至74亿美元。</p>
-<p><strong>分析</strong>：在链上原生收益率下降的背景下，资金明显向实体资产支持的标的转移。RWA赛道的资金净流入反映出大资金正积极寻求合规且具备真实收益的链上通道。</p>
-<p><strong>Key Takeaway</strong>：资金向RWA赛道迁徙趋势确立，逢低布局已实现正向现金流的头部RWA协议。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131143.html" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] Chainlink回购139万枚LINK做储备</title>
-<link>https://melroseee-e.github.io/market-daily/#th-cf7fe72f35a52f</link>
-<guid isPermaLink="false">th-cf7fe72f35a52f</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>依托4390万美元储备节点作为支撑位，逢回调买入LINK博弈筹码集中带来的价格溢价。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：crypto-DeFi ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：8月7日，分析师Onchain Lens监测显示Chainlink通过CoWSwap完成了多次代币兑换。该操作累计回购139万枚LINK，直接将其储备规模推升至4390万美元。</p>
-<p><strong>分析</strong>：项目方在去中心化交易所持续吸筹，实质性抽离了二级市场流通盘。这一举动向市场明确注入流动性背书，其千万级别的资金壁垒有望对LINK中短期价格形成强有力的底部支撑。</p>
-<p><strong>Key Takeaway</strong>：依托4390万美元储备节点作为支撑位，逢回调买入LINK博弈筹码集中带来的价格溢价。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131134.html" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 摩根大通料数据通信市场五年复合增速达28%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-2e75440ec6eab6</link>
-<guid isPermaLink="false">th-2e75440ec6eab6</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>切换多头仓位至具备硅光技术及CPO先进封装量产能力的光通信龙头厂商。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-半导体 · 美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：摩根大通8月6日研报引述LightCounting预测称，数据通信市场2025至2030年复合增速将达28%，规模自200亿美元起跳。其中NPO/CPO技术到2030年将占据四分之一份额。</p>
-<p><strong>分析</strong>：高达28%的复合增速确认了数据互联是AI算力升级的核心瓶颈所在。NPO/CPO技术长期份额将达四分之一，说明光电共封装正加速渗透，这将打破传统可插拔模块的竞争格局，将核心利润引向掌握先进封装的厂商。</p>
-<p><strong>Key Takeaway</strong>：切换多头仓位至具备硅光技术及CPO先进封装量产能力的光通信龙头厂商。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131127.html" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 高盛上调2030年数据中心用电需求增幅至170%</title>
-<link>https://melroseee-e.github.io/market-daily/#th-47145c7492c62b</link>
-<guid isPermaLink="false">th-47145c7492c62b</guid>
-<pubDate>Fri, 07 Aug 2026 21:21:48 +0800</pubDate>
-<description>增配具备液冷散热核心技术及绿电直供能力的数据中心温控龙头标的。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：美股-AI算力 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：高盛8月6日研报大幅上调2030年全球数据中心电力需求预期，增幅由117%跃升至170%。预计累计新增用电量将超日本2023年全国总和，凸显AI创新周期正逼近效率拐点。</p>
-<p><strong>分析</strong>：数据中心用电预期的急剧上调揭示了AI产业扩张面临的硬性物理约束。高能耗压力将不可避免地向硬件端传导，从根本上倒逼服务器产业链向低功耗设备、高效能液冷散热以及智能电网配套等方向加速迭代转型。</p>
-<p><strong>Key Takeaway</strong>：增配具备液冷散热核心技术及绿电直供能力的数据中心温控龙头标的。</p>
-<p><strong>来源</strong>：<a href="https://www.techflowpost.com/newsletter/detail_131121.html" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 </channel></rss>
