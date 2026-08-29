@@ -5,7 +5,21 @@
 <atom:link href="https://melroseee-e.github.io/market-daily/feed.xml" rel="self" type="application/rss+xml"/>
 <description>A股 · 美股 · 港股 · Crypto 重要市场新闻,按主线聚合 · 报道·分析·Key Takeaway(agy 生成,零编造)</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 30 Aug 2026 01:13:21 +0800</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 02:12:58 +0800</lastBuildDate>
+<item>
+<title>[A] Bessent警告日元无序波动恐破坏全球市场</title>
+<link>https://melroseee-e.github.io/market-daily/#th-d50ebbc4d3f167</link>
+<guid isPermaLink="false">th-d50ebbc4d3f167</guid>
+<pubDate>Sun, 30 Aug 2026 02:06:40 +0800</pubDate>
+<description>配置日元跨式期权直接做多汇率隐含波动率，同步结清由日元低息融资支持的跨市场套息多头敞口。</description>
+<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
+<p><strong>板块</strong>：宏观-外汇 · 宏观-央行 ｜ <strong>重要度</strong>：A</p>
+<p><strong>报道</strong>：Bessent就外汇市场动态发声。他明确警告称，日元的无序波动可能会对全球市场的稳定造成破坏。</p>
+<p><strong>分析</strong>：日元在国际金融系统中常被用作低息融资货币，其汇率若出现无序剧烈波动，极易触发全球套息交易的非理性集中平仓。跨境资金的迅速撤离将导致全球风险资产面临流动性收紧，进而推升跨市场资产的整体波动率。</p>
+<p><strong>Key Takeaway</strong>：配置日元跨式期权直接做多汇率隐含波动率，同步结清由日元低息融资支持的跨市场套息多头敞口。</p>
+<p><strong>来源</strong>：<a href="https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989" rel="noopener noreferrer">[1]</a></p>
+</div>]]></content:encoded>
+</item>
 <item>
 <title>[A] 伊朗驳斥美财长引导1.3亿桶原油过海峡</title>
 <link>https://melroseee-e.github.io/market-daily/#th-af2f9c1addc347</link>
@@ -970,20 +984,6 @@
 <p><strong>分析</strong>：中东主权资本大额注资叠加特朗普的政治资源，将大幅强化该加密银行的合规背书与吸储能力。此举标志中东财富正借道合规机构，加速向加密资产领域沉淀。</p>
 <p><strong>Key Takeaway</strong>：配置具有中东资本背景或特朗普概念的代币标的，博弈政治与主权资金的双重催化。</p>
 <p><strong>来源</strong>：<a href="https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj" rel="noopener noreferrer">[1]</a></p>
-</div>]]></content:encoded>
-</item>
-<item>
-<title>[A] 华尔街担忧沃什杰克逊霍尔讲话内容</title>
-<link>https://melroseee-e.github.io/market-daily/#th-1c04bac8f5de99</link>
-<guid isPermaLink="false">th-1c04bac8f5de99</guid>
-<pubDate>Sat, 29 Aug 2026 06:16:26 +0800</pubDate>
-<description>做多波动率或构建期权保护组合，规避沃什讲话落地时可能引发的资产无序震荡。</description>
-<content:encoded><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;font-size:16px;line-height:1.75;max-width:760px;">
-<p><strong>板块</strong>：宏观-央行 ｜ <strong>重要度</strong>：A</p>
-<p><strong>报道</strong>：斯蒂芬·英尼斯撰文指出，华尔街正密切关注沃什即将发表的杰克逊霍尔讲话，市场对其届时可能释放的发言内容与政策信号表现出普遍的担忧情绪。</p>
-<p><strong>分析</strong>：杰克逊霍尔讲话历来是重要货币政策风向标。华尔街的担忧凸显出资金对潜在流动性拐点的极度敏感，沃什的表态将触发宏观预期的重估与风险资产的重新定价。</p>
-<p><strong>Key Takeaway</strong>：做多波动率或构建期权保护组合，规避沃什讲话落地时可能引发的资产无序震荡。</p>
-<p><strong>来源</strong>：<a href="https://www.odaily.news/zh-CN/post/5212745" rel="noopener noreferrer">[1]</a></p>
 </div>]]></content:encoded>
 </item>
 </channel></rss>
